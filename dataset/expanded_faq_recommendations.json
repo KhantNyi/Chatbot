@@ -1,0 +1,402 @@
+[
+    {
+        "question": "I want to work with data.",
+        "answer": "If you're interested in working with data, consider these courses:\n- **CSX201: Data Science Foundations** \u2013 Covers Python, statistics, and data analysis\n- **CSX310: Database Management Systems** \u2013 Focuses on SQL and NoSQL databases\n- **ITX220: Business Analytics** \u2013 A mix of business and data-driven decision-making\n- **CSX450: Big Data Technologies** \u2013 Learn about Hadoop, Spark, and large-scale data processing\n- **ITX340: Data Visualization** \u2013 Teaches how to present complex data effectively\n"
+    },
+    {
+        "question": "I want to learn coding.",
+        "answer": "If you're interested in learning to code, these courses are ideal:\n- **CSX101: Introduction to Programming** \u2013 A beginner-friendly course using Python\n- **CSX202: Object-Oriented Programming** \u2013 Focuses on Java and OOP principles\n- **ITX150: Web Development Basics** \u2013 Covers HTML, CSS, and JavaScript for front-end development\n- **CSX250: Full-Stack Development** \u2013 Learn both frontend and backend web development\n- **ITX360: Mobile App Development** \u2013 Covers Android and iOS development using React Native"
+    },
+    {
+        "question": "I don't want to code.",
+        "answer": "For non-coding tech roles, these courses are useful:\n- **ITX310: IT Project Management** \u2013 Learn to manage tech teams without coding\n- **CSX420: UI/UX Design Principles** \u2013 Focus on user experience and interface design\n- **ITX280: Digital Marketing Strategies** \u2013 Uses data and analytics for marketing\n- **ITX430: Cybersecurity Management** \u2013 Learn about security policies and risk management\n- **CSX370: AI Ethics and Policy** \u2013 Covers ethical implications of artificial intelligence"
+    },
+    {
+        "question": "I want to do cybersecurity.",
+        "answer": "Cybersecurity is a critical field. These courses provide strong foundations:\n- **CSX350: Ethical Hacking** \u2013 Learn penetration testing and security vulnerabilities\n- **ITX340: Network Security** \u2013 Focuses on securing networks and preventing attacks\n- **CSX450: Cyber Threat Intelligence** \u2013 Learn how to analyze and prevent cyber threats\n- **ITX480: Cryptography and Encryption** \u2013 Covers encryption algorithms and secure communication\n- **CSX490: Incident Response and Forensics** \u2013 Learn how to handle cyber attacks and data breaches"
+    },
+    {
+        "question": "I want to do AI and machine learning.",
+        "answer": "AI and ML are shaping the future. These courses provide a strong start:\n- **CSX370: Artificial Intelligence** \u2013 Introduction to AI concepts and applications\n- **CSX380: Machine Learning Foundations** \u2013 Covers supervised and unsupervised learning\n- **CSX460: Deep Learning** \u2013 Advanced topics including neural networks and TensorFlow\n- **CSX475: Natural Language Processing** \u2013 Learn about AI models for text processing\n- **ITX490: AI for Business** \u2013 Focuses on real-world AI applications in business"
+    },
+    {
+        "question": "I want to do business and IT.",
+        "answer": "Combining business and IT creates great career opportunities. These courses can help:\n- **ITX250: Business Intelligence** \u2013 Learn how IT supports business decision-making\n- **CSX310: Database Management Systems** \u2013 Essential for data-driven business solutions\n- **ITX400: IT Strategy and Governance** \u2013 Learn how IT aligns with business goals\n- **ITX420: Financial Technology (FinTech)** \u2013 Covers blockchain, digital payments, and banking tech\n- **CSX430: E-Commerce Development** \u2013 Learn how to build and manage online stores"
+    },
+    {
+        "question": "I'm interested in work with data.",
+        "answer": "If you're interested in working with data, consider these courses:\n- **CSX201: Data Science Foundations** \u2013 Covers Python, statistics, and data analysis\n- **CSX310: Database Management Systems** \u2013 Focuses on SQL and NoSQL databases\n- **ITX220: Business Analytics** \u2013 A mix of business and data-driven decision-making\n- **CSX450: Big Data Technologies** \u2013 Learn about Hadoop, Spark, and large-scale data processing\n- **ITX340: Data Visualization** \u2013 Teaches how to present complex data effectively\n"
+    },
+    {
+        "question": "I'm interested in learn coding.",
+        "answer": "If you're interested in learning to code, these courses are ideal:\n- **CSX101: Introduction to Programming** \u2013 A beginner-friendly course using Python\n- **CSX202: Object-Oriented Programming** \u2013 Focuses on Java and OOP principles\n- **ITX150: Web Development Basics** \u2013 Covers HTML, CSS, and JavaScript for front-end development\n- **CSX250: Full-Stack Development** \u2013 Learn both frontend and backend web development\n- **ITX360: Mobile App Development** \u2013 Covers Android and iOS development using React Native"
+    },
+    {
+        "question": "I don't want to code.",
+        "answer": "For non-coding tech roles, these courses are useful:\n- **ITX310: IT Project Management** \u2013 Learn to manage tech teams without coding\n- **CSX420: UI/UX Design Principles** \u2013 Focus on user experience and interface design\n- **ITX280: Digital Marketing Strategies** \u2013 Uses data and analytics for marketing\n- **ITX430: Cybersecurity Management** \u2013 Learn about security policies and risk management\n- **CSX370: AI Ethics and Policy** \u2013 Covers ethical implications of artificial intelligence"
+    },
+    {
+        "question": "I'm interested in do cybersecurity.",
+        "answer": "Cybersecurity is a critical field. Other options include provide strong foundations:\n- **CSX350: Ethical Hacking** \u2013 Learn penetration testing and security vulnerabilities\n- **ITX340: Network Security** \u2013 Focuses on securing networks and preventing attacks\n- **CSX450: Cyber Threat Intelligence** \u2013 Learn how to analyze and prevent cyber threats\n- **ITX480: Cryptography and Encryption** \u2013 Covers encryption algorithms and secure communication\n- **CSX490: Incident Response and Forensics** \u2013 Learn how to handle cyber attacks and data breaches"
+    },
+    {
+        "question": "I'm interested in do AI and machine learning.",
+        "answer": "AI and ML are shaping the future. Other options include provide a strong start:\n- **CSX370: Artificial Intelligence** \u2013 Introduction to AI concepts and applications\n- **CSX380: Machine Learning Foundations** \u2013 Covers supervised and unsupervised learning\n- **CSX460: Deep Learning** \u2013 Advanced topics including neural networks and TensorFlow\n- **CSX475: Natural Language Processing** \u2013 Learn about AI models for text processing\n- **ITX490: AI for Business** \u2013 Focuses on real-world AI applications in business"
+    },
+    {
+        "question": "I'm interested in do business and IT.",
+        "answer": "Combining business and IT creates great career opportunities. Other options include can help:\n- **ITX250: Business Intelligence** \u2013 Learn how IT supports business decision-making\n- **CSX310: Database Management Systems** \u2013 Essential for data-driven business solutions\n- **ITX400: IT Strategy and Governance** \u2013 Learn how IT aligns with business goals\n- **ITX420: Financial Technology (FinTech)** \u2013 Covers blockchain, digital payments, and banking tech\n- **CSX430: E-Commerce Development** \u2013 Learn how to build and manage online stores"
+    },
+    {
+        "question": "I'm interested in work with data.",
+        "answer": "If you're interested in working with data, consider these courses:\n- **CSX201: Data Science Foundations** \u2013 Covers Python, statistics, and data analysis\n- **CSX310: Database Management Systems** \u2013 Focuses on SQL and NoSQL databases\n- **ITX220: Business Analytics** \u2013 A mix of business and data-driven decision-making\n- **CSX450: Big Data Technologies** \u2013 Learn about Hadoop, Spark, and large-scale data processing\n- **ITX340: Data Visualization** \u2013 Teaches how to present complex data effectively\n"
+    },
+    {
+        "question": "I'm interested in learn coding.",
+        "answer": "If you're interested in learning to code, these courses are ideal:\n- **CSX101: Introduction to Programming** \u2013 A beginner-friendly course using Python\n- **CSX202: Object-Oriented Programming** \u2013 Focuses on Java and OOP principles\n- **ITX150: Web Development Basics** \u2013 Covers HTML, CSS, and JavaScript for front-end development\n- **CSX250: Full-Stack Development** \u2013 Learn both frontend and backend web development\n- **ITX360: Mobile App Development** \u2013 Covers Android and iOS development using React Native"
+    },
+    {
+        "question": "I don't want to code.",
+        "answer": "For non-coding tech roles, these courses are useful:\n- **ITX310: IT Project Management** \u2013 Learn to manage tech teams without coding\n- **CSX420: UI/UX Design Principles** \u2013 Focus on user experience and interface design\n- **ITX280: Digital Marketing Strategies** \u2013 Uses data and analytics for marketing\n- **ITX430: Cybersecurity Management** \u2013 Learn about security policies and risk management\n- **CSX370: AI Ethics and Policy** \u2013 Covers ethical implications of artificial intelligence"
+    },
+    {
+        "question": "I'm interested in do cybersecurity.",
+        "answer": "Cybersecurity is a critical field. Other options include provide strong foundations:\n- **CSX350: Ethical Hacking** \u2013 Learn penetration testing and security vulnerabilities\n- **ITX340: Network Security** \u2013 Focuses on securing networks and preventing attacks\n- **CSX450: Cyber Threat Intelligence** \u2013 Learn how to analyze and prevent cyber threats\n- **ITX480: Cryptography and Encryption** \u2013 Covers encryption algorithms and secure communication\n- **CSX490: Incident Response and Forensics** \u2013 Learn how to handle cyber attacks and data breaches"
+    },
+    {
+        "question": "I'm interested in do AI and machine learning.",
+        "answer": "AI and ML are shaping the future. Other options include provide a strong start:\n- **CSX370: Artificial Intelligence** \u2013 Introduction to AI concepts and applications\n- **CSX380: Machine Learning Foundations** \u2013 Covers supervised and unsupervised learning\n- **CSX460: Deep Learning** \u2013 Advanced topics including neural networks and TensorFlow\n- **CSX475: Natural Language Processing** \u2013 Learn about AI models for text processing\n- **ITX490: AI for Business** \u2013 Focuses on real-world AI applications in business"
+    },
+    {
+        "question": "I'm interested in do business and IT.",
+        "answer": "Combining business and IT creates great career opportunities. Other options include can help:\n- **ITX250: Business Intelligence** \u2013 Learn how IT supports business decision-making\n- **CSX310: Database Management Systems** \u2013 Essential for data-driven business solutions\n- **ITX400: IT Strategy and Governance** \u2013 Learn how IT aligns with business goals\n- **ITX420: Financial Technology (FinTech)** \u2013 Covers blockchain, digital payments, and banking tech\n- **CSX430: E-Commerce Development** \u2013 Learn how to build and manage online stores"
+    },
+    {
+        "question": "I'm interested in work with data.",
+        "answer": "If you're interested in working with data, consider these courses:\n- **CSX201: Data Science Foundations** \u2013 Covers Python, statistics, and data analysis\n- **CSX310: Database Management Systems** \u2013 Focuses on SQL and NoSQL databases\n- **ITX220: Business Analytics** \u2013 A mix of business and data-driven decision-making\n- **CSX450: Big Data Technologies** \u2013 Learn about Hadoop, Spark, and large-scale data processing\n- **ITX340: Data Visualization** \u2013 Teaches how to present complex data effectively\n"
+    },
+    {
+        "question": "I'm interested in learn coding.",
+        "answer": "If you're interested in learning to code, these courses are ideal:\n- **CSX101: Introduction to Programming** \u2013 A beginner-friendly course using Python\n- **CSX202: Object-Oriented Programming** \u2013 Focuses on Java and OOP principles\n- **ITX150: Web Development Basics** \u2013 Covers HTML, CSS, and JavaScript for front-end development\n- **CSX250: Full-Stack Development** \u2013 Learn both frontend and backend web development\n- **ITX360: Mobile App Development** \u2013 Covers Android and iOS development using React Native"
+    },
+    {
+        "question": "I don't want to code.",
+        "answer": "For non-coding tech roles, these courses are useful:\n- **ITX310: IT Project Management** \u2013 Learn to manage tech teams without coding\n- **CSX420: UI/UX Design Principles** \u2013 Focus on user experience and interface design\n- **ITX280: Digital Marketing Strategies** \u2013 Uses data and analytics for marketing\n- **ITX430: Cybersecurity Management** \u2013 Learn about security policies and risk management\n- **CSX370: AI Ethics and Policy** \u2013 Covers ethical implications of artificial intelligence"
+    },
+    {
+        "question": "I'm interested in do cybersecurity.",
+        "answer": "Cybersecurity is a critical field. Other options include provide strong foundations:\n- **CSX350: Ethical Hacking** \u2013 Learn penetration testing and security vulnerabilities\n- **ITX340: Network Security** \u2013 Focuses on securing networks and preventing attacks\n- **CSX450: Cyber Threat Intelligence** \u2013 Learn how to analyze and prevent cyber threats\n- **ITX480: Cryptography and Encryption** \u2013 Covers encryption algorithms and secure communication\n- **CSX490: Incident Response and Forensics** \u2013 Learn how to handle cyber attacks and data breaches"
+    },
+    {
+        "question": "I'm interested in work with data.",
+        "answer": "If you're interested in working with data, consider these courses:\n- **CSX201: Data Science Foundations** \u2013 Covers Python, statistics, and data analysis\n- **CSX310: Database Management Systems** \u2013 Focuses on SQL and NoSQL databases\n- **ITX220: Business Analytics** \u2013 A mix of business and data-driven decision-making\n- **CSX450: Big Data Technologies** \u2013 Learn about Hadoop, Spark, and large-scale data processing\n- **ITX340: Data Visualization** \u2013 Teaches how to present complex data effectively\n"
+    },
+    {
+        "question": "I'm interested in learn coding.",
+        "answer": "If you're interested in learning to code, these courses are ideal:\n- **CSX101: Introduction to Programming** \u2013 A beginner-friendly course using Python\n- **CSX202: Object-Oriented Programming** \u2013 Focuses on Java and OOP principles\n- **ITX150: Web Development Basics** \u2013 Covers HTML, CSS, and JavaScript for front-end development\n- **CSX250: Full-Stack Development** \u2013 Learn both frontend and backend web development\n- **ITX360: Mobile App Development** \u2013 Covers Android and iOS development using React Native"
+    },
+    {
+        "question": "I don't want to code.",
+        "answer": "For non-coding tech roles, these courses are useful:\n- **ITX310: IT Project Management** \u2013 Learn to manage tech teams without coding\n- **CSX420: UI/UX Design Principles** \u2013 Focus on user experience and interface design\n- **ITX280: Digital Marketing Strategies** \u2013 Uses data and analytics for marketing\n- **ITX430: Cybersecurity Management** \u2013 Learn about security policies and risk management\n- **CSX370: AI Ethics and Policy** \u2013 Covers ethical implications of artificial intelligence"
+    },
+    {
+        "question": "I'm interested in do cybersecurity.",
+        "answer": "Cybersecurity is a critical field. Other options include provide strong foundations:\n- **CSX350: Ethical Hacking** \u2013 Learn penetration testing and security vulnerabilities\n- **ITX340: Network Security** \u2013 Focuses on securing networks and preventing attacks\n- **CSX450: Cyber Threat Intelligence** \u2013 Learn how to analyze and prevent cyber threats\n- **ITX480: Cryptography and Encryption** \u2013 Covers encryption algorithms and secure communication\n- **CSX490: Incident Response and Forensics** \u2013 Learn how to handle cyber attacks and data breaches"
+    },
+    {
+        "question": "I'm interested in do AI and machine learning.",
+        "answer": "AI and ML are shaping the future. Other options include provide a strong start:\n- **CSX370: Artificial Intelligence** \u2013 Introduction to AI concepts and applications\n- **CSX380: Machine Learning Foundations** \u2013 Covers supervised and unsupervised learning\n- **CSX460: Deep Learning** \u2013 Advanced topics including neural networks and TensorFlow\n- **CSX475: Natural Language Processing** \u2013 Learn about AI models for text processing\n- **ITX490: AI for Business** \u2013 Focuses on real-world AI applications in business"
+    },
+    {
+        "question": "I'm interested in do business and IT.",
+        "answer": "Combining business and IT creates great career opportunities. Other options include can help:\n- **ITX250: Business Intelligence** \u2013 Learn how IT supports business decision-making\n- **CSX310: Database Management Systems** \u2013 Essential for data-driven business solutions\n- **ITX400: IT Strategy and Governance** \u2013 Learn how IT aligns with business goals\n- **ITX420: Financial Technology (FinTech)** \u2013 Covers blockchain, digital payments, and banking tech\n- **CSX430: E-Commerce Development** \u2013 Learn how to build and manage online stores"
+    },
+    {
+        "question": "I'm interested in work with data.",
+        "answer": "If you're interested in working with data, consider these courses:\n- **CSX201: Data Science Foundations** \u2013 Covers Python, statistics, and data analysis\n- **CSX310: Database Management Systems** \u2013 Focuses on SQL and NoSQL databases\n- **ITX220: Business Analytics** \u2013 A mix of business and data-driven decision-making\n- **CSX450: Big Data Technologies** \u2013 Learn about Hadoop, Spark, and large-scale data processing\n- **ITX340: Data Visualization** \u2013 Teaches how to present complex data effectively\n"
+    },
+    {
+        "question": "I'm interested in learn coding.",
+        "answer": "If you're interested in learning to code, these courses are ideal:\n- **CSX101: Introduction to Programming** \u2013 A beginner-friendly course using Python\n- **CSX202: Object-Oriented Programming** \u2013 Focuses on Java and OOP principles\n- **ITX150: Web Development Basics** \u2013 Covers HTML, CSS, and JavaScript for front-end development\n- **CSX250: Full-Stack Development** \u2013 Learn both frontend and backend web development\n- **ITX360: Mobile App Development** \u2013 Covers Android and iOS development using React Native"
+    },
+    {
+        "question": "I don't want to code.",
+        "answer": "For non-coding tech roles, these courses are useful:\n- **ITX310: IT Project Management** \u2013 Learn to manage tech teams without coding\n- **CSX420: UI/UX Design Principles** \u2013 Focus on user experience and interface design\n- **ITX280: Digital Marketing Strategies** \u2013 Uses data and analytics for marketing\n- **ITX430: Cybersecurity Management** \u2013 Learn about security policies and risk management\n- **CSX370: AI Ethics and Policy** \u2013 Covers ethical implications of artificial intelligence"
+    },
+    {
+        "question": "I'm interested in do cybersecurity.",
+        "answer": "Cybersecurity is a critical field. Other options include provide strong foundations:\n- **CSX350: Ethical Hacking** \u2013 Learn penetration testing and security vulnerabilities\n- **ITX340: Network Security** \u2013 Focuses on securing networks and preventing attacks\n- **CSX450: Cyber Threat Intelligence** \u2013 Learn how to analyze and prevent cyber threats\n- **ITX480: Cryptography and Encryption** \u2013 Covers encryption algorithms and secure communication\n- **CSX490: Incident Response and Forensics** \u2013 Learn how to handle cyber attacks and data breaches"
+    },
+    {
+        "question": "I'm interested in work with data.",
+        "answer": "If you're interested in working with data, consider these courses:\n- **CSX201: Data Science Foundations** \u2013 Covers Python, statistics, and data analysis\n- **CSX310: Database Management Systems** \u2013 Focuses on SQL and NoSQL databases\n- **ITX220: Business Analytics** \u2013 A mix of business and data-driven decision-making\n- **CSX450: Big Data Technologies** \u2013 Learn about Hadoop, Spark, and large-scale data processing\n- **ITX340: Data Visualization** \u2013 Teaches how to present complex data effectively\n"
+    },
+    {
+        "question": "I'm interested in learn coding.",
+        "answer": "If you're interested in learning to code, these courses are ideal:\n- **CSX101: Introduction to Programming** \u2013 A beginner-friendly course using Python\n- **CSX202: Object-Oriented Programming** \u2013 Focuses on Java and OOP principles\n- **ITX150: Web Development Basics** \u2013 Covers HTML, CSS, and JavaScript for front-end development\n- **CSX250: Full-Stack Development** \u2013 Learn both frontend and backend web development\n- **ITX360: Mobile App Development** \u2013 Covers Android and iOS development using React Native"
+    },
+    {
+        "question": "I don't want to code.",
+        "answer": "For non-coding tech roles, these courses are useful:\n- **ITX310: IT Project Management** \u2013 Learn to manage tech teams without coding\n- **CSX420: UI/UX Design Principles** \u2013 Focus on user experience and interface design\n- **ITX280: Digital Marketing Strategies** \u2013 Uses data and analytics for marketing\n- **ITX430: Cybersecurity Management** \u2013 Learn about security policies and risk management\n- **CSX370: AI Ethics and Policy** \u2013 Covers ethical implications of artificial intelligence"
+    },
+    {
+        "question": "I'm interested in do cybersecurity.",
+        "answer": "Cybersecurity is a critical field. Other options include provide strong foundations:\n- **CSX350: Ethical Hacking** \u2013 Learn penetration testing and security vulnerabilities\n- **ITX340: Network Security** \u2013 Focuses on securing networks and preventing attacks\n- **CSX450: Cyber Threat Intelligence** \u2013 Learn how to analyze and prevent cyber threats\n- **ITX480: Cryptography and Encryption** \u2013 Covers encryption algorithms and secure communication\n- **CSX490: Incident Response and Forensics** \u2013 Learn how to handle cyber attacks and data breaches"
+    },
+    {
+        "question": "I'm interested in do AI and machine learning.",
+        "answer": "AI and ML are shaping the future. Other options include provide a strong start:\n- **CSX370: Artificial Intelligence** \u2013 Introduction to AI concepts and applications\n- **CSX380: Machine Learning Foundations** \u2013 Covers supervised and unsupervised learning\n- **CSX460: Deep Learning** \u2013 Advanced topics including neural networks and TensorFlow\n- **CSX475: Natural Language Processing** \u2013 Learn about AI models for text processing\n- **ITX490: AI for Business** \u2013 Focuses on real-world AI applications in business"
+    },
+    {
+        "question": "I'm interested in do business and IT.",
+        "answer": "Combining business and IT creates great career opportunities. Other options include can help:\n- **ITX250: Business Intelligence** \u2013 Learn how IT supports business decision-making\n- **CSX310: Database Management Systems** \u2013 Essential for data-driven business solutions\n- **ITX400: IT Strategy and Governance** \u2013 Learn how IT aligns with business goals\n- **ITX420: Financial Technology (FinTech)** \u2013 Covers blockchain, digital payments, and banking tech\n- **CSX430: E-Commerce Development** \u2013 Learn how to build and manage online stores"
+    },
+    {
+        "question": "I'm interested in work with data.",
+        "answer": "If you're interested in working with data, consider these courses:\n- **CSX201: Data Science Foundations** \u2013 Covers Python, statistics, and data analysis\n- **CSX310: Database Management Systems** \u2013 Focuses on SQL and NoSQL databases\n- **ITX220: Business Analytics** \u2013 A mix of business and data-driven decision-making\n- **CSX450: Big Data Technologies** \u2013 Learn about Hadoop, Spark, and large-scale data processing\n- **ITX340: Data Visualization** \u2013 Teaches how to present complex data effectively\n"
+    },
+    {
+        "question": "I'm interested in learn coding.",
+        "answer": "If you're interested in learning to code, these courses are ideal:\n- **CSX101: Introduction to Programming** \u2013 A beginner-friendly course using Python\n- **CSX202: Object-Oriented Programming** \u2013 Focuses on Java and OOP principles\n- **ITX150: Web Development Basics** \u2013 Covers HTML, CSS, and JavaScript for front-end development\n- **CSX250: Full-Stack Development** \u2013 Learn both frontend and backend web development\n- **ITX360: Mobile App Development** \u2013 Covers Android and iOS development using React Native"
+    },
+    {
+        "question": "I don't want to code.",
+        "answer": "For non-coding tech roles, these courses are useful:\n- **ITX310: IT Project Management** \u2013 Learn to manage tech teams without coding\n- **CSX420: UI/UX Design Principles** \u2013 Focus on user experience and interface design\n- **ITX280: Digital Marketing Strategies** \u2013 Uses data and analytics for marketing\n- **ITX430: Cybersecurity Management** \u2013 Learn about security policies and risk management\n- **CSX370: AI Ethics and Policy** \u2013 Covers ethical implications of artificial intelligence"
+    },
+    {
+        "question": "I'm interested in do cybersecurity.",
+        "answer": "Cybersecurity is a critical field. Other options include provide strong foundations:\n- **CSX350: Ethical Hacking** \u2013 Learn penetration testing and security vulnerabilities\n- **ITX340: Network Security** \u2013 Focuses on securing networks and preventing attacks\n- **CSX450: Cyber Threat Intelligence** \u2013 Learn how to analyze and prevent cyber threats\n- **ITX480: Cryptography and Encryption** \u2013 Covers encryption algorithms and secure communication\n- **CSX490: Incident Response and Forensics** \u2013 Learn how to handle cyber attacks and data breaches"
+    },
+    {
+        "question": "I'm interested in work with data.",
+        "answer": "If you're interested in working with data, consider these courses:\n- **CSX201: Data Science Foundations** \u2013 Covers Python, statistics, and data analysis\n- **CSX310: Database Management Systems** \u2013 Focuses on SQL and NoSQL databases\n- **ITX220: Business Analytics** \u2013 A mix of business and data-driven decision-making\n- **CSX450: Big Data Technologies** \u2013 Learn about Hadoop, Spark, and large-scale data processing\n- **ITX340: Data Visualization** \u2013 Teaches how to present complex data effectively\n"
+    },
+    {
+        "question": "I'm interested in learn coding.",
+        "answer": "If you're interested in learning to code, these courses are ideal:\n- **CSX101: Introduction to Programming** \u2013 A beginner-friendly course using Python\n- **CSX202: Object-Oriented Programming** \u2013 Focuses on Java and OOP principles\n- **ITX150: Web Development Basics** \u2013 Covers HTML, CSS, and JavaScript for front-end development\n- **CSX250: Full-Stack Development** \u2013 Learn both frontend and backend web development\n- **ITX360: Mobile App Development** \u2013 Covers Android and iOS development using React Native"
+    },
+    {
+        "question": "I don't want to code.",
+        "answer": "For non-coding tech roles, these courses are useful:\n- **ITX310: IT Project Management** \u2013 Learn to manage tech teams without coding\n- **CSX420: UI/UX Design Principles** \u2013 Focus on user experience and interface design\n- **ITX280: Digital Marketing Strategies** \u2013 Uses data and analytics for marketing\n- **ITX430: Cybersecurity Management** \u2013 Learn about security policies and risk management\n- **CSX370: AI Ethics and Policy** \u2013 Covers ethical implications of artificial intelligence"
+    },
+    {
+        "question": "I'm interested in do cybersecurity.",
+        "answer": "Cybersecurity is a critical field. Other options include provide strong foundations:\n- **CSX350: Ethical Hacking** \u2013 Learn penetration testing and security vulnerabilities\n- **ITX340: Network Security** \u2013 Focuses on securing networks and preventing attacks\n- **CSX450: Cyber Threat Intelligence** \u2013 Learn how to analyze and prevent cyber threats\n- **ITX480: Cryptography and Encryption** \u2013 Covers encryption algorithms and secure communication\n- **CSX490: Incident Response and Forensics** \u2013 Learn how to handle cyber attacks and data breaches"
+    },
+    {
+        "question": "I'm interested in do AI and machine learning.",
+        "answer": "AI and ML are shaping the future. Other options include provide a strong start:\n- **CSX370: Artificial Intelligence** \u2013 Introduction to AI concepts and applications\n- **CSX380: Machine Learning Foundations** \u2013 Covers supervised and unsupervised learning\n- **CSX460: Deep Learning** \u2013 Advanced topics including neural networks and TensorFlow\n- **CSX475: Natural Language Processing** \u2013 Learn about AI models for text processing\n- **ITX490: AI for Business** \u2013 Focuses on real-world AI applications in business"
+    },
+    {
+        "question": "I'm interested in do business and IT.",
+        "answer": "Combining business and IT creates great career opportunities. Other options include can help:\n- **ITX250: Business Intelligence** \u2013 Learn how IT supports business decision-making\n- **CSX310: Database Management Systems** \u2013 Essential for data-driven business solutions\n- **ITX400: IT Strategy and Governance** \u2013 Learn how IT aligns with business goals\n- **ITX420: Financial Technology (FinTech)** \u2013 Covers blockchain, digital payments, and banking tech\n- **CSX430: E-Commerce Development** \u2013 Learn how to build and manage online stores"
+    },
+    {
+        "question": "I'm interested in work with data.",
+        "answer": "If you're interested in working with data, consider these courses:\n- **CSX201: Data Science Foundations** \u2013 Covers Python, statistics, and data analysis\n- **CSX310: Database Management Systems** \u2013 Focuses on SQL and NoSQL databases\n- **ITX220: Business Analytics** \u2013 A mix of business and data-driven decision-making\n- **CSX450: Big Data Technologies** \u2013 Learn about Hadoop, Spark, and large-scale data processing\n- **ITX340: Data Visualization** \u2013 Teaches how to present complex data effectively\n"
+    },
+    {
+        "question": "I'm interested in learn coding.",
+        "answer": "If you're interested in learning to code, these courses are ideal:\n- **CSX101: Introduction to Programming** \u2013 A beginner-friendly course using Python\n- **CSX202: Object-Oriented Programming** \u2013 Focuses on Java and OOP principles\n- **ITX150: Web Development Basics** \u2013 Covers HTML, CSS, and JavaScript for front-end development\n- **CSX250: Full-Stack Development** \u2013 Learn both frontend and backend web development\n- **ITX360: Mobile App Development** \u2013 Covers Android and iOS development using React Native"
+    },
+    {
+        "question": "I don't want to code.",
+        "answer": "For non-coding tech roles, these courses are useful:\n- **ITX310: IT Project Management** \u2013 Learn to manage tech teams without coding\n- **CSX420: UI/UX Design Principles** \u2013 Focus on user experience and interface design\n- **ITX280: Digital Marketing Strategies** \u2013 Uses data and analytics for marketing\n- **ITX430: Cybersecurity Management** \u2013 Learn about security policies and risk management\n- **CSX370: AI Ethics and Policy** \u2013 Covers ethical implications of artificial intelligence"
+    },
+    {
+        "question": "I'm interested in do cybersecurity.",
+        "answer": "Cybersecurity is a critical field. Other options include provide strong foundations:\n- **CSX350: Ethical Hacking** \u2013 Learn penetration testing and security vulnerabilities\n- **ITX340: Network Security** \u2013 Focuses on securing networks and preventing attacks\n- **CSX450: Cyber Threat Intelligence** \u2013 Learn how to analyze and prevent cyber threats\n- **ITX480: Cryptography and Encryption** \u2013 Covers encryption algorithms and secure communication\n- **CSX490: Incident Response and Forensics** \u2013 Learn how to handle cyber attacks and data breaches"
+    },
+    {
+        "question": "I'm interested in work with data.",
+        "answer": "If you're interested in working with data, consider these courses:\n- **CSX201: Data Science Foundations** \u2013 Covers Python, statistics, and data analysis\n- **CSX310: Database Management Systems** \u2013 Focuses on SQL and NoSQL databases\n- **ITX220: Business Analytics** \u2013 A mix of business and data-driven decision-making\n- **CSX450: Big Data Technologies** \u2013 Learn about Hadoop, Spark, and large-scale data processing\n- **ITX340: Data Visualization** \u2013 Teaches how to present complex data effectively\n"
+    },
+    {
+        "question": "I'm interested in learn coding.",
+        "answer": "If you're interested in learning to code, these courses are ideal:\n- **CSX101: Introduction to Programming** \u2013 A beginner-friendly course using Python\n- **CSX202: Object-Oriented Programming** \u2013 Focuses on Java and OOP principles\n- **ITX150: Web Development Basics** \u2013 Covers HTML, CSS, and JavaScript for front-end development\n- **CSX250: Full-Stack Development** \u2013 Learn both frontend and backend web development\n- **ITX360: Mobile App Development** \u2013 Covers Android and iOS development using React Native"
+    },
+    {
+        "question": "I don't want to code.",
+        "answer": "For non-coding tech roles, these courses are useful:\n- **ITX310: IT Project Management** \u2013 Learn to manage tech teams without coding\n- **CSX420: UI/UX Design Principles** \u2013 Focus on user experience and interface design\n- **ITX280: Digital Marketing Strategies** \u2013 Uses data and analytics for marketing\n- **ITX430: Cybersecurity Management** \u2013 Learn about security policies and risk management\n- **CSX370: AI Ethics and Policy** \u2013 Covers ethical implications of artificial intelligence"
+    },
+    {
+        "question": "I'm interested in do cybersecurity.",
+        "answer": "Cybersecurity is a critical field. Other options include provide strong foundations:\n- **CSX350: Ethical Hacking** \u2013 Learn penetration testing and security vulnerabilities\n- **ITX340: Network Security** \u2013 Focuses on securing networks and preventing attacks\n- **CSX450: Cyber Threat Intelligence** \u2013 Learn how to analyze and prevent cyber threats\n- **ITX480: Cryptography and Encryption** \u2013 Covers encryption algorithms and secure communication\n- **CSX490: Incident Response and Forensics** \u2013 Learn how to handle cyber attacks and data breaches"
+    },
+    {
+        "question": "I'm interested in do AI and machine learning.",
+        "answer": "AI and ML are shaping the future. Other options include provide a strong start:\n- **CSX370: Artificial Intelligence** \u2013 Introduction to AI concepts and applications\n- **CSX380: Machine Learning Foundations** \u2013 Covers supervised and unsupervised learning\n- **CSX460: Deep Learning** \u2013 Advanced topics including neural networks and TensorFlow\n- **CSX475: Natural Language Processing** \u2013 Learn about AI models for text processing\n- **ITX490: AI for Business** \u2013 Focuses on real-world AI applications in business"
+    },
+    {
+        "question": "I'm interested in do business and IT.",
+        "answer": "Combining business and IT creates great career opportunities. Other options include can help:\n- **ITX250: Business Intelligence** \u2013 Learn how IT supports business decision-making\n- **CSX310: Database Management Systems** \u2013 Essential for data-driven business solutions\n- **ITX400: IT Strategy and Governance** \u2013 Learn how IT aligns with business goals\n- **ITX420: Financial Technology (FinTech)** \u2013 Covers blockchain, digital payments, and banking tech\n- **CSX430: E-Commerce Development** \u2013 Learn how to build and manage online stores"
+    },
+    {
+        "question": "I'm interested in work with data.",
+        "answer": "If you're interested in working with data, consider these courses:\n- **CSX201: Data Science Foundations** \u2013 Covers Python, statistics, and data analysis\n- **CSX310: Database Management Systems** \u2013 Focuses on SQL and NoSQL databases\n- **ITX220: Business Analytics** \u2013 A mix of business and data-driven decision-making\n- **CSX450: Big Data Technologies** \u2013 Learn about Hadoop, Spark, and large-scale data processing\n- **ITX340: Data Visualization** \u2013 Teaches how to present complex data effectively\n"
+    },
+    {
+        "question": "I'm interested in learn coding.",
+        "answer": "If you're interested in learning to code, these courses are ideal:\n- **CSX101: Introduction to Programming** \u2013 A beginner-friendly course using Python\n- **CSX202: Object-Oriented Programming** \u2013 Focuses on Java and OOP principles\n- **ITX150: Web Development Basics** \u2013 Covers HTML, CSS, and JavaScript for front-end development\n- **CSX250: Full-Stack Development** \u2013 Learn both frontend and backend web development\n- **ITX360: Mobile App Development** \u2013 Covers Android and iOS development using React Native"
+    },
+    {
+        "question": "I don't want to code.",
+        "answer": "For non-coding tech roles, these courses are useful:\n- **ITX310: IT Project Management** \u2013 Learn to manage tech teams without coding\n- **CSX420: UI/UX Design Principles** \u2013 Focus on user experience and interface design\n- **ITX280: Digital Marketing Strategies** \u2013 Uses data and analytics for marketing\n- **ITX430: Cybersecurity Management** \u2013 Learn about security policies and risk management\n- **CSX370: AI Ethics and Policy** \u2013 Covers ethical implications of artificial intelligence"
+    },
+    {
+        "question": "I'm interested in do cybersecurity.",
+        "answer": "Cybersecurity is a critical field. Other options include provide strong foundations:\n- **CSX350: Ethical Hacking** \u2013 Learn penetration testing and security vulnerabilities\n- **ITX340: Network Security** \u2013 Focuses on securing networks and preventing attacks\n- **CSX450: Cyber Threat Intelligence** \u2013 Learn how to analyze and prevent cyber threats\n- **ITX480: Cryptography and Encryption** \u2013 Covers encryption algorithms and secure communication\n- **CSX490: Incident Response and Forensics** \u2013 Learn how to handle cyber attacks and data breaches"
+    },
+    {
+        "question": "I'm interested in work with data.",
+        "answer": "If you're interested in working with data, consider these courses:\n- **CSX201: Data Science Foundations** \u2013 Covers Python, statistics, and data analysis\n- **CSX310: Database Management Systems** \u2013 Focuses on SQL and NoSQL databases\n- **ITX220: Business Analytics** \u2013 A mix of business and data-driven decision-making\n- **CSX450: Big Data Technologies** \u2013 Learn about Hadoop, Spark, and large-scale data processing\n- **ITX340: Data Visualization** \u2013 Teaches how to present complex data effectively\n"
+    },
+    {
+        "question": "I'm interested in learn coding.",
+        "answer": "If you're interested in learning to code, these courses are ideal:\n- **CSX101: Introduction to Programming** \u2013 A beginner-friendly course using Python\n- **CSX202: Object-Oriented Programming** \u2013 Focuses on Java and OOP principles\n- **ITX150: Web Development Basics** \u2013 Covers HTML, CSS, and JavaScript for front-end development\n- **CSX250: Full-Stack Development** \u2013 Learn both frontend and backend web development\n- **ITX360: Mobile App Development** \u2013 Covers Android and iOS development using React Native"
+    },
+    {
+        "question": "I don't want to code.",
+        "answer": "For non-coding tech roles, these courses are useful:\n- **ITX310: IT Project Management** \u2013 Learn to manage tech teams without coding\n- **CSX420: UI/UX Design Principles** \u2013 Focus on user experience and interface design\n- **ITX280: Digital Marketing Strategies** \u2013 Uses data and analytics for marketing\n- **ITX430: Cybersecurity Management** \u2013 Learn about security policies and risk management\n- **CSX370: AI Ethics and Policy** \u2013 Covers ethical implications of artificial intelligence"
+    },
+    {
+        "question": "I'm interested in do cybersecurity.",
+        "answer": "Cybersecurity is a critical field. Other options include provide strong foundations:\n- **CSX350: Ethical Hacking** \u2013 Learn penetration testing and security vulnerabilities\n- **ITX340: Network Security** \u2013 Focuses on securing networks and preventing attacks\n- **CSX450: Cyber Threat Intelligence** \u2013 Learn how to analyze and prevent cyber threats\n- **ITX480: Cryptography and Encryption** \u2013 Covers encryption algorithms and secure communication\n- **CSX490: Incident Response and Forensics** \u2013 Learn how to handle cyber attacks and data breaches"
+    },
+    {
+        "question": "I'm interested in do AI and machine learning.",
+        "answer": "AI and ML are shaping the future. Other options include provide a strong start:\n- **CSX370: Artificial Intelligence** \u2013 Introduction to AI concepts and applications\n- **CSX380: Machine Learning Foundations** \u2013 Covers supervised and unsupervised learning\n- **CSX460: Deep Learning** \u2013 Advanced topics including neural networks and TensorFlow\n- **CSX475: Natural Language Processing** \u2013 Learn about AI models for text processing\n- **ITX490: AI for Business** \u2013 Focuses on real-world AI applications in business"
+    },
+    {
+        "question": "I'm interested in do business and IT.",
+        "answer": "Combining business and IT creates great career opportunities. Other options include can help:\n- **ITX250: Business Intelligence** \u2013 Learn how IT supports business decision-making\n- **CSX310: Database Management Systems** \u2013 Essential for data-driven business solutions\n- **ITX400: IT Strategy and Governance** \u2013 Learn how IT aligns with business goals\n- **ITX420: Financial Technology (FinTech)** \u2013 Covers blockchain, digital payments, and banking tech\n- **CSX430: E-Commerce Development** \u2013 Learn how to build and manage online stores"
+    },
+    {
+        "question": "I'm interested in work with data.",
+        "answer": "If you're interested in working with data, consider these courses:\n- **CSX201: Data Science Foundations** \u2013 Covers Python, statistics, and data analysis\n- **CSX310: Database Management Systems** \u2013 Focuses on SQL and NoSQL databases\n- **ITX220: Business Analytics** \u2013 A mix of business and data-driven decision-making\n- **CSX450: Big Data Technologies** \u2013 Learn about Hadoop, Spark, and large-scale data processing\n- **ITX340: Data Visualization** \u2013 Teaches how to present complex data effectively\n"
+    },
+    {
+        "question": "I'm interested in learn coding.",
+        "answer": "If you're interested in learning to code, these courses are ideal:\n- **CSX101: Introduction to Programming** \u2013 A beginner-friendly course using Python\n- **CSX202: Object-Oriented Programming** \u2013 Focuses on Java and OOP principles\n- **ITX150: Web Development Basics** \u2013 Covers HTML, CSS, and JavaScript for front-end development\n- **CSX250: Full-Stack Development** \u2013 Learn both frontend and backend web development\n- **ITX360: Mobile App Development** \u2013 Covers Android and iOS development using React Native"
+    },
+    {
+        "question": "I don't want to code.",
+        "answer": "For non-coding tech roles, these courses are useful:\n- **ITX310: IT Project Management** \u2013 Learn to manage tech teams without coding\n- **CSX420: UI/UX Design Principles** \u2013 Focus on user experience and interface design\n- **ITX280: Digital Marketing Strategies** \u2013 Uses data and analytics for marketing\n- **ITX430: Cybersecurity Management** \u2013 Learn about security policies and risk management\n- **CSX370: AI Ethics and Policy** \u2013 Covers ethical implications of artificial intelligence"
+    },
+    {
+        "question": "I'm interested in do cybersecurity.",
+        "answer": "Cybersecurity is a critical field. Other options include provide strong foundations:\n- **CSX350: Ethical Hacking** \u2013 Learn penetration testing and security vulnerabilities\n- **ITX340: Network Security** \u2013 Focuses on securing networks and preventing attacks\n- **CSX450: Cyber Threat Intelligence** \u2013 Learn how to analyze and prevent cyber threats\n- **ITX480: Cryptography and Encryption** \u2013 Covers encryption algorithms and secure communication\n- **CSX490: Incident Response and Forensics** \u2013 Learn how to handle cyber attacks and data breaches"
+    },
+    {
+        "question": "I'm interested in work with data.",
+        "answer": "If you're interested in working with data, consider these courses:\n- **CSX201: Data Science Foundations** \u2013 Covers Python, statistics, and data analysis\n- **CSX310: Database Management Systems** \u2013 Focuses on SQL and NoSQL databases\n- **ITX220: Business Analytics** \u2013 A mix of business and data-driven decision-making\n- **CSX450: Big Data Technologies** \u2013 Learn about Hadoop, Spark, and large-scale data processing\n- **ITX340: Data Visualization** \u2013 Teaches how to present complex data effectively\n"
+    },
+    {
+        "question": "I'm interested in learn coding.",
+        "answer": "If you're interested in learning to code, these courses are ideal:\n- **CSX101: Introduction to Programming** \u2013 A beginner-friendly course using Python\n- **CSX202: Object-Oriented Programming** \u2013 Focuses on Java and OOP principles\n- **ITX150: Web Development Basics** \u2013 Covers HTML, CSS, and JavaScript for front-end development\n- **CSX250: Full-Stack Development** \u2013 Learn both frontend and backend web development\n- **ITX360: Mobile App Development** \u2013 Covers Android and iOS development using React Native"
+    },
+    {
+        "question": "I don't want to code.",
+        "answer": "For non-coding tech roles, these courses are useful:\n- **ITX310: IT Project Management** \u2013 Learn to manage tech teams without coding\n- **CSX420: UI/UX Design Principles** \u2013 Focus on user experience and interface design\n- **ITX280: Digital Marketing Strategies** \u2013 Uses data and analytics for marketing\n- **ITX430: Cybersecurity Management** \u2013 Learn about security policies and risk management\n- **CSX370: AI Ethics and Policy** \u2013 Covers ethical implications of artificial intelligence"
+    },
+    {
+        "question": "I'm interested in do cybersecurity.",
+        "answer": "Cybersecurity is a critical field. Other options include provide strong foundations:\n- **CSX350: Ethical Hacking** \u2013 Learn penetration testing and security vulnerabilities\n- **ITX340: Network Security** \u2013 Focuses on securing networks and preventing attacks\n- **CSX450: Cyber Threat Intelligence** \u2013 Learn how to analyze and prevent cyber threats\n- **ITX480: Cryptography and Encryption** \u2013 Covers encryption algorithms and secure communication\n- **CSX490: Incident Response and Forensics** \u2013 Learn how to handle cyber attacks and data breaches"
+    },
+    {
+        "question": "I'm interested in do AI and machine learning.",
+        "answer": "AI and ML are shaping the future. Other options include provide a strong start:\n- **CSX370: Artificial Intelligence** \u2013 Introduction to AI concepts and applications\n- **CSX380: Machine Learning Foundations** \u2013 Covers supervised and unsupervised learning\n- **CSX460: Deep Learning** \u2013 Advanced topics including neural networks and TensorFlow\n- **CSX475: Natural Language Processing** \u2013 Learn about AI models for text processing\n- **ITX490: AI for Business** \u2013 Focuses on real-world AI applications in business"
+    },
+    {
+        "question": "I'm interested in do business and IT.",
+        "answer": "Combining business and IT creates great career opportunities. Other options include can help:\n- **ITX250: Business Intelligence** \u2013 Learn how IT supports business decision-making\n- **CSX310: Database Management Systems** \u2013 Essential for data-driven business solutions\n- **ITX400: IT Strategy and Governance** \u2013 Learn how IT aligns with business goals\n- **ITX420: Financial Technology (FinTech)** \u2013 Covers blockchain, digital payments, and banking tech\n- **CSX430: E-Commerce Development** \u2013 Learn how to build and manage online stores"
+    },
+    {
+        "question": "I'm interested in work with data.",
+        "answer": "If you're interested in working with data, consider these courses:\n- **CSX201: Data Science Foundations** \u2013 Covers Python, statistics, and data analysis\n- **CSX310: Database Management Systems** \u2013 Focuses on SQL and NoSQL databases\n- **ITX220: Business Analytics** \u2013 A mix of business and data-driven decision-making\n- **CSX450: Big Data Technologies** \u2013 Learn about Hadoop, Spark, and large-scale data processing\n- **ITX340: Data Visualization** \u2013 Teaches how to present complex data effectively\n"
+    },
+    {
+        "question": "I'm interested in learn coding.",
+        "answer": "If you're interested in learning to code, these courses are ideal:\n- **CSX101: Introduction to Programming** \u2013 A beginner-friendly course using Python\n- **CSX202: Object-Oriented Programming** \u2013 Focuses on Java and OOP principles\n- **ITX150: Web Development Basics** \u2013 Covers HTML, CSS, and JavaScript for front-end development\n- **CSX250: Full-Stack Development** \u2013 Learn both frontend and backend web development\n- **ITX360: Mobile App Development** \u2013 Covers Android and iOS development using React Native"
+    },
+    {
+        "question": "I don't want to code.",
+        "answer": "For non-coding tech roles, these courses are useful:\n- **ITX310: IT Project Management** \u2013 Learn to manage tech teams without coding\n- **CSX420: UI/UX Design Principles** \u2013 Focus on user experience and interface design\n- **ITX280: Digital Marketing Strategies** \u2013 Uses data and analytics for marketing\n- **ITX430: Cybersecurity Management** \u2013 Learn about security policies and risk management\n- **CSX370: AI Ethics and Policy** \u2013 Covers ethical implications of artificial intelligence"
+    },
+    {
+        "question": "I'm interested in do cybersecurity.",
+        "answer": "Cybersecurity is a critical field. Other options include provide strong foundations:\n- **CSX350: Ethical Hacking** \u2013 Learn penetration testing and security vulnerabilities\n- **ITX340: Network Security** \u2013 Focuses on securing networks and preventing attacks\n- **CSX450: Cyber Threat Intelligence** \u2013 Learn how to analyze and prevent cyber threats\n- **ITX480: Cryptography and Encryption** \u2013 Covers encryption algorithms and secure communication\n- **CSX490: Incident Response and Forensics** \u2013 Learn how to handle cyber attacks and data breaches"
+    },
+    {
+        "question": "I'm interested in work with data.",
+        "answer": "If you're interested in working with data, consider these courses:\n- **CSX201: Data Science Foundations** \u2013 Covers Python, statistics, and data analysis\n- **CSX310: Database Management Systems** \u2013 Focuses on SQL and NoSQL databases\n- **ITX220: Business Analytics** \u2013 A mix of business and data-driven decision-making\n- **CSX450: Big Data Technologies** \u2013 Learn about Hadoop, Spark, and large-scale data processing\n- **ITX340: Data Visualization** \u2013 Teaches how to present complex data effectively\n"
+    },
+    {
+        "question": "I'm interested in learn coding.",
+        "answer": "If you're interested in learning to code, these courses are ideal:\n- **CSX101: Introduction to Programming** \u2013 A beginner-friendly course using Python\n- **CSX202: Object-Oriented Programming** \u2013 Focuses on Java and OOP principles\n- **ITX150: Web Development Basics** \u2013 Covers HTML, CSS, and JavaScript for front-end development\n- **CSX250: Full-Stack Development** \u2013 Learn both frontend and backend web development\n- **ITX360: Mobile App Development** \u2013 Covers Android and iOS development using React Native"
+    },
+    {
+        "question": "I don't want to code.",
+        "answer": "For non-coding tech roles, these courses are useful:\n- **ITX310: IT Project Management** \u2013 Learn to manage tech teams without coding\n- **CSX420: UI/UX Design Principles** \u2013 Focus on user experience and interface design\n- **ITX280: Digital Marketing Strategies** \u2013 Uses data and analytics for marketing\n- **ITX430: Cybersecurity Management** \u2013 Learn about security policies and risk management\n- **CSX370: AI Ethics and Policy** \u2013 Covers ethical implications of artificial intelligence"
+    },
+    {
+        "question": "I'm interested in do cybersecurity.",
+        "answer": "Cybersecurity is a critical field. Other options include provide strong foundations:\n- **CSX350: Ethical Hacking** \u2013 Learn penetration testing and security vulnerabilities\n- **ITX340: Network Security** \u2013 Focuses on securing networks and preventing attacks\n- **CSX450: Cyber Threat Intelligence** \u2013 Learn how to analyze and prevent cyber threats\n- **ITX480: Cryptography and Encryption** \u2013 Covers encryption algorithms and secure communication\n- **CSX490: Incident Response and Forensics** \u2013 Learn how to handle cyber attacks and data breaches"
+    },
+    {
+        "question": "I'm interested in do AI and machine learning.",
+        "answer": "AI and ML are shaping the future. Other options include provide a strong start:\n- **CSX370: Artificial Intelligence** \u2013 Introduction to AI concepts and applications\n- **CSX380: Machine Learning Foundations** \u2013 Covers supervised and unsupervised learning\n- **CSX460: Deep Learning** \u2013 Advanced topics including neural networks and TensorFlow\n- **CSX475: Natural Language Processing** \u2013 Learn about AI models for text processing\n- **ITX490: AI for Business** \u2013 Focuses on real-world AI applications in business"
+    },
+    {
+        "question": "I'm interested in do business and IT.",
+        "answer": "Combining business and IT creates great career opportunities. Other options include can help:\n- **ITX250: Business Intelligence** \u2013 Learn how IT supports business decision-making\n- **CSX310: Database Management Systems** \u2013 Essential for data-driven business solutions\n- **ITX400: IT Strategy and Governance** \u2013 Learn how IT aligns with business goals\n- **ITX420: Financial Technology (FinTech)** \u2013 Covers blockchain, digital payments, and banking tech\n- **CSX430: E-Commerce Development** \u2013 Learn how to build and manage online stores"
+    },
+    {
+        "question": "I'm interested in work with data.",
+        "answer": "If you're interested in working with data, consider these courses:\n- **CSX201: Data Science Foundations** \u2013 Covers Python, statistics, and data analysis\n- **CSX310: Database Management Systems** \u2013 Focuses on SQL and NoSQL databases\n- **ITX220: Business Analytics** \u2013 A mix of business and data-driven decision-making\n- **CSX450: Big Data Technologies** \u2013 Learn about Hadoop, Spark, and large-scale data processing\n- **ITX340: Data Visualization** \u2013 Teaches how to present complex data effectively\n"
+    },
+    {
+        "question": "I'm interested in learn coding.",
+        "answer": "If you're interested in learning to code, these courses are ideal:\n- **CSX101: Introduction to Programming** \u2013 A beginner-friendly course using Python\n- **CSX202: Object-Oriented Programming** \u2013 Focuses on Java and OOP principles\n- **ITX150: Web Development Basics** \u2013 Covers HTML, CSS, and JavaScript for front-end development\n- **CSX250: Full-Stack Development** \u2013 Learn both frontend and backend web development\n- **ITX360: Mobile App Development** \u2013 Covers Android and iOS development using React Native"
+    },
+    {
+        "question": "I don't want to code.",
+        "answer": "For non-coding tech roles, these courses are useful:\n- **ITX310: IT Project Management** \u2013 Learn to manage tech teams without coding\n- **CSX420: UI/UX Design Principles** \u2013 Focus on user experience and interface design\n- **ITX280: Digital Marketing Strategies** \u2013 Uses data and analytics for marketing\n- **ITX430: Cybersecurity Management** \u2013 Learn about security policies and risk management\n- **CSX370: AI Ethics and Policy** \u2013 Covers ethical implications of artificial intelligence"
+    },
+    {
+        "question": "I'm interested in do cybersecurity.",
+        "answer": "Cybersecurity is a critical field. Other options include provide strong foundations:\n- **CSX350: Ethical Hacking** \u2013 Learn penetration testing and security vulnerabilities\n- **ITX340: Network Security** \u2013 Focuses on securing networks and preventing attacks\n- **CSX450: Cyber Threat Intelligence** \u2013 Learn how to analyze and prevent cyber threats\n- **ITX480: Cryptography and Encryption** \u2013 Covers encryption algorithms and secure communication\n- **CSX490: Incident Response and Forensics** \u2013 Learn how to handle cyber attacks and data breaches"
+    },
+    {
+        "question": "I'm interested in work with data.",
+        "answer": "If you're interested in working with data, consider these courses:\n- **CSX201: Data Science Foundations** \u2013 Covers Python, statistics, and data analysis\n- **CSX310: Database Management Systems** \u2013 Focuses on SQL and NoSQL databases\n- **ITX220: Business Analytics** \u2013 A mix of business and data-driven decision-making\n- **CSX450: Big Data Technologies** \u2013 Learn about Hadoop, Spark, and large-scale data processing\n- **ITX340: Data Visualization** \u2013 Teaches how to present complex data effectively\n"
+    },
+    {
+        "question": "I'm interested in learn coding.",
+        "answer": "If you're interested in learning to code, these courses are ideal:\n- **CSX101: Introduction to Programming** \u2013 A beginner-friendly course using Python\n- **CSX202: Object-Oriented Programming** \u2013 Focuses on Java and OOP principles\n- **ITX150: Web Development Basics** \u2013 Covers HTML, CSS, and JavaScript for front-end development\n- **CSX250: Full-Stack Development** \u2013 Learn both frontend and backend web development\n- **ITX360: Mobile App Development** \u2013 Covers Android and iOS development using React Native"
+    },
+    {
+        "question": "I don't want to code.",
+        "answer": "For non-coding tech roles, these courses are useful:\n- **ITX310: IT Project Management** \u2013 Learn to manage tech teams without coding\n- **CSX420: UI/UX Design Principles** \u2013 Focus on user experience and interface design\n- **ITX280: Digital Marketing Strategies** \u2013 Uses data and analytics for marketing\n- **ITX430: Cybersecurity Management** \u2013 Learn about security policies and risk management\n- **CSX370: AI Ethics and Policy** \u2013 Covers ethical implications of artificial intelligence"
+    },
+    {
+        "question": "I'm interested in do cybersecurity.",
+        "answer": "Cybersecurity is a critical field. Other options include provide strong foundations:\n- **CSX350: Ethical Hacking** \u2013 Learn penetration testing and security vulnerabilities\n- **ITX340: Network Security** \u2013 Focuses on securing networks and preventing attacks\n- **CSX450: Cyber Threat Intelligence** \u2013 Learn how to analyze and prevent cyber threats\n- **ITX480: Cryptography and Encryption** \u2013 Covers encryption algorithms and secure communication\n- **CSX490: Incident Response and Forensics** \u2013 Learn how to handle cyber attacks and data breaches"
+    },
+    {
+        "question": "I'm interested in do AI and machine learning.",
+        "answer": "AI and ML are shaping the future. Other options include provide a strong start:\n- **CSX370: Artificial Intelligence** \u2013 Introduction to AI concepts and applications\n- **CSX380: Machine Learning Foundations** \u2013 Covers supervised and unsupervised learning\n- **CSX460: Deep Learning** \u2013 Advanced topics including neural networks and TensorFlow\n- **CSX475: Natural Language Processing** \u2013 Learn about AI models for text processing\n- **ITX490: AI for Business** \u2013 Focuses on real-world AI applications in business"
+    },
+    {
+        "question": "I'm interested in do business and IT.",
+        "answer": "Combining business and IT creates great career opportunities. Other options include can help:\n- **ITX250: Business Intelligence** \u2013 Learn how IT supports business decision-making\n- **CSX310: Database Management Systems** \u2013 Essential for data-driven business solutions\n- **ITX400: IT Strategy and Governance** \u2013 Learn how IT aligns with business goals\n- **ITX420: Financial Technology (FinTech)** \u2013 Covers blockchain, digital payments, and banking tech\n- **CSX430: E-Commerce Development** \u2013 Learn how to build and manage online stores"
+    },
+    {
+        "question": "I'm interested in work with data.",
+        "answer": "If you're interested in working with data, consider these courses:\n- **CSX201: Data Science Foundations** \u2013 Covers Python, statistics, and data analysis\n- **CSX310: Database Management Systems** \u2013 Focuses on SQL and NoSQL databases\n- **ITX220: Business Analytics** \u2013 A mix of business and data-driven decision-making\n- **CSX450: Big Data Technologies** \u2013 Learn about Hadoop, Spark, and large-scale data processing\n- **ITX340: Data Visualization** \u2013 Teaches how to present complex data effectively\n"
+    },
+    {
+        "question": "I'm interested in learn coding.",
+        "answer": "If you're interested in learning to code, these courses are ideal:\n- **CSX101: Introduction to Programming** \u2013 A beginner-friendly course using Python\n- **CSX202: Object-Oriented Programming** \u2013 Focuses on Java and OOP principles\n- **ITX150: Web Development Basics** \u2013 Covers HTML, CSS, and JavaScript for front-end development\n- **CSX250: Full-Stack Development** \u2013 Learn both frontend and backend web development\n- **ITX360: Mobile App Development** \u2013 Covers Android and iOS development using React Native"
+    }
+]
