@@ -1,0 +1,138 @@
+{
+    "BSIT_Courses": [
+        {
+            "course_id": "ELE 1001",
+            "course_name": "Communicative English I",
+            "department": "Information Technology",
+            "description": "This course covers fundamental concepts of Communicative English I.",
+            "credits": 3,
+            "prerequisites": [
+                "None"
+            ],
+            "tuition_fee": 10000
+        },
+        {
+            "course_id": "BBA 1006",
+            "course_name": "Essential Economics for Entrepreneurs",
+            "department": "Information Technology",
+            "description": "This course covers fundamental concepts of Essential Economics for Entrepreneurs.",
+            "credits": 2,
+            "prerequisites": [
+                "None"
+            ],
+            "tuition_fee": 10000
+        },
+        {
+            "course_id": "CSX 3001",
+            "course_name": "Fundamentals of Computer Programming",
+            "department": "Information Technology",
+            "description": "This course covers fundamental concepts of Fundamentals of Computer Programming.",
+            "credits": 3,
+            "prerequisites": [
+                "None"
+            ],
+            "tuition_fee": 10000
+        },
+        {
+            "course_id": "ITX 3002",
+            "course_name": "Introduction to Information Technology",
+            "department": "Information Technology",
+            "description": "This course covers fundamental concepts of Introduction to Information Technology.",
+            "credits": 3,
+            "prerequisites": [
+                "None"
+            ],
+            "tuition_fee": 10000
+        },
+        {
+            "course_id": "ITX 2004",
+            "course_name": "UI/UX Design and Prototyping",
+            "department": "Information Technology",
+            "description": "This course covers fundamental concepts of UI/UX Design and Prototyping.",
+            "credits": 3,
+            "prerequisites": [
+                "None"
+            ],
+            "tuition_fee": 10000
+        },
+        {
+            "course_id": "GE 1303",
+            "course_name": "Science for Sustainable Future",
+            "department": "Information Technology",
+            "description": "This course covers fundamental concepts of Science for Sustainable Future.",
+            "credits": 2,
+            "prerequisites": [
+                "None"
+            ],
+            "tuition_fee": 10000
+        }
+    ],
+    "BSCS_Courses": [
+        {
+            "course_id": "ELE 1001",
+            "course_name": "Communicative English I",
+            "department": "Computer Science",
+            "description": "This course covers fundamental concepts of Communicative English I.",
+            "credits": 3,
+            "prerequisites": [
+                "None"
+            ],
+            "tuition_fee": 10000
+        },
+        {
+            "course_id": "CSX 2003",
+            "course_name": "Principles of Statistics",
+            "department": "Computer Science",
+            "description": "This course covers fundamental concepts of Principles of Statistics.",
+            "credits": 3,
+            "prerequisites": [
+                "None"
+            ],
+            "tuition_fee": 10000
+        },
+        {
+            "course_id": "ITX 3002",
+            "course_name": "Introduction to Information Technology",
+            "department": "Computer Science",
+            "description": "This course covers fundamental concepts of Introduction to Information Technology.",
+            "credits": 3,
+            "prerequisites": [
+                "None"
+            ],
+            "tuition_fee": 10000
+        },
+        {
+            "course_id": "CSX 3001",
+            "course_name": "Fundamentals of Computer Programming",
+            "department": "Computer Science",
+            "description": "This course covers fundamental concepts of Fundamentals of Computer Programming.",
+            "credits": 3,
+            "prerequisites": [
+                "None"
+            ],
+            "tuition_fee": 10000
+        },
+        {
+            "course_id": "BBA 1006",
+            "course_name": "Essential Economics for Entrepreneurs",
+            "department": "Computer Science",
+            "description": "This course covers fundamental concepts of Essential Economics for Entrepreneurs.",
+            "credits": 2,
+            "prerequisites": [
+                "None"
+            ],
+            "tuition_fee": 10000
+        },
+        {
+            "course_id": "GE 1303",
+            "course_name": "Science for Sustainable Future",
+            "department": "Computer Science",
+            "description": "This course covers fundamental concepts of Science for Sustainable Future.",
+            "credits": 2,
+            "prerequisites": [
+                "None"
+            ],
+            "tuition_fee": 10000
+        }
+    ]
+}
