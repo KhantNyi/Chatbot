@@ -1,0 +1,2263 @@
+[
+    {
+        "course_id": "CSX1001",
+        "course_name": "Basic Mathematics and Statistics",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Basic Mathematics and Statistics.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX2001",
+        "course_name": "Introduction to Information Technology",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Introduction to Information Technology.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX2002",
+        "course_name": "Calculus",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Calculus.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX1001 Basic Mathematics and Statistics"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX2003",
+        "course_name": "Principles of Statistics",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Principles of Statistics.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX1001 Basic Mathematics and Statistics"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX2004",
+        "course_name": "UI/UX Design and prototyping",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of UI/UX Design and prototyping.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX2005",
+        "course_name": "Design Thinking",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Design Thinking.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX2006",
+        "course_name": "Mathematics and Statistics for Data Science",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Mathematics and Statistics for Data Science.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX2003 Principles of Statistics"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX2007",
+        "course_name": "Data Science",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Data Science.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX2006 Mathematics and Statistics for Data Science"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX2008",
+        "course_name": "Mathematics Foundation for Computer Science",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Mathematics Foundation for Computer Science.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX2009",
+        "course_name": "Cloud Computing",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Cloud Computing.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX3001",
+        "course_name": "Fundamentals of Computer Programming",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Fundamentals of Computer Programming.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX3002",
+        "course_name": "Object-Oriented Concepts and Programming",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Object-Oriented Concepts and Programming.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3001 Fundamentals of Computer Programming",
+            "CSX3001 Fundamentals of Computer Programming",
+            "CSX3001 Fundamentals of Computer Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX3003",
+        "course_name": "Data Structure and Algorithms",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Data Structure and Algorithms.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming",
+            "CSX3002 Object-Oriented Concepts and Programming",
+            "CSX3002 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX3004",
+        "course_name": "Programming Languages",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Programming Languages.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming",
+            "CSX3002 Object-Oriented Concepts and Programming",
+            "CSX3002 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX3005",
+        "course_name": "Computer Networks",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Computer Networks.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX3006",
+        "course_name": "Database Systems",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Database Systems.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming",
+            "CSX3001 Fundamentals of Computer Programming",
+            "CSX3001 Fundamentals of Computer Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX3007",
+        "course_name": "Computer Architecture",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Computer Architecture.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX3008",
+        "course_name": "Operating Systems",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Operating Systems.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX3009",
+        "course_name": "Algorithm Design",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Algorithm Design.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX2008 Mathematics Foundation for Computer Science",
+            "CSX3003 Data Structure and Algorithms",
+            "CSX3003 Data Structure and Algorithms"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX3010",
+        "course_name": "Senior Project I",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Senior Project I.",
+        "credits": 3,
+        "prerequisites": [
+            "Year 3 and >= 72 credits",
+            "Year 3 and >= 72 credits",
+            "Year 3 and >= 72 credits"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX3011",
+        "course_name": "Senior Project II",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Senior Project II.",
+        "credits": 3,
+        "prerequisites": [
+            "Year 4 and >= 100 credits",
+            "Year 4 and >= 100 credits",
+            "Year 4 and >= 100 credits"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4101",
+        "course_name": "Information System Analysis and Design",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Information System Analysis and Design.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4102",
+        "course_name": "Software Engineering",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Software Engineering.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4103",
+        "course_name": "Requirement Engineering",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Requirement Engineering.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX4101 Information System Analysis and Design"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4104",
+        "course_name": "Software Testing",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Software Testing.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX4101 Information System Analysis and Design"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4105",
+        "course_name": "IT Project Management",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of IT Project Management.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4106",
+        "course_name": "Enterprise Architecture",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Enterprise Architecture.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4107",
+        "course_name": "Web Application Development",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Web Application Development.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming",
+            "CSX3002 Object-Oriented Concepts and Programming",
+            "CSX3002 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4108",
+        "course_name": "iOS Application Development",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of iOS Application Development.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming",
+            "CSX3002 Object-Oriented Concepts and Programming",
+            "CSX3002 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4109",
+        "course_name": "Andriod Application Development",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Andriod Application Development.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming",
+            "CSX3002 Object-Oriented Concepts and Programming",
+            "CSX3002 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4110",
+        "course_name": "Backend Application Development",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Backend Application Development.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming",
+            "CSX3002 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4181",
+        "course_name": "Selected Topic in Requirement Engineering",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Selected Topic in Requirement Engineering.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX4101 Information System Analysis and Design",
+            "CSX4101 Information System Analysis and Design"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4182",
+        "course_name": "Selected Topic in IT Project Management",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Selected Topic in IT Project Management.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4201",
+        "course_name": "Artificial Intelligence Concepts",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Artificial Intelligence Concepts.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming",
+            "CSX3001 Fundamentals of Computer Programming",
+            "CSX3001 Fundamentals of Computer Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4202",
+        "course_name": "Data Mining",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Data Mining.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming",
+            "CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science",
+            "CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4203",
+        "course_name": "Machine Learning",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Machine Learning.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming",
+            "CSX3001 Fundamentals of Computer Programming",
+            "CSX3001 Fundamentals of Computer Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4204",
+        "course_name": "Biometrics",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Biometrics.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4205",
+        "course_name": "Big Data Analytics",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Big Data Analytics.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX2006 Mathematics and Statistics for Data Science",
+            "CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science",
+            "CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4206",
+        "course_name": "Data Warehousing and Business Intelligence",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Data Warehousing and Business Intelligence.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX2006 Mathematics and Statistics for Data Science and CSX3006 Database Systems",
+            "CSX3006 Database Systems",
+            "CSX3006 Database Systems"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4207",
+        "course_name": "Decision Support and Recommender Systems",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Decision Support and Recommender Systems.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX2006 Mathematics and Statistics for Data Science",
+            "CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science",
+            "CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4208",
+        "course_name": "Deep Learning",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Deep Learning.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX4203 Machine Learning",
+            "CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science",
+            "CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4209",
+        "course_name": "Intelligent System Development",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Intelligent System Development.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4210",
+        "course_name": "Natural Language Processing and Social Interactions",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Natural Language Processing and Social Interactions.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming",
+            "CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science",
+            "CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4211",
+        "course_name": "Data Engineering",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Data Engineering.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3006 Database Systems or ITX3006 Database Management Systems",
+            "CSX3006 Database Systems or ITX3006 Database Management Systems"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4212",
+        "course_name": "Data Analytics",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Data Analytics.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science",
+            "CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4213",
+        "course_name": "Computer Vision",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Computer Vision.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science",
+            "CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4301",
+        "course_name": "Network Design",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Network Design.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX 3005 Computer Networks or by the consent of the instructor"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4302",
+        "course_name": "Cisco Networking Workshop",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Cisco Networking Workshop.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4303",
+        "course_name": "Network Security",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Network Security.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX 3005 Computer Networks or by the consent of the instructor"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4304",
+        "course_name": "Network Management",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Network Management.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX 3005 Computer Networks or by the consent of the instructor"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4305",
+        "course_name": "Heterogeneous Wireless Networks",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Heterogeneous Wireless Networks.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX 3005 Computer Networks or by the consent of the instructor"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4306",
+        "course_name": "Internet of Things",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Internet of Things.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX 3005 Computer Networks or by the consent of the instructor",
+            "CSX3005 Computer Networks",
+            "CSX3005 Computer Networks"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4307",
+        "course_name": "Business Continuity Planning and Management",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Business Continuity Planning and Management.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4401",
+        "course_name": "Business Systems",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Business Systems.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX2001 Introduction to Information Technology"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4402",
+        "course_name": "Sales and Distribution Mangement System",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Sales and Distribution Mangement System.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX4401 Business Systems"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4403",
+        "course_name": "Manufacturing Management System",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Manufacturing Management System.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX4401 Business Systems"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4404",
+        "course_name": "Supply Chain Management System",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Supply Chain Management System.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX4401 Business Systems"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4405",
+        "course_name": "Finance and Accounting Information System",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Finance and Accounting Information System.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX4401 Business Systems and \nACT1601 Fundamental of Financial Accounting"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4406",
+        "course_name": "Customer Relationship Mangement System",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Customer Relationship Mangement System.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX4401 Business Systems"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4407",
+        "course_name": "Enterprise Application Development",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Enterprise Application Development.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3006 Database Systems",
+            "CSX3006 Database Systems or ITX 3006 Database Management Systems",
+            "CSX3006 Database Systems or ITX 3006 Database Management Systems"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4408",
+        "course_name": "Enterprise Database System",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Enterprise Database System.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3006 Database Systems"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4409",
+        "course_name": "Blockchain Technology",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Blockchain Technology.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4501",
+        "course_name": "Theory of Computation",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Theory of Computation.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX2008 Mathematics Foundation for Computer Science",
+            "CSX2008 Mathematics Foundation for Computer Science",
+            "CSX2008 Mathematics Foundation for Computer Science"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4502",
+        "course_name": "Tech Startup",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Tech Startup.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4503",
+        "course_name": "Information Systems Security",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Information Systems Security.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4504",
+        "course_name": "Digital Marketing",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Digital Marketing.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4505",
+        "course_name": "Digital Transformation",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Digital Transformation.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4506",
+        "course_name": "Image Processing",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Image Processing.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3003 Data Structure and Algorithms"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4507",
+        "course_name": "Information Retrieval and Search Engines",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Information Retrieval and Search Engines.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4508",
+        "course_name": "Quantitative Research for Digital Business",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Quantitative Research for Digital Business.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX2003 Principles of Statistics"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4510",
+        "course_name": "Neural Network",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Neural Network.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3001 Fundamentals of Computer Programming and and ITX2007 Data Science",
+            "CSX3001 Fundamentals of Computer Programming and and ITX2007 Data Science"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4513",
+        "course_name": "AR/VR Application Development",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of AR/VR Application Development.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming",
+            "CSX3002 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4514",
+        "course_name": "Cross-platform Application Development",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Cross-platform Application Development.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming",
+            "CSX3002 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4515",
+        "course_name": "Game Design and Development",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Game Design and Development.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming",
+            "CSX3002 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4516",
+        "course_name": "Reusability and Design Patterns",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Reusability and Design Patterns.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming",
+            "CSX3002 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4601",
+        "course_name": "Presentation and Data Visualization Techniques",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Presentation and Data Visualization Techniques.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4602",
+        "course_name": "Selected Topic in Entrepreneurship in Technology Business",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Selected Topic in Entrepreneurship in Technology Business.",
+        "credits": 3,
+        "prerequisites": [
+            "At least 100 credits",
+            "At least 100 credits"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4603",
+        "course_name": "Selected Topic in Numerical Analysis ",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Selected Topic in Numerical Analysis .",
+        "credits": 3,
+        "prerequisites": [
+            "CSX2008 Mathematics Foundation for Computer Science",
+            "CSX2008 Mathematics Foundation for Computer Science"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4605",
+        "course_name": "Selected Topic in Information Security",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Selected Topic in Information Security.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4608",
+        "course_name": "Selected Topic in Software Quality Assurance",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Selected Topic in Software Quality Assurance.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4609",
+        "course_name": "Selected Topic in AI for Business",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Selected Topic in AI for Business.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4610",
+        "course_name": "Selected Topic in AI Prompt Engineering",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Selected Topic in AI Prompt Engineering.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4611",
+        "course_name": "Selected Topic in Quantum Computing for Entrepreneurs",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Selected Topic in Quantum Computing for Entrepreneurs.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4615",
+        "course_name": "Selected Topic in Business Insights and Visualization",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Selected Topic in Business Insights and Visualization.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4616",
+        "course_name": "Selected Topic in  Backend Application Development",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Selected Topic in  Backend Application Development.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX2004",
+        "course_name": "UI/UX Design and prototyping",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of UI/UX Design and prototyping.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX2005",
+        "course_name": "Design Thinking",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Design Thinking.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX2007",
+        "course_name": "Data Science",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Data Science.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX3002",
+        "course_name": "Introduction to Information Technology",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Introduction to Information Technology.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX3003",
+        "course_name": "Business Systems",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Business Systems.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX3002 Introduction to Information Technology",
+            "ITX3002 Introduction to Information Technology"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX3004",
+        "course_name": "Information System Analysis and Design",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Information System Analysis and Design.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3006 Database Systems or ITX 3006 Database Management Systems",
+            "CSX3006 Database Systems or ITX 3006 Database Management Systems"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX3007",
+        "course_name": "Software Engineering",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Software Engineering.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4104",
+        "course_name": "Software Testing",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Software Testing.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX3007 Software Engineering",
+            "ITX3007 Software Engineering"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4212",
+        "course_name": "Predictive Analytics",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Predictive Analytics.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2007 Data Science",
+            "ITX2007 Data Science"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4213",
+        "course_name": "Artificial Intelligence for Business",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Artificial Intelligence for Business.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2007 Data Science",
+            "ITX2007 Data Science"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4502",
+        "course_name": "Tech Startup",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Tech Startup.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4509",
+        "course_name": "Cybersecurity",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Cybersecurity.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3005 Computer Networks",
+            "CSX3005 Computer Networks"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4517",
+        "course_name": "Software Configuration Mangement",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Software Configuration Mangement.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX3007 Software Engineering",
+            "ITX3007 Software Engineering"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4518",
+        "course_name": "Blockchain and Digital Currencies",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Blockchain and Digital Currencies.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4519",
+        "course_name": "Internetworking Workshop",
+        "department": "Computer Science",
+        "description": "This course covers the fundamental concepts of Internetworking Workshop.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX2006",
+        "course_name": "Mathematics and statistics for Data Science",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Mathematics and statistics for Data Science.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX2009",
+        "course_name": "Cloud Computing",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Cloud Computing.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX3001",
+        "course_name": "Fundamentals of Computer Programming",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Fundamentals of Computer Programming.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX3002",
+        "course_name": "Object-Oriented Concepts and Programming",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Object-Oriented Concepts and Programming.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3001 Fundamentals of Computer Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX3003",
+        "course_name": "Data Structure and Algorithms",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Data Structure and Algorithms.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX3005",
+        "course_name": "Computer Networks",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Computer Networks.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4107",
+        "course_name": "Web Application Development",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Web Application Development.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming",
+            "CSX3002 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4108",
+        "course_name": "iOS Application Development",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of iOS Application Development.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming",
+            "CSX3002 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4109",
+        "course_name": "Andriod Application Development",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Andriod Application Development.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming",
+            "CSX3002 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4201",
+        "course_name": "Artificial Intelligence Concepts",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Artificial Intelligence Concepts.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming",
+            "CSX3001 Fundamentals of Computer Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4202",
+        "course_name": "Data Mining",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Data Mining.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming",
+            "CSX3001 Fundamentals of Computer Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4205",
+        "course_name": "Big Data Analytics",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Big Data Analytics.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX2006 Mathematics and Statistics for Data Science",
+            "CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4211",
+        "course_name": "Data Engineering",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Data Engineering.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3006/ITX3006 Database Management Systems"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4306",
+        "course_name": "Internet of Things",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Internet of Things.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3005 Computer Networks",
+            "CSX3005 Computer Networks"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4407",
+        "course_name": "Enterprise Application Development",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Enterprise Application Development.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3006/ITX3006 Database Management Systems"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "CSX4514",
+        "course_name": "Cross-platform Application Development",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Cross-platform Application Development.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX1001",
+        "course_name": "Basic Mathematics and Statistics",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Basic Mathematics and Statistics.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX2001 ",
+        "course_name": "Object-Oriented Concepts and Programming",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Object-Oriented Concepts and Programming.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX3001 Fundamentals of Computer Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX2003",
+        "course_name": "Principles of Statistics",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Principles of Statistics.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX1001 Basic Mathematics and Statistics"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX2004",
+        "course_name": "UI/UX Design and Prototyping",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of UI/UX Design and Prototyping.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX2005",
+        "course_name": "Design Thinking",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Design Thinking.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX2006",
+        "course_name": "Mathematics and Statistics for Data Science",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Mathematics and Statistics for Data Science.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2003 Principles of Statistics"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX2007",
+        "course_name": "Data Science",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Data Science.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2006 Mathematics and Statistics for Data Science"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX2008",
+        "course_name": "Cloud Computing",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Cloud Computing.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX2009",
+        "course_name": "Presentation and Data Visualization Techniques",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Presentation and Data Visualization Techniques.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX2010",
+        "course_name": "Data Structure and Algorithms",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Data Structure and Algorithms.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2001 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX3001",
+        "course_name": "Fundamentals of Computer Programming",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Fundamentals of Computer Programming.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX3002",
+        "course_name": "Introduction to Information Technology",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Introduction to Information Technology.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX3003",
+        "course_name": "Business Systems",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Business Systems.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX3002 Introduction to Information Technology",
+            "ITX3002 Introduction to Information Technology"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX3004",
+        "course_name": "Information System Analysis and Design",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Information System Analysis and Design.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX 3006 Database Management Systems or CSX 3006 Database Systems"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX3005",
+        "course_name": "Computer Networks",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Computer Networks.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX3006",
+        "course_name": "Database Management Systems",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Database Management Systems.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2001 Object-Oriented Concepts and Programming",
+            "CSX3001 Fundamentals of Computer Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX3007",
+        "course_name": "Software Engineering",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Software Engineering.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX3008",
+        "course_name": "IT Project Management",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of IT Project Management.",
+        "credits": 3,
+        "prerequisites": [
+            "Year 3 and >= 72 credits"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX3009",
+        "course_name": "Senior Project I",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Senior Project I.",
+        "credits": 3,
+        "prerequisites": [
+            "Year 3 and > 72 credits",
+            "Year 3 and >= 72 credits"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX3010",
+        "course_name": "Senior Project II",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Senior Project II.",
+        "credits": 3,
+        "prerequisites": [
+            "Year 4 and > 100 credits",
+            "Year 4 and >= 100 credits"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4103",
+        "course_name": "Requirement Engineering",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Requirement Engineering.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX3004 Information System Analysis and Design",
+            "ITX3007 Software Engineering"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4104",
+        "course_name": "Software Testing",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Software Testing.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX3004 Information System Analysis and Design",
+            "ITX3007 Software Engineering"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4106",
+        "course_name": "Enterprise Architectures",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Enterprise Architectures.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX3003 Business Systems"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4107",
+        "course_name": "Web Application Development",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Web Application Development.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2001 Object-Oriented Concepts and Programming",
+            "CSX3002 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4108",
+        "course_name": "iOS Application Development",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of iOS Application Development.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2001 Object-Oriented Concepts and Programming",
+            "CSX3002 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4109",
+        "course_name": "Android Application Development",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Android Application Development.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2001 Object-Oriented Concepts and Programming",
+            "CSX3002 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4110",
+        "course_name": "Enterprise System Integration",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Enterprise System Integration.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX3003 Business Systems"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4111",
+        "course_name": "Software Architectures",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Software Architectures.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4181",
+        "course_name": "Selected Topic in  Backend Application Development",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Selected Topic in  Backend Application Development.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4201",
+        "course_name": "Artificial Intelligence Concepts",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Artificial Intelligence Concepts.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2001 Object-Oriented Concepts and Programming",
+            "CSX3001 Fundamentals of Computer Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4202",
+        "course_name": "Data Mining",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Data Mining.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2001 Object-Oriented Concepts and Programming",
+            "CSX3001 Fundamentals of Computer Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4203",
+        "course_name": "Machine Learning",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Machine Learning.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2001 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4204",
+        "course_name": "Biometrics",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Biometrics.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2001 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4205",
+        "course_name": "Big Data Analytics",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Big Data Analytics.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2006 Mathematics and statistics for Data Science",
+            "CSX3001 Fundamentals of Computer Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4206",
+        "course_name": "Data Warehousing and Business Intelligence",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Data Warehousing and Business Intelligence.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2006 Mathematics and Statistics for Data Science and ITX3006 Database Management Systems"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4207",
+        "course_name": "Decision Support and Recommender Systems",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Decision Support and Recommender Systems.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2006 Mathematics and Statistics for Data Science"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4208",
+        "course_name": "Deep Learning",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Deep Learning.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX4203 Machine Learning"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4209",
+        "course_name": "Intellgernt System Development",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Intellgernt System Development.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2001 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4210",
+        "course_name": "Natural Language Processing and Social Interactions",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Natural Language Processing and Social Interactions.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2001 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4212",
+        "course_name": "Predictive Analytics",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Predictive Analytics.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2007 Data Science"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4213",
+        "course_name": "Artificial Intelligence for Business",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Artificial Intelligence for Business.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2007 Data Science"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4214",
+        "course_name": "Data Science Project Management",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Data Science Project Management.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2007 Data Science"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4215",
+        "course_name": "Business Insights and Visualization",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Business Insights and Visualization.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2007 Data Science"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4215",
+        "course_name": "ST. in Business Insights and Visualization",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of ST. in Business Insights and Visualization.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4283",
+        "course_name": "Selected Topic in Natural Language Processing and Social Interactions",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Selected Topic in Natural Language Processing and Social Interactions.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2001 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4301",
+        "course_name": "Network Design",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Network Design.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX3005 or by the consent of the instructor"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4302",
+        "course_name": "Cisco Networking Workshop",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Cisco Networking Workshop.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4303",
+        "course_name": "Network Security",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Network Security.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX3005 or by the consent of the instructor"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4304",
+        "course_name": "Network Management",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Network Management.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX3005 or by the consent of the instructor"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4305",
+        "course_name": "Heterogeneous Wireless Networks",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Heterogeneous Wireless Networks.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX3005 or by the consent of the instructor"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4306",
+        "course_name": "Internet of Things",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Internet of Things.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX3005 or by the consent of the instructor",
+            "CSX3005 Computer Networks"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4307",
+        "course_name": "Business Continuity Planning and Management",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Business Continuity Planning and Management.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX4503 Information Systems Security"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4402",
+        "course_name": "Sales and Distrinution Management System",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Sales and Distrinution Management System.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX3003 Business Systems"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4403",
+        "course_name": "Manufacturing Management System",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Manufacturing Management System.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX3003 Business Systems",
+            "ITX3003 Business Systems"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4404",
+        "course_name": "Supply Chain Management System",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Supply Chain Management System.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX3003 Business Systems",
+            "ITX3003 Business Systems"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4405",
+        "course_name": "Finance and Acounting Information System",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Finance and Acounting Information System.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX3003 Business Systems and \nACT1601 Fundamental of Financial Accounting"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4406",
+        "course_name": "Customer Relationship Management System",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Customer Relationship Management System.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX3003 Business Systems"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4407",
+        "course_name": "Enterprise Aplication Development",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Enterprise Aplication Development.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX3006 Database Management Systems"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4408",
+        "course_name": "Enterprise Database System",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Enterprise Database System.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX3006 Database Management Systems"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4409",
+        "course_name": "Blockchain Technology",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Blockchain Technology.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4502",
+        "course_name": "Tech Startup",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Tech Startup.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4503",
+        "course_name": "Information Systems Security",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Information Systems Security.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX3002 Introduction to Information Technology"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4504",
+        "course_name": "Digital Marketing",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Digital Marketing.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4505",
+        "course_name": "Digital Transformation",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Digital Transformation.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX3002 Introduction to Information Technology"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4506",
+        "course_name": "Image Processing",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Image Processing.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2010 Data Structure and Algorithms"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4507",
+        "course_name": "Information Retrieval and Search Engines",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Information Retrieval and Search Engines.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4508",
+        "course_name": "Quantitative Research for Digital Business",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Quantitative Research for Digital Business.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2003 Principles of Statistics"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4509",
+        "course_name": "Cybersecurity",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Cybersecurity.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3005 Computer Networks"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4510",
+        "course_name": "Data Policies and Governance",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Data Policies and Governance.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2007 Data Science"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4511",
+        "course_name": "Internet of Behaviors",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Internet of Behaviors.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2007 Data Science"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4512",
+        "course_name": "Marketing Automation Systems",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Marketing Automation Systems.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2007 Data Science"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4513",
+        "course_name": "Social Media Analytics",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Social Media Analytics.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX2007 Data Science"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4517",
+        "course_name": "Software Configuration Management",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Software Configuration Management.",
+        "credits": 3,
+        "prerequisites": [
+            "ITX3007 Software Engineering"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4518",
+        "course_name": "Blockchain and Digital Currencies",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Blockchain and Digital Currencies.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4519",
+        "course_name": "Internetworking Workshop",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Internetworking Workshop.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4602",
+        "course_name": "ST. in Entrepreneurship in Technology Business",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of ST. in Entrepreneurship in Technology Business.",
+        "credits": 3,
+        "prerequisites": [
+            "At least 100 credits"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4605",
+        "course_name": "ST. in Information Security",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of ST. in Information Security.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4608",
+        "course_name": "ST. in Software Quality Assurance",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of ST. in Software Quality Assurance.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4609",
+        "course_name": "ST. in AI for Business",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of ST. in AI for Business.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4610",
+        "course_name": "ST. in AI Prompt Engineering",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of ST. in AI Prompt Engineering.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4611",
+        "course_name": "ST. in Quantum Computing for Entrepreneurs",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of ST. in Quantum Computing for Entrepreneurs.",
+        "credits": 3,
+        "prerequisites": [
+            "None"
+        ],
+        "tuition_fee": 10000
+    },
+    {
+        "course_id": "ITX4616",
+        "course_name": "Selected Topic in  Backend Application Development",
+        "department": "Information Technology",
+        "description": "This course covers the fundamental concepts of Selected Topic in  Backend Application Development.",
+        "credits": 3,
+        "prerequisites": [
+            "CSX3002 Object-Oriented Concepts and Programming"
+        ],
+        "tuition_fee": 10000
+    }
+]
