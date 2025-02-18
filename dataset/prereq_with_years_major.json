@@ -1,0 +1,1291 @@
+[
+    {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX1001",
+      "course_name": "Basic Mathematics and Statistics",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "66",
+      "program": "CS",
+      "course_id": "CSX2001",
+      "course_name": "Introduction to Information Technology",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "66",
+      "program": "CS",
+      "course_id": "CSX2002",
+      "course_name": "Calculus",
+      "prerequisites": [
+        "CSX1001 Basic Mathematics and Statistics"
+      ]
+    },
+    {
+      "year": "66",
+      "program": "CS",
+      "course_id": "CSX2003",
+      "course_name": "Principles of Statistics",
+      "prerequisites": [
+        "CSX1001 Basic Mathematics and Statistics"
+      ]
+    },
+    {
+      "year": "66",
+      "program": "CS",
+      "course_id": "CSX2004",
+      "course_name": "UI/UX Design and prototyping",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "66",
+      "program": "CS",
+      "course_id": "CSX2005",
+      "course_name": "Design Thinking",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "66",
+      "program": "CS",
+      "course_id": "CSX2006",
+      "course_name": "Mathematics and Statistics for Data Science",
+      "prerequisites": [
+        "CSX2003 Principles of Statistics"
+      ]
+    },
+    {
+      "year": "66",
+      "program": "CS",
+      "course_id": "CSX2007",
+      "course_name": "Data Science",
+      "prerequisites": [
+        "CSX2006 Mathematics and Statistics for Data Science"
+      ]
+    },
+    {
+      "year": "66",
+      "program": "CS",
+      "course_id": "CSX2008",
+      "course_name": "Mathematics Foundation for Computer Science",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "66",
+      "program": "CS",
+      "course_id": "CSX2009",
+      "course_name": "Cloud Computing",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX3001",
+      "course_name": "Fundamentals of Computer Programming",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX3002",
+      "course_name": "Object-Oriented Concepts and Programming",
+      "prerequisites": [
+        "CSX3001 Fundamentals of Computer Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX3003",
+      "course_name": "Data Structure and Algorithms",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts and Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX3004",
+      "course_name": "Programming Languages",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts and Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX3005",
+      "course_name": "Computer Networks",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX3006",
+      "course_name": "Database Systems",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts and Programming",
+        "CSX3001 Fundamentals of Computer Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX3007",
+      "course_name": "Computer Architecture",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX3008",
+      "course_name": "Operating Systems",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX3009",
+      "course_name": "Algorithm Design",
+      "prerequisites": [
+        "CSX2008 Mathematics Foundation for Computer Science",
+        "CSX3003 Data Structure and Algorithms"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX3010",
+      "course_name": "Senior Project I",
+      "prerequisites": [
+        "Year 3 and >= 72 credits"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX3011",
+      "course_name": "Senior Project II",
+      "prerequisites": [
+        "Year 4 and >= 100 credits"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4101",
+      "course_name": "Information System Analysis and Design",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4102",
+      "course_name": "Software Engineering",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4103",
+      "course_name": "Requirement Engineering",
+      "prerequisites": [
+        "CSX4101 Information System Analysis and Design"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4104",
+      "course_name": "Software Testing",
+      "prerequisites": [
+        "CSX4101 Information System Analysis and Design"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4105",
+      "course_name": "IT Project Management",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4106",
+      "course_name": "Enterprise Architecture",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4107",
+      "course_name": "Web Application Development",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts and Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4108",
+      "course_name": "iOS Application Development",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts and Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4109",
+      "course_name": "Andriod Application Development",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts and Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4110",
+      "course_name": "Backend Application Development",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts and Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4181",
+      "course_name": "Selected Topic in Requirement Engineering",
+      "prerequisites": [
+        "CSX4101 Information System Analysis and Design"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4182",
+      "course_name": "Selected Topic in IT Project Management",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4201",
+      "course_name": "Artificial Intelligence Concepts",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts and Programming",
+        "CSX3001 Fundamentals of Computer Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4202",
+      "course_name": "Data Mining",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts and Programming",
+        "CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4203",
+      "course_name": "Machine Learning",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts and Programming",
+        "CSX3001 Fundamentals of Computer Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4204",
+      "course_name": "Biometrics",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts and Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4205",
+      "course_name": "Big Data Analytics",
+      "prerequisites": [
+        "CSX2006 Mathematics and Statistics for Data Science",
+        "CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4206",
+      "course_name": "Data Warehousing and Business Intelligence",
+      "prerequisites": [
+        "CSX2006 Mathematics and Statistics for Data Science and CSX3006 Database Systems",
+        "CSX3006 Database Systems"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4207",
+      "course_name": "Decision Support and Recommender Systems",
+      "prerequisites": [
+        "CSX2006 Mathematics and Statistics for Data Science",
+        "CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4208",
+      "course_name": "Deep Learning",
+      "prerequisites": [
+        "CSX4203 Machine Learning",
+        "CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4209",
+      "course_name": "Intelligent System Development",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts and Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4210",
+      "course_name": "Natural Language Processing and Social Interactions",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts and Programming",
+        "CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4211",
+      "course_name": "Data Engineering",
+      "prerequisites": [
+        "CSX3006 Database Systems or ITX3006 Database Management Systems"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4212",
+      "course_name": "Data Analytics",
+      "prerequisites": [
+        "CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4213",
+      "course_name": "Computer Vision",
+      "prerequisites": [
+        "CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4301",
+      "course_name": "Network Design",
+      "prerequisites": [
+        "CSX 3005 Computer Networks or by the consent of the instructor"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4302",
+      "course_name": "Cisco Networking Workshop",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4303",
+      "course_name": "Network Security",
+      "prerequisites": [
+        "CSX 3005 Computer Networks or by the consent of the instructor"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4304",
+      "course_name": "Network Management",
+      "prerequisites": [
+        "CSX 3005 Computer Networks or by the consent of the instructor"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4305",
+      "course_name": "Heterogeneous Wireless Networks",
+      "prerequisites": [
+        "CSX 3005 Computer Networks or by the consent of the instructor"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4306",
+      "course_name": "Internet of Things",
+      "prerequisites": [
+        "CSX 3005 Computer Networks or by the consent of the instructor",
+        "CSX3005 Computer Networks"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4307",
+      "course_name": "Business Continuity Planning and Management",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4401",
+      "course_name": "Business Systems",
+      "prerequisites": [
+        "CSX2001 Introduction to Information Technology"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4402",
+      "course_name": "Sales and Distribution Mangement System",
+      "prerequisites": [
+        "CSX4401 Business Systems"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4403",
+      "course_name": "Manufacturing Management System",
+      "prerequisites": [
+        "CSX4401 Business Systems"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4404",
+      "course_name": "Supply Chain Management System",
+      "prerequisites": [
+        "CSX4401 Business Systems"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4405",
+      "course_name": "Finance and Accounting Information System",
+      "prerequisites": [
+        "CSX4401 Business Systems and \nACT1601 Fundamental of Financial Accounting"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4406",
+      "course_name": "Customer Relationship Mangement System",
+      "prerequisites": [
+        "CSX4401 Business Systems"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4407",
+      "course_name": "Enterprise Application Development",
+      "prerequisites": [
+        "CSX3006 Database Systems",
+        "CSX3006 Database Systems or ITX 3006 Database Management Systems"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4408",
+      "course_name": "Enterprise Database System",
+      "prerequisites": [
+        "CSX3006 Database Systems"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4409",
+      "course_name": "Blockchain Technology",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4501",
+      "course_name": "Theory of Computation",
+      "prerequisites": [
+        "CSX2008 Mathematics Foundation for Computer Science"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4502",
+      "course_name": "Tech Startup",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4503",
+      "course_name": "Information Systems Security",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4504",
+      "course_name": "Digital Marketing",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4505",
+      "course_name": "Digital Transformation",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4506",
+      "course_name": "Image Processing",
+      "prerequisites": [
+        "CSX3003 Data Structure and Algorithms"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4507",
+      "course_name": "Information Retrieval and Search Engines",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4508",
+      "course_name": "Quantitative Research for Digital Business",
+      "prerequisites": [
+        "CSX2003 Principles of Statistics"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4510",
+      "course_name": "Neural Network",
+      "prerequisites": [
+        "CSX3001 Fundamentals of Computer Programming and and ITX2007 Data Science"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4513",
+      "course_name": "AR/VR Application Development",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts and Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4514",
+      "course_name": "Cross-platform Application Development",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts and Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4515",
+      "course_name": "Game Design and Development",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts and Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4516",
+      "course_name": "Reusability and Design Patterns",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts and Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4601",
+      "course_name": "Presentation and Data Visualization Techniques",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4602",
+      "course_name": "Selected Topic in Entrepreneurship in Technology Business",
+      "prerequisites": [
+        "At least 100 credits"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4603",
+      "course_name": "Selected Topic in Numerical Analysis ",
+      "prerequisites": [
+        "CSX2008 Mathematics Foundation for Computer Science"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4605",
+      "course_name": "Selected Topic in Information Security",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4608",
+      "course_name": "Selected Topic in Software Quality Assurance",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4609",
+      "course_name": "Selected Topic in AI for Business",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4610",
+      "course_name": "Selected Topic in AI Prompt Engineering",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4611",
+      "course_name": "Selected Topic in Quantum Computing for Entrepreneurs",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4615",
+      "course_name": "Selected Topic in Business Insights and Visualization",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "CS",
+      "course_id": "CSX4616",
+      "course_name": "Selected Topic in  Backend Application Development",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts and Programming"
+      ]
+    },
+    {
+      "year": "66",
+      "program": "IT",
+      "course_id": "ITX2004",
+      "course_name": "UI/UX Design and prototyping",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "66",
+      "program": "IT",
+      "course_id": "ITX2005",
+      "course_name": "Design Thinking",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "66",
+      "program": "IT",
+      "course_id": "ITX2007",
+      "course_name": "Data Science",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX3002",
+      "course_name": "Introduction to Information Technology",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX3003",
+      "course_name": "Business Systems",
+      "prerequisites": [
+        "ITX3002 Introduction to Information Technology"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX3004",
+      "course_name": "Information System Analysis and Design",
+      "prerequisites": [
+        "CSX3006 Database Systems or ITX 3006 Database Management Systems"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX3007",
+      "course_name": "Software Engineering",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4104",
+      "course_name": "Software Testing",
+      "prerequisites": [
+        "ITX3007 Software Engineering"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4212",
+      "course_name": "Predictive Analytics",
+      "prerequisites": [
+        "ITX2007 Data Science"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4213",
+      "course_name": "Artificial Intelligence for Business",
+      "prerequisites": [
+        "ITX2007 Data Science"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4502",
+      "course_name": "Tech Startup",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4509",
+      "course_name": "Cybersecurity",
+      "prerequisites": [
+        "CSX3005 Computer Networks"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4517",
+      "course_name": "Software Configuration Mangement",
+      "prerequisites": [
+        "ITX3007 Software Engineering"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4518",
+      "course_name": "Blockchain and Digital Currencies",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4519",
+      "course_name": "Internetworking Workshop",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "65",
+      "program": "IT",
+      "course_id": "ITX1001",
+      "course_name": "Basic Mathematics and Statistics",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "66",
+      "program": "IT",
+      "course_id": "ITX2001 ",
+      "course_name": "Object-Oriented Concepts and Programming",
+      "prerequisites": [
+        "ITX3001 Fundamentals of Computer Programming"
+      ]
+    },
+    {
+      "year": "66",
+      "program": "IT",
+      "course_id": "ITX2003",
+      "course_name": "Principles of Statistics",
+      "prerequisites": [
+        "ITX1001 Basic Mathematics and Statistics"
+      ]
+    },
+    {
+      "year": "66",
+      "program": "IT",
+      "course_id": "ITX2006",
+      "course_name": "Mathematics and Statistics for Data Science",
+      "prerequisites": [
+        "ITX2003 Principles of Statistics"
+      ]
+    },
+    {
+      "year": "66",
+      "program": "IT",
+      "course_id": "ITX2008",
+      "course_name": "Cloud Computing",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "66",
+      "program": "IT",
+      "course_id": "ITX2009",
+      "course_name": "Presentation and Data Visualization Techniques",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "66",
+      "program": "IT",
+      "course_id": "ITX2010",
+      "course_name": "Data Structure and Algorithms",
+      "prerequisites": [
+        "ITX2001 Object-Oriented Concepts and Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX3001",
+      "course_name": "Fundamentals of Computer Programming",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX3002",
+      "course_name": "Introduction to Information Technology",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX3004",
+      "course_name": "Information System Analysis and Design",
+      "prerequisites": [
+        "ITX 3006 Database Management Systems or CSX 3006 Database Systems"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX3005",
+      "course_name": "Computer Networks",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX3006",
+      "course_name": "Database Management Systems",
+      "prerequisites": [
+        "ITX2001 Object-Oriented Concepts and Programming",
+        "CSX3001 Fundamentals of Computer Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX3008",
+      "course_name": "IT Project Management",
+      "prerequisites": [
+        "Year 3 and >= 72 credits"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX3009",
+      "course_name": "Senior Project I",
+      "prerequisites": [
+        "Year 3 and >= 72 credits"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX3010",
+      "course_name": "Senior Project II",
+      "prerequisites": [
+        "Year 4 and >= 100 credits"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4103",
+      "course_name": "Requirement Engineering",
+      "prerequisites": [
+        "ITX3004 Information System Analysis and Design",
+        "ITX3007 Software Engineering"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4106",
+      "course_name": "Enterprise Architectures",
+      "prerequisites": [
+        "ITX3003 Business Systems"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4107",
+      "course_name": "Web Application Development",
+      "prerequisites": [
+        "ITX2001 Object-Oriented Concepts and Programming",
+        "CSX3002 Object-Oriented Concepts and Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4108",
+      "course_name": "iOS Application Development",
+      "prerequisites": [
+        "ITX2001 Object-Oriented Concepts and Programming",
+        "CSX3002 Object-Oriented Concepts and Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4109",
+      "course_name": "Android Application Development",
+      "prerequisites": [
+        "ITX2001 Object-Oriented Concepts and Programming",
+        "CSX3002 Object-Oriented Concepts and Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4110",
+      "course_name": "Enterprise System Integration",
+      "prerequisites": [
+        "ITX3003 Business Systems"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4111",
+      "course_name": "Software Architectures",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts and Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4181",
+      "course_name": "Selected Topic in  Backend Application Development",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts and Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4201",
+      "course_name": "Artificial Intelligence Concepts",
+      "prerequisites": [
+        "ITX2001 Object-Oriented Concepts and Programming",
+        "CSX3001 Fundamentals of Computer Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4202",
+      "course_name": "Data Mining",
+      "prerequisites": [
+        "ITX2001 Object-Oriented Concepts and Programming",
+        "CSX3001 Fundamentals of Computer Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4203",
+      "course_name": "Machine Learning",
+      "prerequisites": [
+        "ITX2001 Object-Oriented Concepts and Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4204",
+      "course_name": "Biometrics",
+      "prerequisites": [
+        "ITX2001 Object-Oriented Concepts and Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4205",
+      "course_name": "Big Data Analytics",
+      "prerequisites": [
+        "ITX2006 Mathematics and Statistics for Data Science",
+        "CSX3001 Fundamentals of Computer Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4206",
+      "course_name": "Data Warehousing and Business Intelligence",
+      "prerequisites": [
+        "ITX2006 Mathematics and Statistics for Data Science and ITX3006 Database Management Systems"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4207",
+      "course_name": "Decision Support and Recommender Systems",
+      "prerequisites": [
+        "ITX2006 Mathematics and Statistics for Data Science"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4208",
+      "course_name": "Deep Learning",
+      "prerequisites": [
+        "ITX4203 Machine Learning"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4209",
+      "course_name": "Intellgernt System Development",
+      "prerequisites": [
+        "ITX2001 Object-Oriented Concepts and Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4210",
+      "course_name": "Natural Language Processing and Social Interactions",
+      "prerequisites": [
+        "ITX2001 Object-Oriented Concepts and Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4214",
+      "course_name": "Data Science Project Management",
+      "prerequisites": [
+        "ITX2007 Data Science"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4215",
+      "course_name": "Business Insights and Visualization",
+      "prerequisites": [
+        "ITX2007 Data Science"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4283",
+      "course_name": "Selected Topic in Natural Language Processing and Social Interactions",
+      "prerequisites": [
+        "ITX2001 Object-Oriented Concepts and Programming"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4301",
+      "course_name": "Network Design",
+      "prerequisites": [
+        "ITX3005 or by the consent of the instructor"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4302",
+      "course_name": "Cisco Networking Workshop",
+      "prerequisites": ["None"]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4303",
+      "course_name": "Network Security",
+      "prerequisites": [
+        "ITX3005 or by the consent of the instructor"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4304",
+      "course_name": "Network Management",
+      "prerequisites": [
+        "ITX3005 or by the consent of the instructor"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4305",
+      "course_name": "Heterogeneous Wireless Networks",
+      "prerequisites": [
+        "ITX3005 or by the consent of the instructor"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4306",
+      "course_name": "Internet of Things",
+      "prerequisites": [
+        "ITX3005 or by the consent of the instructor",
+        "CSX3005 Computer Networks"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4307",
+      "course_name": "Business Continuity Planning and Management",
+      "prerequisites": [
+        "ITX4503 Information Systems Security"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4402",
+      "course_name": "Sales and Distrinution Management System",
+      "prerequisites": [
+        "ITX3003 Business Systems"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4403",
+      "course_name": "Manufacturing Management System",
+      "prerequisites": [
+        "ITX3003 Business Systems"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4404",
+      "course_name": "Supply Chain Management System",
+      "prerequisites": [
+        "ITX3003 Business Systems"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4405",
+      "course_name": "Finance and Acounting Information System",
+      "prerequisites": [
+        "ITX3003 Business Systems and \nACT1601 Fundamental of Financial Accounting"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4406",
+      "course_name": "Customer Relationship Management System",
+      "prerequisites": [
+        "ITX3003 Business Systems"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4407",
+      "course_name": "Enterprise Application Development",
+      "prerequisites": [
+        "ITX3006 Database Management Systems"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4408",
+      "course_name": "Enterprise Database System",
+      "prerequisites": [
+        "ITX3006 Database Management Systems"
+      ]
+    },
+    {
+      "year": "67",
+      "program": "IT",
+      "course_id": "ITX4409",
+      "course_name": "Blockchain Technology",
+      "prerequisites": ["None"]
+    }
+  ]
+  
