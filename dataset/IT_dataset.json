@@ -1,0 +1,1397 @@
+[
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "BG 1001",
+    "course_name": "English I",
+    "prerequisites": "None"
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "BG 1002",
+    "course_name": "English II",
+    "prerequisites": ["BG 1001 English I"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "BG 2000",
+    "course_name": "English III",
+    "prerequisites": ["BG 1002 English II"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "BG 2001",
+    "course_name": "English IV",
+    "prerequisites": ["BG 2000 English III"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "BBA 1001",
+    "course_name": "Business Exploration",
+    "prerequisites": "None"
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 1001",
+    "course_name": "Basic Mathematics and Statistics",
+    "prerequisites": "None"
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 3001",
+    "course_name": "Fundamentals of Computer Programming",
+    "prerequisites": "None"
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 3002",
+    "course_name": "Introduction to Information Technology",
+    "prerequisites": "None"
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 2001",
+    "course_name": "Object-Oriented Concepts and Programming",
+    "prerequisites": ["ITX 3001 Fundamentals of Computer Programming"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 2002",
+    "course_name": "Calculus",
+    "prerequisites": ["ITX 1001 Basic Mathematics and Statistics"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 2003",
+    "course_name": "Principles of Statistics",
+    "prerequisites": ["ITX 1001 Basic Mathematics and Statistics"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 2004",
+    "course_name": "UI/UX Design and Prototyping",
+    "prerequisites": "None"
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "LAW 1201",
+    "course_name": "Business Laws for Entrepreneurs",
+    "prerequisites": "None"
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 2005",
+    "course_name": "Design Thinking",
+    "prerequisites": "None"
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 2006",
+    "course_name": "Mathematics and Statistics for Data Science",
+    "prerequisites": ["ITX 2003 Principles of Statistics"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 2010",
+    "course_name": "Data Structure and Algorithms",
+    "prerequisites": ["ITX 2001 Object-Oriented Concepts and Programming"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 3003",
+    "course_name": "Business Systems",
+    "prerequisites": ["ITX 3002 Introduction to Information Technology"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 3005",
+    "course_name": "Computer Networks",
+    "prerequisites": "None"
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "BAC 1602",
+    "course_name": "Fundamentals of Financial Accounting I",
+    "prerequisites": "None"
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 2007",
+    "course_name": "Data Science",
+    "prerequisites": ["ITX 2006 Mathematics and Statistics for Data Science"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 2008",
+    "course_name": "Cloud Computing",
+    "prerequisites": "None"
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 2009",
+    "course_name": "Presentation and Data Visualization Techniques",
+    "prerequisites": "None"
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 3006",
+    "course_name": "Database Management Systems",
+    "prerequisites": ["ITX 2001 Object-Oriented Concepts and Programming"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 3004",
+    "course_name": "Information System Analysis and Design",
+    "prerequisites": "None"
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 3007",
+    "course_name": "Software Engineering",
+    "prerequisites": "None"
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 3008",
+    "course_name": "IT Project Management",
+    "prerequisites": "None"
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "GE 2202",
+    "course_name": "Ethics",
+    "prerequisites": "None"
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 3009",
+    "course_name": "Senior Project I",
+    "prerequisites": ["3rd year & 72 credits"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 3010",
+    "course_name": "Senior Project II",
+    "prerequisites": ["4th year & 100 credits"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "BBA 2001",
+    "course_name": "Human Behavior",
+    "prerequisites": "None"
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "BEC 2200",
+    "course_name": "Introduction to Economics",
+    "prerequisites": "None"
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "GE 1102",
+    "course_name": "Introduction to Philosophy",
+    "prerequisites": "None"
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "GE 1103",
+    "course_name": "Historical Perspectives on Thailand",
+    "prerequisites": "None"
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "GE 1203",
+    "course_name": "Society, Politics and Economics",
+    "prerequisites": "None"
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "GE 1205",
+    "course_name": "ASEAN Ways",
+    "prerequisites": "None"
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "GE 1206",
+    "course_name": "Philosophy of Sufficiency Economy",
+    "prerequisites": "None"
+  },
+  
+    {
+      "year": "64",
+      "program": "General Education",
+      "course_id": "GE 1207",
+      "course_name": "Fundamental Psychology",
+      "prerequisites": "None"
+    },
+    {
+      "year": "64",
+      "program": "General Education",
+      "course_id": "GE 1302",
+      "course_name": "Ecology and Sustainability",
+      "prerequisites": "None"
+    },
+    {
+      "year": "64",
+      "program": "General Education",
+      "course_id": "GE 1403",
+      "course_name": "Communication in Thai",
+      "prerequisites": "Thai Students"
+    },
+    {
+      "year": "64",
+      "program": "General Education",
+      "course_id": "GE 1405",
+      "course_name": "Thai Language and Culture",
+      "prerequisites": "Non-Thai Students"
+    },
+    {
+      "year": "64",
+      "program": "General Education",
+      "course_id": "GE 1406",
+      "course_name": "Burmese Language",
+      "prerequisites": "None"
+    },
+    {
+      "year": "64",
+      "program": "General Education",
+      "course_id": "GE 1407",
+      "course_name": "Russian Language",
+      "prerequisites": "None"
+    },
+    {
+      "year": "64",
+      "program": "General Education",
+      "course_id": "GE 2102",
+      "course_name": "Human Heritage and Globalization",
+      "prerequisites": "None"
+    },
+    {
+      "year": "64",
+      "program": "General Education",
+      "course_id": "GE 2103",
+      "course_name": "Art of Reasoning",
+      "prerequisites": "None"
+    },
+    
+      {
+        "year": "64",
+        "program": "General Education",
+        "course_id": "GE 2104",
+        "course_name": "Thai Buddhism",
+        "prerequisites": "None"
+      },
+      {
+        "year": "64",
+        "program": "General Education",
+        "course_id": "GE 2105",
+        "course_name": "Introduction to World Religion",
+        "prerequisites": "None"
+      },
+      {
+        "year": "64",
+        "program": "General Education",
+        "course_id": "GE 2106",
+        "course_name": "Logical Thinking and Application",
+        "prerequisites": "None"
+      },
+      {
+        "year": "64",
+        "program": "General Education",
+        "course_id": "GE 2107",
+        "course_name": "Applied Philosophy in Social Science and Humanities",
+        "prerequisites": "None"
+      },
+      {
+        "year": "64",
+        "program": "General Education",
+        "course_id": "GE 2203",
+        "course_name": "Art of Living",
+        "prerequisites": "None"
+      },
+      {
+        "year": "64",
+        "program": "General Education",
+        "course_id": "GE 2205",
+        "course_name": "Communication and Multicultural Society",
+        "prerequisites": "None"
+      },
+      {
+        "year": "64",
+        "program": "General Education",
+        "course_id": "GE 2206",
+        "course_name": "Personality Development",
+        "prerequisites": "None"
+      },
+      {
+        "year": "64",
+        "program": "General Education",
+        "course_id": "GE 2207",
+        "course_name": "Sport, Health and Wellness Development",
+        "prerequisites": "None"
+      },
+      {
+        "year": "64",
+        "program": "General Education",
+        "course_id": "GE 2208",
+        "course_name": "Thai Politics and Government",
+        "prerequisites": "None"
+      },
+      {
+        "year": "64",
+        "program": "General Education",
+        "course_id": "GE 2301",
+        "course_name": "Lifestyles in Dynamic World",
+        "prerequisites": "None"
+      },
+      {
+        "year": "64",
+        "program": "General Education",
+        "course_id": "GE 2302",
+        "course_name": "Climate Change and Human Life",
+        "prerequisites": "None"
+      },
+      {
+        "year": "64",
+        "program": "General Education",
+        "course_id": "GE 2303",
+        "course_name": "Building Brilliant Brain",
+        "prerequisites": "None"
+      },
+      {
+        "year": "64",
+        "program": "General Education",
+        "course_id": "GE 3401",
+        "course_name": "Public Speaking in Thai",
+        "prerequisites": "None"
+      },
+      {
+        "year": "64",
+        "program": "Mathematics",
+        "course_id": "MA 1200",
+        "course_name": "Mathematics for Business",
+        "prerequisites": "None"
+      },
+    
+
+
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4103",
+    "course_name": "Requirement Engineering",
+    "prerequisites": ["ITX 3004 Information System Analysis and Design"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4104",
+    "course_name": "Software Testing",
+    "prerequisites": ["ITX 3004 Information System Analysis and Design"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4106",
+    "course_name": "Enterprise Architecture",
+    "prerequisites": "None"
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4107",
+    "course_name": "Web Application Development",
+    "prerequisites": ["ITX 2001 Object-Oriented Concepts and Programming"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4108",
+    "course_name": "iOS Application Development",
+    "prerequisites": ["ITX 2001 Object-Oriented Concepts and Programming"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4109",
+    "course_name": "Android Application Development",
+    "prerequisites": ["ITX 2001 Object-Oriented Concepts and Programming"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4201",
+    "course_name": "Artificial Intelligence Concepts",
+    "prerequisites": ["ITX 2001 Object-Oriented Concepts and Programming"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4202",
+    "course_name": "Data Mining",
+    "prerequisites": ["ITX 2001 Object-Oriented Concepts and Programming"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4203",
+    "course_name": "Machine Learning",
+    "prerequisites": ["ITX 2001 Object-Oriented Concepts and Programming"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4204",
+    "course_name": "Biometrics",
+    "prerequisites": ["ITX 2001 Object-Oriented Concepts and Programming"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4205",
+    "course_name": "Big Data Analytics",
+    "prerequisites": ["ITX 2006 Mathematics and Statistics for Data Science"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4206",
+    "course_name": "Data Warehousing and Business Intelligence",
+    "prerequisites": ["ITX 2006 Mathematics and Statistics for Data Science", "ITX 3006 Database Management Systems"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4207",
+    "course_name": "Decision Support and Recommendation Systems",
+    "prerequisites": ["ITX 2006 Mathematics and Statistics for Data Science"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4208",
+    "course_name": "Deep Learning",
+    "prerequisites": ["ITX 4203 Machine Learning"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4209",
+    "course_name": "Intelligent System Development",
+    "prerequisites": ["ITX 2001 Object-Oriented Concepts and Programming"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4210",
+    "course_name": "Natural Language Processing and Social Interactions",
+    "prerequisites": ["ITX 2001 Object-Oriented Concepts and Programming"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4301",
+    "course_name": "Network Design",
+    "prerequisites": ["ITX 3005 Computer Networks"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4302",
+    "course_name": "Cisco Networking Workshop",
+    "prerequisites": "None"
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4303",
+    "course_name": "Network Security",
+    "prerequisites": ["ITX 3005 Computer Networks"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4304",
+    "course_name": "Network Management",
+    "prerequisites": ["ITX 3005 Computer Networks"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4305",
+    "course_name": "Heterogeneous Wireless Networks",
+    "prerequisites": ["ITX 3005 Computer Networks"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4306",
+    "course_name": "Internet of Things",
+    "prerequisites": ["ITX 3005 Computer Networks"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4307",
+    "course_name": "Business Continuity Planning and Management",
+    "prerequisites": "None"
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4402",
+    "course_name": "Sales and Distribution Management System",
+    "prerequisites": ["ITX 3003 Business Systems"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4403",
+    "course_name": "Manufacturing Management System",
+    "prerequisites": ["ITX 3003 Business Systems"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4404",
+    "course_name": "Supply Chain Management System",
+    "prerequisites": ["ITX 3003 Business Systems"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4405",
+    "course_name": "Finance and Accounting Information System",
+    "prerequisites": ["ITX 3003 Business Systems", "ACT 1601 Introduction to Accounting"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4406",
+    "course_name": "Customer Relationship Management System",
+    "prerequisites": ["ITX 3003"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4407",
+    "course_name": "Enterprise Application Development",
+    "prerequisites": ["ITX 3006"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4408",
+    "course_name": "Enterprise Database System",
+    "prerequisites": ["ITX 3006"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4407",
+    "course_name": "Enterprise Application Development",
+    "prerequisites": ["ITX 3006"]
+  },
+  {
+    "year": "64",
+    "program": "IT",
+    "course_id": "ITX 4409",
+    "course_name": "Blockchain Technology",
+    "prerequisites": "None"
+  },
+  
+  
+      {
+        "year": "64",
+        "program": "IT",
+        "course_id": "ITX 4502",
+        "course_name": "Tech Startup",
+        "prerequisites": "None"
+      },
+      {
+        "year": "64",
+        "program": "IT",
+        "course_id": "ITX 4503",
+        "course_name": "Information System Security",
+        "prerequisites": "None"
+      },
+      {
+        "year": "64",
+        "program": "IT",
+        "course_id": "ITX 4504",
+        "course_name": "Digital Marketing",
+        "prerequisites": "None"
+      },
+      {
+        "year": "64",
+        "program": "IT",
+        "course_id": "ITX 4505",
+        "course_name": "Digital Transformation",
+        "prerequisites": "None"
+      },
+      {
+        "year": "64",
+        "program": "IT",
+        "course_id": "ITX 4506",
+        "course_name": "Image Processing",
+        "prerequisites": ["ITX 2010"]
+      },
+      {
+        "year": "64",
+        "program": "IT",
+        "course_id": "ITX 4507",
+        "course_name": "Information Retrieval and Search Engines",
+        "prerequisites": "None"
+      },
+      {
+        "year": "64",
+        "program": "IT",
+        "course_id": "ITX 4508",
+        "course_name": "Quantitative Research for Digital Business",
+        "prerequisites": ["ITX 2003"]
+      },
+      {
+        "year": "64",
+        "program": "IT",
+        "course_id": ["ITX 4600", "ITX 4601", "ITX 4602", "ITX 4603", "ITX 4604", "ITX 4605", "ITX 4606", "ITX 4607", "ITX 4608", "ITX 4609", "ITX 4610", "ITX 4611", "ITX 4612", "ITX 4613", "ITX 4614", "ITX 4615", "ITX 4616", "ITX 4617", "ITX 4618", "ITX 4619", "ITX 4620", "ITX 4621", "ITX 4622", "ITX 4623", "ITX 4624", "ITX 4625", "ITX 4626", "ITX 4627", "ITX 4628", "ITX 4629", "ITX 4630", "ITX 4631", "ITX 4632", "ITX 4633", "ITX 4634", "ITX 4635", "ITX 4636", "ITX 4637", "ITX 4638", "ITX 4639", "ITX 4640", "ITX 4641", "ITX 4642", "ITX 4643", "ITX 4644", "ITX 4645", "ITX 4646", "ITX 4647", "ITX 4648", "ITX 4649", "ITX 4650", "ITX 4651", "ITX 4652", "ITX 4653", "ITX 4654", "ITX 4655", "ITX 4656", "ITX 4657", "ITX 4658", "ITX 4659", "ITX 4660", "ITX 4661", "ITX 4662", "ITX 4663", "ITX 4664", "ITX 4665", "ITX 4666", "ITX 4667", "ITX 4668", "ITX 4669", "ITX 4670", "ITX 4671", "ITX 4672", "ITX 4673", "ITX 4674", "ITX 4675", "ITX 4676", "ITX 4677", "ITX 4678", "ITX 4679", "ITX 4680", "ITX 4681", "ITX 4682", "ITX 4683", "ITX 4684", "ITX 4685", "ITX 4686", "ITX 4687", "ITX 4688", "ITX 4689", "ITX 4690", "ITX 4691", "ITX 4692", "ITX 4693", "ITX 4694", "ITX 4695", "ITX 4696", "ITX 4697", "ITX 4698", "ITX 4699"],
+        "course_name": "Selected Topics",
+        "prerequisites": ["3rd/4th year"]
+      },
+
+    
+  
+      
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "ELE 1001",
+          "course_name": "Communicative English I",
+          "prerequisites": "None"
+        },
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "BBA 1006",
+          "course_name": "Essential Economics for Entrepreneurs",
+          "prerequisites": "None"
+        },
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "CSX 3001",
+          "course_name": "Fundamentals of Computer Programming",
+          "prerequisites": "None"
+        },
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "ITX 3002",
+          "course_name": "Introduction to Information Technology",
+          "prerequisites": "None"
+        },
+        
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "GE 1303",
+          "course_name": "Science for Sustainable Future",
+          "prerequisites": "None"
+        },
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "ELE 1002",
+          "course_name": "Communicative English II",
+          "prerequisites": "ELE 1001 - Communicative English I"
+        },
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "BBA 1004",
+          "course_name": "Essential Marketing for Entrepreneurs",
+          "prerequisites": "None"
+        },
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "CSX 3002",
+          "course_name": "Object-Oriented Concepts and Programming",
+          "prerequisites": "CSX 3001 - Fundamentals of Computer Programming"
+        },
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "ITX 2005",
+          "course_name": "Design Thinking",
+          "prerequisites": "None"
+        },
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "ITX 3003",
+          "course_name": "Business Systems",
+          "prerequisites": "ITX 3002 Introduction to Information Technology"
+        },
+          {
+            "year": "65",
+            "program": "IT",
+            "course_id": "GE 1410",
+            "course_name": "Thai for Professional Communication",
+            "prerequisites": "GE1410 Thai Students\nGE1411 Non-Thai students\nGE1412 Thai students from International Program"
+          },
+          {
+            "year": "65",
+            "program": "IT",
+            "course_id": "GE 1411",
+            "course_name": "Thai Language for Multicultural Communication",
+            "prerequisites":"GE1410 Thai Students\nGE1411 Non-Thai students\nGE1412 Thai students from International Program"
+          },
+          {
+            "year": "65",
+            "program": "IT",
+            "course_id": "GE 1412",
+            "course_name": "Introductory Thai Usage",
+            "prerequisites": "GE1410 Thai Students\nGE1411 Non-Thai students\nGE1412 Thai students from International Program"
+          },
+        
+        
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "ELE 2000",
+          "course_name": "Academic English",
+          "prerequisites": "ELE 1002 - Communicative English II"
+        },
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "BBA 1005",
+          "course_name": "Essential Finance for Entrepreneurs",
+          "prerequisites": "None but BBA 1006 is recommended"
+        },
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "CSX 2006",
+          "course_name": "Mathematics and Statistics for Data Science",
+          "prerequisites": "None"
+        },
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "CSX 3003",
+          "course_name": "Data Structures and Algorithms",
+          "prerequisites": "CSX 3002 - Object-Oriented Concepts and Programming"
+        },
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "ITX 3007",
+          "course_name": "Software Engineering",
+          "prerequisites": "CSX 3002 - Object-Oriented Concepts and Programming"
+        },
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "ELE 2001",
+          "course_name": "Advanced Academic English",
+          "prerequisites": "ELE 2000 - Academic English"
+        },
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "BBA 1007",
+          "course_name": "Data Analytics for Entrepreneurs",
+          "prerequisites": "None but BBA 1006 is recommended"
+        },
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "CSX 2009",
+          "course_name": "Cloud Computing",
+          "prerequisites": "None"
+        },
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "ITX 2007",
+          "course_name": "Data Science",
+          "prerequisites": "CSX 2006 - Mathematics and Statistics for Data Science"
+        },
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "ITX 3006",
+          "course_name": "Database Management Systems",
+          "prerequisites": "CSX 3001 - Fundamentals of Computer Programming"
+        }, {
+          "year": "65",
+          "program": "IT",
+          "course_id": "GE 2110",
+          "course_name": "Human Civilizations and Global Citizens",
+          "prerequisites": "None"
+        },
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "CSX 3005",
+          "course_name": "Computer Networks",
+          "prerequisites": "None"
+        },
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "ITX 2009",
+          "course_name": "Presentation and Data Visualization Techniques",
+          "prerequisites": "None"
+        },
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "ITX 3004",
+          "course_name": "Information Systems Analysis and Design",
+          "prerequisites": "ITX3006 Database Management Systems or CSX3006 Database Management Systems"
+        },
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "ITX 4503",
+          "course_name": "Information Systems Security",
+          "prerequisites": "ITX 3002 Introduction to Information Technology"
+        },
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "ITX 3008",
+          "course_name": "IT Project Management",
+          "prerequisites": "Year 3 and >= 72 credits"
+        },
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "ITX 3009",
+          "course_name": "Senior Project I",
+          "prerequisites": "Year 3 and >= 72 credits"
+        },
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "GE 2202",
+          "course_name": "Ethics",
+          "prerequisites": "None"
+        },
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "ITX 3010",
+          "course_name": "Senior Project II",
+          "prerequisites": "Year 4 and >= 100 credits"
+        },
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "CSX 4107",
+          "course_name": "Web Application Development",
+          "prerequisites": "CSX 3002 - Object-Oriented Concepts and Programming"
+        },
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "CSX 4201",
+          "course_name": "Artificial Intelligence Concepts",
+          "prerequisites": "CSX 3001 - Fundamentals of Computer Programming"
+        },
+        {
+          "year": "65",
+          "program": "IT",
+          "course_id": "ITX 4509",
+          "course_name": "Cybersecurity",
+          "prerequisites": "CSX 3005 - Computer Networks"
+        },
+        
+          
+          {
+            "year": "65",
+            "program": "IT",
+            "course_id": "CSX 4109",
+            "course_name": "Android Application Development",
+            "prerequisites": "CSX3002 Object-Oriented Concepts and Programming"
+          },
+          {
+            "year": "65",
+            "program": "IT",
+            "course_id": "ITX 4103",
+            "course_name": "Requirement Engineering",
+            "prerequisites": "ITX 3007 Software Engineering"
+          },
+          {
+            "year": "65",
+            "program": "IT",
+            "course_id": "ITX 4104",
+            "course_name": "Software Testing",
+            "prerequisites": "ITX 3007 Software Engineering"
+          },
+          {
+            "year": "65",
+            "program": "IT",
+            "course_id": "ITX 4110",
+            "course_name": "Enterprise System Integration",
+            "prerequisites": "ITX3003 Business Systems"
+          },
+          {
+            "year": "65",
+            "program": "IT",
+            "course_id": "ITX 4111",
+            "course_name": "Software Architectures",
+            "prerequisites": "CSX 3002 - Object-Oriented Concepts and Programming"
+          },
+          {
+            "year": "65",
+            "program": "IT",
+            "course_id": "ITX 4518",
+            "course_name": "Blockchain and Digital Currencies",
+            "prerequisites": ""
+          },
+          {
+            "year": "65",
+            "program": "IT",
+            "course_id": "ITX 4180-4199",
+            "course_name": "Selected Topic [in Software Engineering]",
+            "prerequisites": ""
+          },
+          {
+            "year": "65",
+            "program": "IT",
+            "course_id": "CSX 4201",
+            "course_name": "Artificial Intelligence Concepts",
+            "prerequisites": "CSX 3001 - Fundamentals of Computer Programming"
+          },
+          {
+            "year": "65",
+            "program": "IT",
+            "course_id": "CSX 4202",
+            "course_name": "Data Mining",
+            "prerequisites": "CSX 3001 - Fundamentals of Computer Programming"
+          },
+          {
+            "year": "65",
+            "program": "IT",
+            "course_id": "CSX 4211",
+            "course_name": "Data Engineering",
+            "prerequisites": "ITX3006 Database Management Systems or CSX3006 Database Management Systems"
+          },
+          {
+            "year": "65",
+            "program": "IT",
+            "course_id": "ITX 4212",
+            "course_name": "Predictive Analytics",
+            "prerequisites": "ITX2007 Data Science"
+          },
+          {
+            "year": "65",
+            "program": "IT",
+            "course_id": "ITX 4213",
+            "course_name": "Artificial Intelligence for Business",
+            "prerequisites": "ITX2007 Data Science"
+          },
+          {
+            "year": "65",
+            "program": "IT",
+            "course_id": "ITX 4214",
+            "course_name": "Data Science Project Management",
+            "prerequisites": "ITX2007 Data Science"
+          },
+          {
+            "year": "65",
+            "program": "IT",
+            "course_id": "ITX 4215",
+            "course_name": "Business Insights and Visualization",
+            "prerequisites": "ITX2007 Data Science"
+          },
+          {
+            "year": "65",
+            "program": "IT",
+            "course_id": "ITX 4280-4299",
+            "course_name": "Selected Topic [in Data Science]",
+            "prerequisites": ""
+          },
+          {
+            "year": "65",
+            "program": "IT",
+            "course_id": "CA 1103",
+            "course_name": "Computer Graphic Design",
+            "prerequisites": ""
+          },
+          {
+            "year": "65",
+            "program": "IT",
+            "course_id": "CA 2110",
+            "course_name": "Media Literacy and Ethical Concerns",
+            "prerequisites": "CA1100 Introduction to Communication"
+          },
+          {
+            "year": "65",
+            "program": "IT",
+            "course_id": "CA 3100",
+            "course_name": "Consumer Insight and Tools",
+            "prerequisites": ""
+          },
+          {
+            "year": "65",
+            "program": "IT",
+            "course_id": "CA 3111",
+            "course_name": "Creative Entrepreneurial Project Management",
+            "prerequisites": "CA1100 Introduction to Communication"
+          },
+          {
+            "year": "65",
+            "program": "IT",
+            "course_id": "ITX 4213",
+            "course_name": "Artificial Intelligence for Business",
+            "prerequisites": ""
+          },
+          {
+            "year": "65",
+            "program": "IT",
+            "course_id": "ITX 4215",
+            "course_name": "Business Insights and Visualization",
+            "prerequisites": "ITX2007 Data Science"
+          },
+          
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "ITX 4518",
+              "course_name": "Blockchain and Digital Currencies",
+              "prerequisites": "None"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "ITX 4900-4909",
+              "course_name": "Selected Topic [in Marketing Technology]",
+              "prerequisites": "None"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "FT 4144",
+              "course_name": "Food Ingredients Functionality",
+              "prerequisites": "None"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "FT 4152",
+              "course_name": "Bioinformatics for Food Technology",
+              "prerequisites": "None"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "FT 4153",
+              "course_name": "Integrated IOT to Smart and Green Food Industry",
+              "prerequisites": "None"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "FT 4154",
+              "course_name": "Intelligent Packaging Technology",
+              "prerequisites": "None"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "ITX 4213",
+              "course_name": "Artificial Intelligence for Business",
+              "prerequisites": "ITX2007 Data Science"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "ITX 4215",
+              "course_name": "Business Insights and Visualization",
+              "prerequisites": "ITX2007 Data Science"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "ITX 4910-4919",
+              "course_name": "Selected Topic [in Food and Agriculture Technology]",
+              "prerequisites": "None"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "MB 3541",
+              "course_name": "Online Social Media for Music Business",
+              "prerequisites": "None"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "MB 3550",
+              "course_name": "Feasibility Study for Music Entrepreneur",
+              "prerequisites": "MB2531 Music Business and BBA 1104 Fundamentals of Marketing"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "MB 3551",
+              "course_name": "Creative Music Entrepreneurship",
+              "prerequisites": "None"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "IBE 2103",
+              "course_name": "Business Finance",
+              "prerequisites": "MA1000 Business Mathematics and Statistics or equivalent"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "IBE 3101",
+              "course_name": "Business Analysis",
+              "prerequisites": "MA1000 Business Mathematics and Statistics or equivalent"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "BFN 3211",
+              "course_name": "Investment Strategy and Applied Valuation",
+              "prerequisites": "IBE2103 Business Financce and completion of 70credits"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "BFN 4314",
+              "course_name": "Personal Wealth Management and Financial Planning",
+              "prerequisites": "IBE2103 Business Financce and completion of 70credits"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "BFN 4421",
+              "course_name": "Portfolio Management and Analysis",
+              "prerequisites": "BFN3211 Investment Strategy and Applied Valuation and completion of 70credits"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "BFN 4431",
+              "course_name": "Startup Finance and FinTech",
+              "prerequisites": "BBA2103 Corporate Finance and completion of 100 credits"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "ITX 4930-4939",
+              "course_name": "Selected Topic [in Finance and Insurance Technologies]",
+              "prerequisites": "None"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "CSX 4108",
+              "course_name": "iOS Application Development",
+              "prerequisites": "CSX3002 Object-Oriented Concepts and Programming"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "CSX 4205",
+              "course_name": "Big Data Analytics",
+              "prerequisites": "CSX 3001 - Fundamentals of Computer Programming"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "CSX 4306",
+              "course_name": "Internet of Things",
+              "prerequisites": "CSX 3005 - Computer Networks"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "CSX 4407",
+              "course_name": "Enterprise Application Development",
+              "prerequisites": "CSX3006/ ITX3006 Database Management System"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "CSX 4514",
+              "course_name": "Cross-platform Application Development",
+              "prerequisites": "CSX3002 Object-Oriented Concepts and Programming"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "ITX 4106",
+              "course_name": "Enterprise Architectures",
+              "prerequisites": "ITX3003 Business Systems"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "ITX 4307",
+              "course_name": "Business Continuity Planning and Management",
+              "prerequisites": "ITX4503 Information Systems Secutiry"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "ITX 4403",
+              "course_name": "Manufacturing Management System",
+              "prerequisites": "ITX3003 Business Systems"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "ITX 4404",
+              "course_name": "Supply Chain Management System",
+              "prerequisites": "ITX3003 Business Systems"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "ITX 4502",
+              "course_name": "Tech Startup",
+              "prerequisites": "None"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "ITX 4504",
+              "course_name": "Digital Marketing",
+              "prerequisites": "None"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "ITX 4505",
+              "course_name": "Digital Transformation",
+              "prerequisites": "ITX 3002 Introduction to Information Technology"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "ITX 4507",
+              "course_name": "Information Retrieval and Search Engines",
+              "prerequisites": "CSX3002 Object-Oriented Concepts and Programming"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "ITX 4508",
+              "course_name": "Quantitative Research for Digital Business",
+              "prerequisites": "None"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "ITX 4509",
+              "course_name": "Cybersecurity",
+              "prerequisites": "CSX 3005 - Computer Networks"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "ITX 4510",
+              "course_name": "Data Policies and Governance",
+              "prerequisites": "ITX2007 Data Science"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "ITX 4511",
+              "course_name": "Internet of Behaviors",
+              "prerequisites": "ITX2007 Data Science"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "ITX 4512",
+              "course_name": "Marketing Automation Systems",
+              "prerequisites": "ITX2007 Data Science"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "ITX 4513",
+              "course_name": "Social Media Analytics",
+              "prerequisites": "ITX2007 Data Science"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "ITX 4517",
+              "course_name": "Software Configuration Management",
+              "prerequisites": "None"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": "ITX 4519",
+              "course_name": "Internetworking Workshop",
+              "prerequisites": "ITX 3007 Software Engineering"
+            },
+            {
+              "year": "65",
+              "program": "IT",
+              "course_id": [
+                "ITX4600", "ITX4601", "ITX4602", "ITX4603", "ITX4604", "ITX4605", "ITX4606", "ITX4607", "ITX4608", "ITX4609",
+                "ITX4610", "ITX4611", "ITX4612", "ITX4613", "ITX4614", "ITX4615", "ITX4616", "ITX4617", "ITX4618", "ITX4619",
+                "ITX4620", "ITX4621", "ITX4622", "ITX4623", "ITX4624", "ITX4625", "ITX4626", "ITX4627", "ITX4628", "ITX4629",
+                "ITX4630", "ITX4631", "ITX4632", "ITX4633", "ITX4634", "ITX4635", "ITX4636", "ITX4637", "ITX4638", "ITX4639",
+                "ITX4640", "ITX4641", "ITX4642", "ITX4643", "ITX4644", "ITX4645", "ITX4646", "ITX4647", "ITX4648", "ITX4649",
+                "ITX4650", "ITX4651", "ITX4652", "ITX4653", "ITX4654", "ITX4655", "ITX4656", "ITX4657", "ITX4658", "ITX4659",
+                "ITX4660", "ITX4661", "ITX4662", "ITX4663", "ITX4664", "ITX4665", "ITX4666", "ITX4667", "ITX4668", "ITX4669",
+                "ITX4670", "ITX4671", "ITX4672", "ITX4673", "ITX4674", "ITX4675", "ITX4676", "ITX4677", "ITX4678", "ITX4679",
+                "ITX4680", "ITX4681", "ITX4682", "ITX4683", "ITX4684", "ITX4685", "ITX4686", "ITX4687", "ITX4688", "ITX4689",
+                "ITX4690", "ITX4691", "ITX4692", "ITX4693", "ITX4694", "ITX4695", "ITX4696", "ITX4697", "ITX4698", "ITX4699"
+              ],
+              "course_name": "Selected Topics",
+              "prerequisites": "None"
+            }
+            
+        
+
+]
