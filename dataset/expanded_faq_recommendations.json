@@ -4,7 +4,11 @@
       "answer": "If you're interested in working with data, consider these courses:\n- **ITX2007 Data Science** – Learn core data science skills including statistics and Python\n- **ITX3006 Database Management Systems** – Focuses on essential SQL/NoSQL database concepts\n- **ITX4212 Predictive Analytics** – Business-focused analytics and data-driven decision making\n- **CSX4205 Big Data Analytics** – Large-scale data processing (Hadoop, Spark) and analytics\n- **ITX2009 Presentation and Data Visualization Techniques** – Techniques for presenting complex data effectively\n"
     },
     {
-      "question": "I want to learn coding.",
+        "question": "I'm interested in handling data.",
+        "answer": "If you're interested in working with data, consider these courses:\n- **ITX2007 Data Science** – Learn core data science skills including statistics and Python\n- **ITX3006 Database Management Systems** – Focuses on essential SQL/NoSQL database concepts\n- **ITX4212 Predictive Analytics** – Business-focused analytics and data-driven decision making\n- **CSX4205 Big Data Analytics** – Large-scale data processing (Hadoop, Spark) and analytics\n- **ITX2009 Presentation and Data Visualization Techniques** – Techniques for presenting complex data effectively\n"
+      },
+    {
+      "question": "I like coding.",
       "answer": "If you’re interested in learning to code, these courses are ideal:\n- **CSX3001 Fundamentals of Computer Programming** – An entry-level course covering basic coding principles\n- **CSX3002 Object-Oriented Concepts and Programming** – Develop skills in OOP (a must for many advanced courses)\n- **CSX4107 Web Application Development** – Front-end and server-side scripting for web applications\n- **CSX4110 Backend Application Development** – Learn how to build and maintain server-side logic\n- **CSX4109 Android Application Development** – Mobile development specific to the Android platform\n"
     },
     {
@@ -36,7 +40,7 @@
       "answer": "There are **two major semesters** per year:\n- **June to October**\n- **November to March**"
     },
     {
-      "question": "Can students drop courses if they find them difficult?",
+      "question": "Can I drop courses if I find them difficult?",
       "answer": "Yes, students are allowed to **drop courses before the deadline** if they find them difficult. The specific deadline for dropping courses is announced separately."
     },
     {
@@ -227,7 +231,7 @@
       "answer": "90 Credits"
     },
     {
-      "question": "What are the core courses in the CS curriculum?",
+      "question": "What are the core courses in the CS major?",
       "answer": [
         "CSX 2003 Principles of Statistics",
         "CSX 2006 Mathematics and Statistics for Data Science",
@@ -237,6 +241,15 @@
         "ITX 3007 Software Engineering"
       ]
     },
+    {
+        "question": "What are the core courses in the IT major?",
+        "answer": [
+            "CSX 2006 Mathematics and Statistics for Data Science",
+            "ITX 3004 Information System Analysis and Design",
+          "CSX 2008 Mathematics Foundation for Computer Science",
+          "ITX 2005 Design Thinking"
+        ]
+      },
     {
       "question": "What are the major course groups in the CS curriculum?",
       "answer": [
@@ -288,8 +301,59 @@
       ]
     },
     {
+        "question": "Which courses are included in the Innovative Marketing Technology concentration?",
+        "answer": [
+          "CA 1103 Computer Graphics Design",
+          "CA 2110 Media Literacy and Ethical Concerns",
+          "CA 3100 Consumer Insight and Tools",
+          "CA 3111 Creative Entrepreneurial Project Management",
+          "ITX 4213 Artificial Intelligence for Business",
+          "ITX 4215 Business Insights and Visualization",
+          "ITX 4518 Blockchain and Digital Currencies",
+          "ITX 4900-4909 Special Topics in Marketing Technology"
+        ]
+    },
+    {
+        "question": "Which courses are included in the Innovative Food Technology concentration?",
+        "answer": [
+            "FT 4144 Food Ingredients Functionality",
+            "FT 4152 Bioinformatics for Food Technology",
+            "FT 4153 Integrated IOT to Smart and Green Food Industry",
+            "FT 4154 Intelligent Packaging Technology",
+            "ITX 4213 Artificial Intelligence for Business",
+            "ITX 4215 Business Insights and Visualization",
+            "ITX 4518 Blockchain and Digital Currencies",
+          "ITX 4910-4919 Special Topics in Food and Agricultural Technology"
+        ]
+      },
+      {
+        "question": "Which courses are included in the Innovative Music Technology concentration?",
+        "answer": [
+            "MB 3541 Online Social Media for Music Business",
+            "MB 3550 Feasibility Study for Music Entrepreneur",
+            "MB 3551 Creative Music Entrepreneurship",
+            "ITX 4213 Artificial Intelligence for Business",
+            "ITX 4215 Business Insights and Visualization",
+            "ITX 4518 Blockchain and Digital Currencies",
+            "ITX 4920-4929 Selected Topic [in Music Innovation]"
+        ]
+      },
+      {
+        "question": "Which courses are included in the Innovative Music Technology concentration?",
+        "answer": [
+            "MB 3541 Online Social Media for Music Business",
+            "MB 3550 Feasibility Study for Music Entrepreneur",
+            "MB 3551 Creative Music Entrepreneurship",
+            "ITX 4213 Artificial Intelligence for Business",
+            "ITX 4215 Business Insights and Visualization",
+            "ITX 4518 Blockchain and Digital Currencies",
+            "ITX 4920-4929 Selected Topic [in Music Innovation]"
+        ]
+      },
+    {
       "question": "What is the minimum passing grade for major required courses?",
       "answer": "At least C grades are required"
     }
-  ]
+]
+  
   
