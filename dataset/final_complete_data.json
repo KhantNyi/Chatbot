@@ -1,0 +1,3144 @@
+[
+  {
+    "id": "64-Unknown-ACT1601",
+    "text": "Course ACT1601 (Fundamental of Financial Accounting) in the Unknown program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "Unknown",
+      "course_id": "ACT1601",
+      "course_name": "Fundamental of Financial Accounting",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-Unknown-ACT1601",
+    "text": "Course ACT1601 (Fundamental of Financial Accounting) in the Unknown program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "Unknown",
+      "course_id": "ACT1601",
+      "course_name": "Fundamental of Financial Accounting",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-Unknown-BAC1602",
+    "text": "Course BAC1602 (Fundamentals of Financial Accounting I) in the Unknown program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "Unknown",
+      "course_id": "BAC1602",
+      "course_name": "Fundamentals of Financial Accounting I",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-Unknown-BAC1602",
+    "text": "Course BAC1602 (Fundamentals of Financial Accounting I) in the Unknown program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "Unknown",
+      "course_id": "BAC1602",
+      "course_name": "Fundamentals of Financial Accounting I",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-Unknown-BBA1001",
+    "text": "Course BBA1001 (Business Exploration) in the Unknown program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "Unknown",
+      "course_id": "BBA1001",
+      "course_name": "Business Exploration",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-Unknown-BBA1001",
+    "text": "Course BBA1001 (Business Exploration) in the Unknown program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "Unknown",
+      "course_id": "BBA1001",
+      "course_name": "Business Exploration",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-Unknown-BG1400",
+    "text": "Course BG1400 (Business Law I) in the Unknown program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "Unknown",
+      "course_id": "BG1400",
+      "course_name": "Business Law I",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-Unknown-BG1400",
+    "text": "Course BG1400 (Business Law I) in the Unknown program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "Unknown",
+      "course_id": "BG1400",
+      "course_name": "Business Law I",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX1001",
+    "text": "Course CSX1001 (Basic Mathematics and Statistics) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX1001",
+      "course_name": "Basic Mathematics and Statistics",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX1001",
+    "text": "Course CSX1001 (Basic Mathematics and Statistics) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX1001",
+      "course_name": "Basic Mathematics and Statistics",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX2001",
+    "text": "Course CSX2001 (Introduction to Information Technology) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX2001",
+      "course_name": "Introduction to Information Technology",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX2001",
+    "text": "Course CSX2001 (Introduction to Information Technology) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX2001",
+      "course_name": "Introduction to Information Technology",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX2002",
+    "text": "Course CSX2002 (Calculus) in the CS program, for 64. Prerequisites: CSX1001 Basic Mathematics and Statistics.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX2002",
+      "course_name": "Calculus",
+      "prerequisites": [
+        "CSX1001 Basic Mathematics",
+        "Statistics"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX2002",
+    "text": "Course CSX2002 (Calculus) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX2002",
+      "course_name": "Calculus",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX2003",
+    "text": "Course CSX2003 (Principles of Statistics) in the CS program, for 64. Prerequisites: CSX1001 Basic Mathematics and Statistics.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX2003",
+      "course_name": "Principles of Statistics",
+      "prerequisites": [
+        "CSX1001 Basic Mathematics",
+        "Statistics"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX2003",
+    "text": "Course CSX2003 (Principles of Statistics) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX2003",
+      "course_name": "Principles of Statistics",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX2004",
+    "text": "Course CSX2004 (UI/UX Design and prototyping) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX2004",
+      "course_name": "UI/UX Design and prototyping",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX2004",
+    "text": "Course CSX2004 (UI/UX Design and prototyping) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX2004",
+      "course_name": "UI/UX Design and prototyping",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX2005",
+    "text": "Course CSX2005 (Design Thinking) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX2005",
+      "course_name": "Design Thinking",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX2005",
+    "text": "Course CSX2005 (Design Thinking) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX2005",
+      "course_name": "Design Thinking",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX2006",
+    "text": "Course CSX2006 (Mathematics and Statistics for Data Science) in the CS program, for 64. Prerequisites: CSX2003 Principles of Statistics.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX2006",
+      "course_name": "Mathematics and Statistics for Data Science",
+      "prerequisites": [
+        "CSX2003 Principles of Statistics"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX2006",
+    "text": "Course CSX2006 (Mathematics and Statistics for Data Science) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX2006",
+      "course_name": "Mathematics and Statistics for Data Science",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX2007",
+    "text": "Course CSX2007 (Data Science) in the CS program, for 64. Prerequisites: CSX2006 Mathematics and Statistics for Data Science.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX2007",
+      "course_name": "Data Science",
+      "prerequisites": [
+        "CSX2006 Mathematics",
+        "Statistics for Data Science"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX2007",
+    "text": "Course CSX2007 (Data Science) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX2007",
+      "course_name": "Data Science",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX2008",
+    "text": "Course CSX2008 (Mathematics Foundation for Computer Science) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX2008",
+      "course_name": "Mathematics Foundation for Computer Science",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX2008",
+    "text": "Course CSX2008 (Mathematics Foundation for Computer Science) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX2008",
+      "course_name": "Mathematics Foundation for Computer Science",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX2009",
+    "text": "Course CSX2009 (Cloud Computing) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX2009",
+      "course_name": "Cloud Computing",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX2009",
+    "text": "Course CSX2009 (Cloud Computing) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX2009",
+      "course_name": "Cloud Computing",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX3001",
+    "text": "Course CSX3001 (Fundamentals of Computer Programming) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX3001",
+      "course_name": "Fundamentals of Computer Programming",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX3001",
+    "text": "Course CSX3001 (Fundamentals of Computer Programming) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX3001",
+      "course_name": "Fundamentals of Computer Programming",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX3002",
+    "text": "Course CSX3002 (Object-Oriented Concepts and Programming) in the CS program, for 64. Prerequisites: CSX3001 Fundamentals of Computer Programming.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX3002",
+      "course_name": "Object-Oriented Concepts and Programming",
+      "prerequisites": [
+        "CSX3001 Fundamentals of Computer Programming"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX3002",
+    "text": "Course CSX3002 (Object-Oriented Concepts and Programming) in the CS program, for 65. Prerequisites: CSX3001 Fundamentals of Computer Programming.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX3002",
+      "course_name": "Object-Oriented Concepts and Programming",
+      "prerequisites": [
+        "CSX3001 Fundamentals of Computer Programming"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX3003",
+    "text": "Course CSX3003 (Data Structure and Algorithms) in the CS program, for 64. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX3003",
+      "course_name": "Data Structure and Algorithms",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts",
+        "Programming"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX3003",
+    "text": "Course CSX3003 (Data Structure and Algorithms) in the CS program, for 65. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX3003",
+      "course_name": "Data Structure and Algorithms",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts",
+        "Programming"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX3004",
+    "text": "Course CSX3004 (Programming Languages) in the CS program, for 64. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX3004",
+      "course_name": "Programming Languages",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts",
+        "Programming"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX3004",
+    "text": "Course CSX3004 (Programming Languages) in the CS program, for 65. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX3004",
+      "course_name": "Programming Languages",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts",
+        "Programming"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX3005",
+    "text": "Course CSX3005 (Computer Networks) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX3005",
+      "course_name": "Computer Networks",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX3005",
+    "text": "Course CSX3005 (Computer Networks) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX3005",
+      "course_name": "Computer Networks",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX3006",
+    "text": "Course CSX3006 (Database Systems) in the CS program, for 64. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX3006",
+      "course_name": "Database Systems",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts",
+        "Programming"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX3006",
+    "text": "Course CSX3006 (Database Systems) in the CS program, for 65. Prerequisites: CSX3001 Fundamentals of Computer Programming.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX3006",
+      "course_name": "Database Systems",
+      "prerequisites": [
+        "CSX3001 Fundamentals of Computer Programming"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX3007",
+    "text": "Course CSX3007 (Computer Architecture) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX3007",
+      "course_name": "Computer Architecture",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX3007",
+    "text": "Course CSX3007 (Computer Architecture) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX3007",
+      "course_name": "Computer Architecture",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX3008",
+    "text": "Course CSX3008 (Operating Systems) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX3008",
+      "course_name": "Operating Systems",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX3008",
+    "text": "Course CSX3008 (Operating Systems) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX3008",
+      "course_name": "Operating Systems",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX3009",
+    "text": "Course CSX3009 (Algorithm Design) in the CS program, for 64. Prerequisites: CSX2008 Mathematics Foundation for Computer Science.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX3009",
+      "course_name": "Algorithm Design",
+      "prerequisites": [
+        "CSX2008 Mathematics Foundation for Computer Science"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX3009",
+    "text": "Course CSX3009 (Algorithm Design) in the CS program, for 65. Prerequisites: CSX3003 Data Structure and Algorithms.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX3009",
+      "course_name": "Algorithm Design",
+      "prerequisites": [
+        "CSX3003 Data Structure",
+        "Algorithms"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX3010",
+    "text": "Course CSX3010 (Senior Project I) in the CS program, for 64. Prerequisites: Year 3 and >= 72 credits.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX3010",
+      "course_name": "Senior Project I",
+      "prerequisites": [
+        "Year 3",
+        ">= 72 credits"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX3010",
+    "text": "Course CSX3010 (Senior Project I) in the CS program, for 65. Prerequisites: Year 3 and >= 72 credits.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX3010",
+      "course_name": "Senior Project I",
+      "prerequisites": [
+        "Year 3",
+        ">= 72 credits"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX3011",
+    "text": "Course CSX3011 (Senior Project II) in the CS program, for 64. Prerequisites: Year 4 and >= 100 credits.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX3011",
+      "course_name": "Senior Project II",
+      "prerequisites": [
+        "Year 4",
+        ">= 100 credits"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX3011",
+    "text": "Course CSX3011 (Senior Project II) in the CS program, for 65. Prerequisites: Year 4 and >= 100 credits.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX3011",
+      "course_name": "Senior Project II",
+      "prerequisites": [
+        "Year 4",
+        ">= 100 credits"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4101",
+    "text": "Course CSX4101 (Information System Analysis and Design) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4101",
+      "course_name": "Information System Analysis and Design",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4101",
+    "text": "Course CSX4101 (Information System Analysis and Design) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4101",
+      "course_name": "Information System Analysis and Design",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4102",
+    "text": "Course CSX4102 (Software Engineering) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4102",
+      "course_name": "Software Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4102",
+    "text": "Course CSX4102 (Software Engineering) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4102",
+      "course_name": "Software Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4103",
+    "text": "Course CSX4103 (Requirement Engineering) in the CS program, for 64. Prerequisites: CSX4101 Information System Analysis and Design.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4103",
+      "course_name": "Requirement Engineering",
+      "prerequisites": [
+        "CSX4101 Information System Analysis",
+        "Design"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4103",
+    "text": "Course CSX4103 (Requirement Engineering) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4103",
+      "course_name": "Requirement Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4104",
+    "text": "Course CSX4104 (Software Testing) in the CS program, for 64. Prerequisites: CSX4101 Information System Analysis and Design.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4104",
+      "course_name": "Software Testing",
+      "prerequisites": [
+        "CSX4101 Information System Analysis",
+        "Design"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4104",
+    "text": "Course CSX4104 (Software Testing) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4104",
+      "course_name": "Software Testing",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4105",
+    "text": "Course CSX4105 (IT Project Management) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4105",
+      "course_name": "IT Project Management",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4105",
+    "text": "Course CSX4105 (IT Project Management) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4105",
+      "course_name": "IT Project Management",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4106",
+    "text": "Course CSX4106 (Enterprise Architecture) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4106",
+      "course_name": "Enterprise Architecture",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4106",
+    "text": "Course CSX4106 (Enterprise Architecture) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4106",
+      "course_name": "Enterprise Architecture",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4107",
+    "text": "Course CSX4107 (Web Application Development) in the CS program, for 64. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4107",
+      "course_name": "Web Application Development",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts",
+        "Programming"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4107",
+    "text": "Course CSX4107 (Web Application Development) in the CS program, for 65. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4107",
+      "course_name": "Web Application Development",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts",
+        "Programming"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4108",
+    "text": "Course CSX4108 (iOS Application Development) in the CS program, for 64. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4108",
+      "course_name": "iOS Application Development",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts",
+        "Programming"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4108",
+    "text": "Course CSX4108 (iOS Application Development) in the CS program, for 65. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4108",
+      "course_name": "iOS Application Development",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts",
+        "Programming"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4109",
+    "text": "Course CSX4109 (Andriod Application Development) in the CS program, for 64. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4109",
+      "course_name": "Andriod Application Development",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts",
+        "Programming"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4109",
+    "text": "Course CSX4109 (Andriod Application Development) in the CS program, for 65. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4109",
+      "course_name": "Andriod Application Development",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts",
+        "Programming"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4110",
+    "text": "Course CSX4110 (Backend Application Development) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4110",
+      "course_name": "Backend Application Development",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4110",
+    "text": "Course CSX4110 (Backend Application Development) in the CS program, for 65. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4110",
+      "course_name": "Backend Application Development",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts",
+        "Programming"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4181",
+    "text": "Course CSX4181 (Selected Topic in Requirement Engineering) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4181",
+      "course_name": "Selected Topic in Requirement Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4181",
+    "text": "Course CSX4181 (Selected Topic in Requirement Engineering) in the CS program, for 65. Prerequisites: CSX4101 Information System Analysis and Design.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4181",
+      "course_name": "Selected Topic in Requirement Engineering",
+      "prerequisites": [
+        "CSX4101 Information System Analysis",
+        "Design"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4182",
+    "text": "Course CSX4182 (Selected Topic in IT Project Management) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4182",
+      "course_name": "Selected Topic in IT Project Management",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4182",
+    "text": "Course CSX4182 (Selected Topic in IT Project Management) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4182",
+      "course_name": "Selected Topic in IT Project Management",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4201",
+    "text": "Course CSX4201 (Artificial Intelligence Concepts) in the CS program, for 64. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4201",
+      "course_name": "Artificial Intelligence Concepts",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts",
+        "Programming"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4201",
+    "text": "Course CSX4201 (Artificial Intelligence Concepts) in the CS program, for 65. Prerequisites: CSX3001 Fundamentals of Computer Programming.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4201",
+      "course_name": "Artificial Intelligence Concepts",
+      "prerequisites": [
+        "CSX3001 Fundamentals of Computer Programming"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4202",
+    "text": "Course CSX4202 (Data Mining) in the CS program, for 64. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4202",
+      "course_name": "Data Mining",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts",
+        "Programming"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4202",
+    "text": "Course CSX4202 (Data Mining) in the CS program, for 65. Prerequisites: CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4202",
+      "course_name": "Data Mining",
+      "prerequisites": [
+        "CSX3001 Fundamentals of Computer Programming",
+        "ITX2007 Data Science"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4203",
+    "text": "Course CSX4203 (Machine Learning) in the CS program, for 64. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4203",
+      "course_name": "Machine Learning",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts",
+        "Programming"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4203",
+    "text": "Course CSX4203 (Machine Learning) in the CS program, for 65. Prerequisites: CSX3001 Fundamentals of Computer Programming.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4203",
+      "course_name": "Machine Learning",
+      "prerequisites": [
+        "CSX3001 Fundamentals of Computer Programming"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4204",
+    "text": "Course CSX4204 (Biometrics) in the CS program, for 64. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4204",
+      "course_name": "Biometrics",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts",
+        "Programming"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4204",
+    "text": "Course CSX4204 (Biometrics) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4204",
+      "course_name": "Biometrics",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4205",
+    "text": "Course CSX4205 (Big Data Analytics) in the CS program, for 64. Prerequisites: CSX2006 Mathematics and Statistics for Data Science.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4205",
+      "course_name": "Big Data Analytics",
+      "prerequisites": [
+        "CSX2006 Mathematics",
+        "Statistics for Data Science"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4205",
+    "text": "Course CSX4205 (Big Data Analytics) in the CS program, for 65. Prerequisites: CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4205",
+      "course_name": "Big Data Analytics",
+      "prerequisites": [
+        "CSX3001 Fundamentals of Computer Programming",
+        "ITX2007 Data Science"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4206",
+    "text": "Course CSX4206 (Data Warehousing and Business Intelligence) in the CS program, for 64. Prerequisites: CSX2006 Mathematics and Statistics for Data Science and CSX3006 Database Systems.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4206",
+      "course_name": "Data Warehousing and Business Intelligence",
+      "prerequisites": [
+        "CSX2006 Mathematics",
+        "Statistics for Data Science",
+        "CSX3006 Database Systems"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4206",
+    "text": "Course CSX4206 (Data Warehousing and Business Intelligence) in the CS program, for 65. Prerequisites: CSX3006 Database Systems.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4206",
+      "course_name": "Data Warehousing and Business Intelligence",
+      "prerequisites": [
+        "CSX3006 Database Systems"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4207",
+    "text": "Course CSX4207 (Decision Support and Recommender Systems) in the CS program, for 64. Prerequisites: CSX2006 Mathematics and Statistics for Data Science.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4207",
+      "course_name": "Decision Support and Recommender Systems",
+      "prerequisites": [
+        "CSX2006 Mathematics",
+        "Statistics for Data Science"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4207",
+    "text": "Course CSX4207 (Decision Support and Recommender Systems) in the CS program, for 65. Prerequisites: CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4207",
+      "course_name": "Decision Support and Recommender Systems",
+      "prerequisites": [
+        "CSX3001 Fundamentals of Computer Programming",
+        "ITX2007 Data Science"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4208",
+    "text": "Course CSX4208 (Deep Learning) in the CS program, for 64. Prerequisites: CSX4203 Machine Learning.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4208",
+      "course_name": "Deep Learning",
+      "prerequisites": [
+        "CSX4203 Machine Learning"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4208",
+    "text": "Course CSX4208 (Deep Learning) in the CS program, for 65. Prerequisites: CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4208",
+      "course_name": "Deep Learning",
+      "prerequisites": [
+        "CSX3001 Fundamentals of Computer Programming",
+        "ITX2007 Data Science"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4209",
+    "text": "Course CSX4209 (Intelligent System Development) in the CS program, for 64. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4209",
+      "course_name": "Intelligent System Development",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts",
+        "Programming"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4209",
+    "text": "Course CSX4209 (Intelligent System Development) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4209",
+      "course_name": "Intelligent System Development",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4210",
+    "text": "Course CSX4210 (Natural Language Processing and Social Interactions) in the CS program, for 64. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4210",
+      "course_name": "Natural Language Processing and Social Interactions",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts",
+        "Programming"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4210",
+    "text": "Course CSX4210 (Natural Language Processing and Social Interactions) in the CS program, for 65. Prerequisites: CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4210",
+      "course_name": "Natural Language Processing and Social Interactions",
+      "prerequisites": [
+        "CSX3001 Fundamentals of Computer Programming",
+        "ITX2007 Data Science"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4211",
+    "text": "Course CSX4211 (Data Engineering) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4211",
+      "course_name": "Data Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4211",
+    "text": "Course CSX4211 (Data Engineering) in the CS program, for 65. Prerequisites: CSX3006 Database Systems or ITX3006 Database Management Systems.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4211",
+      "course_name": "Data Engineering",
+      "prerequisites": [
+        "CSX3006 Database Systems or ITX3006 Database Management Systems"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4212",
+    "text": "Course CSX4212 (Data Analytics) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4212",
+      "course_name": "Data Analytics",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4212",
+    "text": "Course CSX4212 (Data Analytics) in the CS program, for 65. Prerequisites: CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4212",
+      "course_name": "Data Analytics",
+      "prerequisites": [
+        "CSX3001 Fundamentals of Computer Programming",
+        "ITX2007 Data Science"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4213",
+    "text": "Course CSX4213 (Computer Vision) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4213",
+      "course_name": "Computer Vision",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4213",
+    "text": "Course CSX4213 (Computer Vision) in the CS program, for 65. Prerequisites: CSX3001 Fundamentals of Computer Programming and ITX2007 Data Science.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4213",
+      "course_name": "Computer Vision",
+      "prerequisites": [
+        "CSX3001 Fundamentals of Computer Programming",
+        "ITX2007 Data Science"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4301",
+    "text": "Course CSX4301 (Network Design) in the CS program, for 64. Prerequisites: CSX 3005 Computer Networks or by the consent of the instructor.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4301",
+      "course_name": "Network Design",
+      "prerequisites": [
+        "CSX 3005 Computer Networks or by the consent of the instructor"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4301",
+    "text": "Course CSX4301 (Network Design) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4301",
+      "course_name": "Network Design",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4302",
+    "text": "Course CSX4302 (Cisco Networking Workshop) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4302",
+      "course_name": "Cisco Networking Workshop",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4302",
+    "text": "Course CSX4302 (Cisco Networking Workshop) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4302",
+      "course_name": "Cisco Networking Workshop",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4303",
+    "text": "Course CSX4303 (Network Security) in the CS program, for 64. Prerequisites: CSX 3005 Computer Networks or by the consent of the instructor.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4303",
+      "course_name": "Network Security",
+      "prerequisites": [
+        "CSX 3005 Computer Networks or by the consent of the instructor"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4303",
+    "text": "Course CSX4303 (Network Security) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4303",
+      "course_name": "Network Security",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4304",
+    "text": "Course CSX4304 (Network Management) in the CS program, for 64. Prerequisites: CSX 3005 Computer Networks or by the consent of the instructor.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4304",
+      "course_name": "Network Management",
+      "prerequisites": [
+        "CSX 3005 Computer Networks or by the consent of the instructor"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4304",
+    "text": "Course CSX4304 (Network Management) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4304",
+      "course_name": "Network Management",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4305",
+    "text": "Course CSX4305 (Heterogeneous Wireless Networks) in the CS program, for 64. Prerequisites: CSX 3005 Computer Networks or by the consent of the instructor.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4305",
+      "course_name": "Heterogeneous Wireless Networks",
+      "prerequisites": [
+        "CSX 3005 Computer Networks or by the consent of the instructor"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4305",
+    "text": "Course CSX4305 (Heterogeneous Wireless Networks) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4305",
+      "course_name": "Heterogeneous Wireless Networks",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4306",
+    "text": "Course CSX4306 (Internet of Things) in the CS program, for 64. Prerequisites: CSX 3005 Computer Networks or by the consent of the instructor.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4306",
+      "course_name": "Internet of Things",
+      "prerequisites": [
+        "CSX 3005 Computer Networks or by the consent of the instructor"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4306",
+    "text": "Course CSX4306 (Internet of Things) in the CS program, for 65. Prerequisites: CSX3005 Computer Networks.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4306",
+      "course_name": "Internet of Things",
+      "prerequisites": [
+        "CSX3005 Computer Networks"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4307",
+    "text": "Course CSX4307 (Business Continuity Planning and Management) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4307",
+      "course_name": "Business Continuity Planning and Management",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4307",
+    "text": "Course CSX4307 (Business Continuity Planning and Management) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4307",
+      "course_name": "Business Continuity Planning and Management",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4401",
+    "text": "Course CSX4401 (Business Systems) in the CS program, for 64. Prerequisites: CSX2001 Introduction to Information Technology.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4401",
+      "course_name": "Business Systems",
+      "prerequisites": [
+        "CSX2001 Introduction to Information Technology"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4401",
+    "text": "Course CSX4401 (Business Systems) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4401",
+      "course_name": "Business Systems",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4402",
+    "text": "Course CSX4402 (Sales and Distribution Mangement System) in the CS program, for 64. Prerequisites: CSX4401 Business Systems.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4402",
+      "course_name": "Sales and Distribution Mangement System",
+      "prerequisites": [
+        "CSX4401 Business Systems"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4402",
+    "text": "Course CSX4402 (Sales and Distribution Mangement System) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4402",
+      "course_name": "Sales and Distribution Mangement System",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4403",
+    "text": "Course CSX4403 (Manufacturing Management System) in the CS program, for 64. Prerequisites: CSX4401 Business Systems.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4403",
+      "course_name": "Manufacturing Management System",
+      "prerequisites": [
+        "CSX4401 Business Systems"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4403",
+    "text": "Course CSX4403 (Manufacturing Management System) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4403",
+      "course_name": "Manufacturing Management System",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4404",
+    "text": "Course CSX4404 (Supply Chain Management System) in the CS program, for 64. Prerequisites: CSX4401 Business Systems.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4404",
+      "course_name": "Supply Chain Management System",
+      "prerequisites": [
+        "CSX4401 Business Systems"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4404",
+    "text": "Course CSX4404 (Supply Chain Management System) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4404",
+      "course_name": "Supply Chain Management System",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4405",
+    "text": "Course CSX4405 (Finance and Accounting Information System) in the CS program, for 64. Prerequisites: CSX4401 Business Systems and \nACT1601 Fundamental of Financial Accounting.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4405",
+      "course_name": "Finance and Accounting Information System",
+      "prerequisites": [
+        "CSX4401 Business Systems",
+        "ACT1601 Fundamental of Financial Accounting"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4405",
+    "text": "Course CSX4405 (Finance and Accounting Information System) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4405",
+      "course_name": "Finance and Accounting Information System",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4406",
+    "text": "Course CSX4406 (Customer Relationship Mangement System) in the CS program, for 64. Prerequisites: CSX4401 Business Systems.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4406",
+      "course_name": "Customer Relationship Mangement System",
+      "prerequisites": [
+        "CSX4401 Business Systems"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4406",
+    "text": "Course CSX4406 (Customer Relationship Mangement System) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4406",
+      "course_name": "Customer Relationship Mangement System",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4407",
+    "text": "Course CSX4407 (Enterprise Application Development) in the CS program, for 64. Prerequisites: CSX3006 Database Systems.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4407",
+      "course_name": "Enterprise Application Development",
+      "prerequisites": [
+        "CSX3006 Database Systems"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4407",
+    "text": "Course CSX4407 (Enterprise Application Development) in the CS program, for 65. Prerequisites: CSX3006 Database Systems or ITX 3006 Database Management Systems.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4407",
+      "course_name": "Enterprise Application Development",
+      "prerequisites": [
+        "CSX3006 Database Systems or ITX 3006 Database Management Systems"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4408",
+    "text": "Course CSX4408 (Enterprise Database System) in the CS program, for 64. Prerequisites: CSX3006 Database Systems.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4408",
+      "course_name": "Enterprise Database System",
+      "prerequisites": [
+        "CSX3006 Database Systems"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4408",
+    "text": "Course CSX4408 (Enterprise Database System) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4408",
+      "course_name": "Enterprise Database System",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4409",
+    "text": "Course CSX4409 (Blockchain Technology) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4409",
+      "course_name": "Blockchain Technology",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4409",
+    "text": "Course CSX4409 (Blockchain Technology) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4409",
+      "course_name": "Blockchain Technology",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4501",
+    "text": "Course CSX4501 (Theory of Computation) in the CS program, for 64. Prerequisites: CSX2008 Mathematics Foundation for Computer Science.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4501",
+      "course_name": "Theory of Computation",
+      "prerequisites": [
+        "CSX2008 Mathematics Foundation for Computer Science"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4501",
+    "text": "Course CSX4501 (Theory of Computation) in the CS program, for 65. Prerequisites: CSX2008 Mathematics Foundation for Computer Science.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4501",
+      "course_name": "Theory of Computation",
+      "prerequisites": [
+        "CSX2008 Mathematics Foundation for Computer Science"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4502",
+    "text": "Course CSX4502 (Tech Startup) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4502",
+      "course_name": "Tech Startup",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4502",
+    "text": "Course CSX4502 (Tech Startup) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4502",
+      "course_name": "Tech Startup",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4503",
+    "text": "Course CSX4503 (Information Systems Security) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4503",
+      "course_name": "Information Systems Security",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4503",
+    "text": "Course CSX4503 (Information Systems Security) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4503",
+      "course_name": "Information Systems Security",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4504",
+    "text": "Course CSX4504 (Digital Marketing) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4504",
+      "course_name": "Digital Marketing",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4504",
+    "text": "Course CSX4504 (Digital Marketing) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4504",
+      "course_name": "Digital Marketing",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4505",
+    "text": "Course CSX4505 (Digital Transformation) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4505",
+      "course_name": "Digital Transformation",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4505",
+    "text": "Course CSX4505 (Digital Transformation) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4505",
+      "course_name": "Digital Transformation",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4506",
+    "text": "Course CSX4506 (Image Processing) in the CS program, for 64. Prerequisites: CSX3003 Data Structure and Algorithms.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4506",
+      "course_name": "Image Processing",
+      "prerequisites": [
+        "CSX3003 Data Structure",
+        "Algorithms"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4506",
+    "text": "Course CSX4506 (Image Processing) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4506",
+      "course_name": "Image Processing",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4507",
+    "text": "Course CSX4507 (Information Retrieval and Search Engines) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4507",
+      "course_name": "Information Retrieval and Search Engines",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4507",
+    "text": "Course CSX4507 (Information Retrieval and Search Engines) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4507",
+      "course_name": "Information Retrieval and Search Engines",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4508",
+    "text": "Course CSX4508 (Quantitative Research for Digital Business) in the CS program, for 64. Prerequisites: CSX2003 Principles of Statistics.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4508",
+      "course_name": "Quantitative Research for Digital Business",
+      "prerequisites": [
+        "CSX2003 Principles of Statistics"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4508",
+    "text": "Course CSX4508 (Quantitative Research for Digital Business) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4508",
+      "course_name": "Quantitative Research for Digital Business",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4510",
+    "text": "Course CSX4510 (Neural Network) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4510",
+      "course_name": "Neural Network",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4510",
+    "text": "Course CSX4510 (Neural Network) in the CS program, for 65. Prerequisites: CSX3001 Fundamentals of Computer Programming and and ITX2007 Data Science.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4510",
+      "course_name": "Neural Network",
+      "prerequisites": [
+        "CSX3001 Fundamentals of Computer Programming",
+        "and ITX2007 Data Science"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4513",
+    "text": "Course CSX4513 (AR/VR Application Development) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4513",
+      "course_name": "AR/VR Application Development",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4513",
+    "text": "Course CSX4513 (AR/VR Application Development) in the CS program, for 65. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4513",
+      "course_name": "AR/VR Application Development",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts",
+        "Programming"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4514",
+    "text": "Course CSX4514 (Cross-platform Application Development) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4514",
+      "course_name": "Cross-platform Application Development",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4514",
+    "text": "Course CSX4514 (Cross-platform Application Development) in the CS program, for 65. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4514",
+      "course_name": "Cross-platform Application Development",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts",
+        "Programming"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4515",
+    "text": "Course CSX4515 (Game Design and Development) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4515",
+      "course_name": "Game Design and Development",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4515",
+    "text": "Course CSX4515 (Game Design and Development) in the CS program, for 65. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4515",
+      "course_name": "Game Design and Development",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts",
+        "Programming"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4516",
+    "text": "Course CSX4516 (Reusability and Design Patterns) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4516",
+      "course_name": "Reusability and Design Patterns",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4516",
+    "text": "Course CSX4516 (Reusability and Design Patterns) in the CS program, for 65. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4516",
+      "course_name": "Reusability and Design Patterns",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts",
+        "Programming"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4601",
+    "text": "Course CSX4601 (Presentation and Data Visualization Techniques) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4601",
+      "course_name": "Presentation and Data Visualization Techniques",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4601",
+    "text": "Course CSX4601 (Presentation and Data Visualization Techniques) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4601",
+      "course_name": "Presentation and Data Visualization Techniques",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4602",
+    "text": "Course CSX4602 (Selected Topic in Entrepreneurship in Technology Business) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4602",
+      "course_name": "Selected Topic in Entrepreneurship in Technology Business",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4602",
+    "text": "Course CSX4602 (Selected Topic in Entrepreneurship in Technology Business) in the CS program, for 65. Prerequisites: At least 100 credits.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4602",
+      "course_name": "Selected Topic in Entrepreneurship in Technology Business",
+      "prerequisites": [
+        "At least 100 credits"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4603",
+    "text": "Course CSX4603 (Selected Topic in Numerical Analysis ) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4603",
+      "course_name": "Selected Topic in Numerical Analysis ",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4603",
+    "text": "Course CSX4603 (Selected Topic in Numerical Analysis ) in the CS program, for 65. Prerequisites: CSX2008 Mathematics Foundation for Computer Science.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4603",
+      "course_name": "Selected Topic in Numerical Analysis ",
+      "prerequisites": [
+        "CSX2008 Mathematics Foundation for Computer Science"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4605",
+    "text": "Course CSX4605 (Selected Topic in Information Security) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4605",
+      "course_name": "Selected Topic in Information Security",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4605",
+    "text": "Course CSX4605 (Selected Topic in Information Security) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4605",
+      "course_name": "Selected Topic in Information Security",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4608",
+    "text": "Course CSX4608 (Selected Topic in Software Quality Assurance) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4608",
+      "course_name": "Selected Topic in Software Quality Assurance",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4608",
+    "text": "Course CSX4608 (Selected Topic in Software Quality Assurance) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4608",
+      "course_name": "Selected Topic in Software Quality Assurance",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4609",
+    "text": "Course CSX4609 (Selected Topic in AI for Business) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4609",
+      "course_name": "Selected Topic in AI for Business",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4609",
+    "text": "Course CSX4609 (Selected Topic in AI for Business) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4609",
+      "course_name": "Selected Topic in AI for Business",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4610",
+    "text": "Course CSX4610 (Selected Topic in AI Prompt Engineering) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4610",
+      "course_name": "Selected Topic in AI Prompt Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4610",
+    "text": "Course CSX4610 (Selected Topic in AI Prompt Engineering) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4610",
+      "course_name": "Selected Topic in AI Prompt Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4611",
+    "text": "Course CSX4611 (Selected Topic in Quantum Computing for Entrepreneurs) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4611",
+      "course_name": "Selected Topic in Quantum Computing for Entrepreneurs",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4611",
+    "text": "Course CSX4611 (Selected Topic in Quantum Computing for Entrepreneurs) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4611",
+      "course_name": "Selected Topic in Quantum Computing for Entrepreneurs",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4615",
+    "text": "Course CSX4615 (Selected Topic in Business Insights and Visualization) in the CS program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4615",
+      "course_name": "Selected Topic in Business Insights and Visualization",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4615",
+    "text": "Course CSX4615 (Selected Topic in Business Insights and Visualization) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4615",
+      "course_name": "Selected Topic in Business Insights and Visualization",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-CS-CSX4616",
+    "text": "Course CSX4616 (Selected Topic in  Backend Application Development) in the CS program, for 64. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "metadata": {
+      "year": "64",
+      "program": "CS",
+      "course_id": "CSX4616",
+      "course_name": "Selected Topic in  Backend Application Development",
+      "prerequisites": [
+        "CSX3002 Object-Oriented Concepts",
+        "Programming"
+      ]
+    }
+  },
+  {
+    "id": "65-CS-CSX4616",
+    "text": "Course CSX4616 (Selected Topic in  Backend Application Development) in the CS program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "CS",
+      "course_id": "CSX4616",
+      "course_name": "Selected Topic in  Backend Application Development",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-Unknown-ELE1001",
+    "text": "Course ELE1001 (Communicative English I) in the Unknown program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "Unknown",
+      "course_id": "ELE1001",
+      "course_name": "Communicative English I",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-Unknown-ELE1001",
+    "text": "Course ELE1001 (Communicative English I) in the Unknown program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "Unknown",
+      "course_id": "ELE1001",
+      "course_name": "Communicative English I",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-Unknown-ELE1002",
+    "text": "Course ELE1002 (Communicative English II) in the Unknown program, for 64. Prerequisites: BG1002 English II.",
+    "metadata": {
+      "year": "64",
+      "program": "Unknown",
+      "course_id": "ELE1002",
+      "course_name": "Communicative English II",
+      "prerequisites": [
+        "BG1002 English II"
+      ]
+    }
+  },
+  {
+    "id": "65-Unknown-ELE1002",
+    "text": "Course ELE1002 (Communicative English II) in the Unknown program, for 65. Prerequisites: ELE1001 Communicative English I.",
+    "metadata": {
+      "year": "65",
+      "program": "Unknown",
+      "course_id": "ELE1002",
+      "course_name": "Communicative English II",
+      "prerequisites": [
+        "ELE1001 Communicative English I"
+      ]
+    }
+  },
+  {
+    "id": "64-Unknown-ELE2000",
+    "text": "Course ELE2000 (Academic English) in the Unknown program, for 64. Prerequisites: BG2000 English III.",
+    "metadata": {
+      "year": "64",
+      "program": "Unknown",
+      "course_id": "ELE2000",
+      "course_name": "Academic English",
+      "prerequisites": [
+        "BG2000 English III"
+      ]
+    }
+  },
+  {
+    "id": "65-Unknown-ELE2000",
+    "text": "Course ELE2000 (Academic English) in the Unknown program, for 65. Prerequisites: ELE1002 Communicative English II.",
+    "metadata": {
+      "year": "65",
+      "program": "Unknown",
+      "course_id": "ELE2000",
+      "course_name": "Academic English",
+      "prerequisites": [
+        "ELE1002 Communicative English II"
+      ]
+    }
+  },
+  {
+    "id": "64-Unknown-ELE2001",
+    "text": "Course ELE2001 (Advanced Academic English) in the Unknown program, for 64. Prerequisites: BG2001 English IV.",
+    "metadata": {
+      "year": "64",
+      "program": "Unknown",
+      "course_id": "ELE2001",
+      "course_name": "Advanced Academic English",
+      "prerequisites": [
+        "BG2001 English IV"
+      ]
+    }
+  },
+  {
+    "id": "65-Unknown-ELE2001",
+    "text": "Course ELE2001 (Advanced Academic English) in the Unknown program, for 65. Prerequisites: ELE2000 Academic English.",
+    "metadata": {
+      "year": "65",
+      "program": "Unknown",
+      "course_id": "ELE2001",
+      "course_name": "Advanced Academic English",
+      "prerequisites": [
+        "ELE2000 Academic English"
+      ]
+    }
+  },
+  {
+    "id": "64-Unknown-GE1302",
+    "text": "Course GE1302 (Ecology and Sustainability) in the Unknown program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "Unknown",
+      "course_id": "GE1302",
+      "course_name": "Ecology and Sustainability",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-Unknown-GE1302",
+    "text": "Course GE1302 (Ecology and Sustainability) in the Unknown program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "Unknown",
+      "course_id": "GE1302",
+      "course_name": "Ecology and Sustainability",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-Unknown-GE1303",
+    "text": "Course GE1303 (Science for Sustainable Future) in the Unknown program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "Unknown",
+      "course_id": "GE1303",
+      "course_name": "Science for Sustainable Future",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-Unknown-GE1303",
+    "text": "Course GE1303 (Science for Sustainable Future) in the Unknown program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "Unknown",
+      "course_id": "GE1303",
+      "course_name": "Science for Sustainable Future",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-Unknown-GE1403\nGE1408\nGE1409",
+    "text": "Course GE1403\nGE1408\nGE1409 (Communication in Thai/\nThai Usage/\nThai Language for intercultural commuinication) in the Unknown program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "Unknown",
+      "course_id": "GE1403\nGE1408\nGE1409",
+      "course_name": "Communication in Thai/\nThai Usage/\nThai Language for intercultural commuinication",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-Unknown-GE1403\nGE1408\nGE1409",
+    "text": "Course GE1403\nGE1408\nGE1409 (Communication in Thai/\nThai Usage/\nThai Language for intercultural commuinication) in the Unknown program, for 65. Prerequisites: GE1403: Thai students\nGE1408: Thai students from International Program\nGE1409: Non-Thai students.",
+    "metadata": {
+      "year": "65",
+      "program": "Unknown",
+      "course_id": "GE1403\nGE1408\nGE1409",
+      "course_name": "Communication in Thai/\nThai Usage/\nThai Language for intercultural commuinication",
+      "prerequisites": [
+        "GE1403: Thai students\nGE1408: Thai students from International Program\nGE1409: Non-Thai students"
+      ]
+    }
+  },
+  {
+    "id": "64-Unknown-GE1410\nGE1411\nGE1412",
+    "text": "Course GE1410\nGE1411\nGE1412 (Thai for Professional Communication/\nThai Language for Muliticultural/\nIntroductory Thai Usage\n) in the Unknown program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "Unknown",
+      "course_id": "GE1410\nGE1411\nGE1412",
+      "course_name": "Thai for Professional Communication/\nThai Language for Muliticultural/\nIntroductory Thai Usage\n",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-Unknown-GE1410\nGE1411\nGE1412",
+    "text": "Course GE1410\nGE1411\nGE1412 (Thai for Professional Communication/\nThai Language for Muliticultural/\nIntroductory Thai Usage\n) in the Unknown program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "Unknown",
+      "course_id": "GE1410\nGE1411\nGE1412",
+      "course_name": "Thai for Professional Communication/\nThai Language for Muliticultural/\nIntroductory Thai Usage\n",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-Unknown-GE2102",
+    "text": "Course GE2102 (Human Heritage and Globalization) in the Unknown program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "Unknown",
+      "course_id": "GE2102",
+      "course_name": "Human Heritage and Globalization",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-Unknown-GE2102",
+    "text": "Course GE2102 (Human Heritage and Globalization) in the Unknown program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "Unknown",
+      "course_id": "GE2102",
+      "course_name": "Human Heritage and Globalization",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-Unknown-GE2110",
+    "text": "Course GE2110 (Human Civilizations and Global Citizens) in the Unknown program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "Unknown",
+      "course_id": "GE2110",
+      "course_name": "Human Civilizations and Global Citizens",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-Unknown-GE2110",
+    "text": "Course GE2110 (Human Civilizations and Global Citizens) in the Unknown program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "Unknown",
+      "course_id": "GE2110",
+      "course_name": "Human Civilizations and Global Citizens",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-Unknown-GE2202",
+    "text": "Course GE2202 (Ethics) in the Unknown program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "Unknown",
+      "course_id": "GE2202",
+      "course_name": "Ethics",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-Unknown-GE2202",
+    "text": "Course GE2202 (Ethics) in the Unknown program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "Unknown",
+      "course_id": "GE2202",
+      "course_name": "Ethics",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-Unknown-IBE1122",
+    "text": "Course IBE1122 (Accounting for Entrepreneurs) in the Unknown program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "Unknown",
+      "course_id": "IBE1122",
+      "course_name": "Accounting for Entrepreneurs",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-Unknown-IBE1122",
+    "text": "Course IBE1122 (Accounting for Entrepreneurs) in the Unknown program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "Unknown",
+      "course_id": "IBE1122",
+      "course_name": "Accounting for Entrepreneurs",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-IT-ITX2004",
+    "text": "Course ITX2004 (UI/UX Design and prototyping) in the IT program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "IT",
+      "course_id": "ITX2004",
+      "course_name": "UI/UX Design and prototyping",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-IT-ITX2004",
+    "text": "Course ITX2004 (UI/UX Design and prototyping) in the IT program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "IT",
+      "course_id": "ITX2004",
+      "course_name": "UI/UX Design and prototyping",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-IT-ITX2005",
+    "text": "Course ITX2005 (Design Thinking) in the IT program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "IT",
+      "course_id": "ITX2005",
+      "course_name": "Design Thinking",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-IT-ITX2005",
+    "text": "Course ITX2005 (Design Thinking) in the IT program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "IT",
+      "course_id": "ITX2005",
+      "course_name": "Design Thinking",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-IT-ITX2007",
+    "text": "Course ITX2007 (Data Science) in the IT program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "IT",
+      "course_id": "ITX2007",
+      "course_name": "Data Science",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-IT-ITX2007",
+    "text": "Course ITX2007 (Data Science) in the IT program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "IT",
+      "course_id": "ITX2007",
+      "course_name": "Data Science",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-IT-ITX3002",
+    "text": "Course ITX3002 (Introduction to Information Technology) in the IT program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "IT",
+      "course_id": "ITX3002",
+      "course_name": "Introduction to Information Technology",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-IT-ITX3002",
+    "text": "Course ITX3002 (Introduction to Information Technology) in the IT program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "IT",
+      "course_id": "ITX3002",
+      "course_name": "Introduction to Information Technology",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-IT-ITX3003",
+    "text": "Course ITX3003 (Business Systems) in the IT program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "IT",
+      "course_id": "ITX3003",
+      "course_name": "Business Systems",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-IT-ITX3003",
+    "text": "Course ITX3003 (Business Systems) in the IT program, for 65. Prerequisites: ITX3002 Introduction to Information Technology.",
+    "metadata": {
+      "year": "65",
+      "program": "IT",
+      "course_id": "ITX3003",
+      "course_name": "Business Systems",
+      "prerequisites": [
+        "ITX3002 Introduction to Information Technology"
+      ]
+    }
+  },
+  {
+    "id": "64-IT-ITX3004",
+    "text": "Course ITX3004 (Information System Analysis and Design) in the IT program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "IT",
+      "course_id": "ITX3004",
+      "course_name": "Information System Analysis and Design",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-IT-ITX3004",
+    "text": "Course ITX3004 (Information System Analysis and Design) in the IT program, for 65. Prerequisites: CSX3006 Database Systems or ITX 3006 Database Management Systems.",
+    "metadata": {
+      "year": "65",
+      "program": "IT",
+      "course_id": "ITX3004",
+      "course_name": "Information System Analysis and Design",
+      "prerequisites": [
+        "CSX3006 Database Systems or ITX 3006 Database Management Systems"
+      ]
+    }
+  },
+  {
+    "id": "64-IT-ITX3007",
+    "text": "Course ITX3007 (Software Engineering) in the IT program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "IT",
+      "course_id": "ITX3007",
+      "course_name": "Software Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-IT-ITX3007",
+    "text": "Course ITX3007 (Software Engineering) in the IT program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "IT",
+      "course_id": "ITX3007",
+      "course_name": "Software Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-IT-ITX4104",
+    "text": "Course ITX4104 (Software Testing) in the IT program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "IT",
+      "course_id": "ITX4104",
+      "course_name": "Software Testing",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-IT-ITX4104",
+    "text": "Course ITX4104 (Software Testing) in the IT program, for 65. Prerequisites: ITX3007 Software Engineering.",
+    "metadata": {
+      "year": "65",
+      "program": "IT",
+      "course_id": "ITX4104",
+      "course_name": "Software Testing",
+      "prerequisites": [
+        "ITX3007 Software Engineering"
+      ]
+    }
+  },
+  {
+    "id": "64-IT-ITX4212",
+    "text": "Course ITX4212 (Predictive Analytics) in the IT program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "IT",
+      "course_id": "ITX4212",
+      "course_name": "Predictive Analytics",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-IT-ITX4212",
+    "text": "Course ITX4212 (Predictive Analytics) in the IT program, for 65. Prerequisites: ITX2007 Data Science.",
+    "metadata": {
+      "year": "65",
+      "program": "IT",
+      "course_id": "ITX4212",
+      "course_name": "Predictive Analytics",
+      "prerequisites": [
+        "ITX2007 Data Science"
+      ]
+    }
+  },
+  {
+    "id": "64-IT-ITX4213",
+    "text": "Course ITX4213 (Artificial Intelligence for Business) in the IT program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "IT",
+      "course_id": "ITX4213",
+      "course_name": "Artificial Intelligence for Business",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-IT-ITX4213",
+    "text": "Course ITX4213 (Artificial Intelligence for Business) in the IT program, for 65. Prerequisites: ITX2007 Data Science.",
+    "metadata": {
+      "year": "65",
+      "program": "IT",
+      "course_id": "ITX4213",
+      "course_name": "Artificial Intelligence for Business",
+      "prerequisites": [
+        "ITX2007 Data Science"
+      ]
+    }
+  },
+  {
+    "id": "64-IT-ITX4502",
+    "text": "Course ITX4502 (Tech Startup) in the IT program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "IT",
+      "course_id": "ITX4502",
+      "course_name": "Tech Startup",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-IT-ITX4502",
+    "text": "Course ITX4502 (Tech Startup) in the IT program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "IT",
+      "course_id": "ITX4502",
+      "course_name": "Tech Startup",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-IT-ITX4509",
+    "text": "Course ITX4509 (Cybersecurity) in the IT program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "IT",
+      "course_id": "ITX4509",
+      "course_name": "Cybersecurity",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-IT-ITX4509",
+    "text": "Course ITX4509 (Cybersecurity) in the IT program, for 65. Prerequisites: CSX3005 Computer Networks.",
+    "metadata": {
+      "year": "65",
+      "program": "IT",
+      "course_id": "ITX4509",
+      "course_name": "Cybersecurity",
+      "prerequisites": [
+        "CSX3005 Computer Networks"
+      ]
+    }
+  },
+  {
+    "id": "64-IT-ITX4517",
+    "text": "Course ITX4517 (Software Configuration Mangement) in the IT program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "IT",
+      "course_id": "ITX4517",
+      "course_name": "Software Configuration Mangement",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-IT-ITX4517",
+    "text": "Course ITX4517 (Software Configuration Mangement) in the IT program, for 65. Prerequisites: ITX3007 Software Engineering.",
+    "metadata": {
+      "year": "65",
+      "program": "IT",
+      "course_id": "ITX4517",
+      "course_name": "Software Configuration Mangement",
+      "prerequisites": [
+        "ITX3007 Software Engineering"
+      ]
+    }
+  },
+  {
+    "id": "64-IT-ITX4518",
+    "text": "Course ITX4518 (Blockchain and Digital Currencies) in the IT program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "IT",
+      "course_id": "ITX4518",
+      "course_name": "Blockchain and Digital Currencies",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-IT-ITX4518",
+    "text": "Course ITX4518 (Blockchain and Digital Currencies) in the IT program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "IT",
+      "course_id": "ITX4518",
+      "course_name": "Blockchain and Digital Currencies",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-IT-ITX4519",
+    "text": "Course ITX4519 (Internetworking Workshop) in the IT program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "IT",
+      "course_id": "ITX4519",
+      "course_name": "Internetworking Workshop",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-IT-ITX4519",
+    "text": "Course ITX4519 (Internetworking Workshop) in the IT program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "IT",
+      "course_id": "ITX4519",
+      "course_name": "Internetworking Workshop",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-Unknown-LAW1201",
+    "text": "Course LAW1201 (Business Laws for Entrepreneurs) in the Unknown program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "Unknown",
+      "course_id": "LAW1201",
+      "course_name": "Business Laws for Entrepreneurs",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-Unknown-LAW1201",
+    "text": "Course LAW1201 (Business Laws for Entrepreneurs) in the Unknown program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "Unknown",
+      "course_id": "LAW1201",
+      "course_name": "Business Laws for Entrepreneurs",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-Unknown-MA1200",
+    "text": "Course MA1200 (Mathematics for Business) in the Unknown program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "Unknown",
+      "course_id": "MA1200",
+      "course_name": "Mathematics for Business",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-Unknown-MA1200",
+    "text": "Course MA1200 (Mathematics for Business) in the Unknown program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "Unknown",
+      "course_id": "MA1200",
+      "course_name": "Mathematics for Business",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "64-Unknown-MGT1101",
+    "text": "Course MGT1101 (Introduction to Business) in the Unknown program, for 64. Prerequisites: None.",
+    "metadata": {
+      "year": "64",
+      "program": "Unknown",
+      "course_id": "MGT1101",
+      "course_name": "Introduction to Business",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  },
+  {
+    "id": "65-Unknown-MGT1101",
+    "text": "Course MGT1101 (Introduction to Business) in the Unknown program, for 65. Prerequisites: None.",
+    "metadata": {
+      "year": "65",
+      "program": "Unknown",
+      "course_id": "MGT1101",
+      "course_name": "Introduction to Business",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  }
+]
