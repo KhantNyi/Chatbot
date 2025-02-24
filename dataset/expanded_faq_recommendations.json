@@ -38,6 +38,258 @@
     {
       "question": "Can students drop courses if they find them difficult?",
       "answer": "Yes, students are allowed to **drop courses before the deadline** if they find them difficult. The specific deadline for dropping courses is announced separately."
+    },
+    {
+      "question": "What is the total number of credits required for the IT curriculum?",
+      "answer": "132 Credits"
+    },
+    {
+      "question": "How many credits are required for General Education Courses?",
+      "answer": "30 Credits"
+    },
+    {
+      "question": "What are the categories of General Education Courses?",
+      "answer": "Language Courses, Humanities Course, Social Science Courses, Science and Mathematics Courses"
+    },
+    {
+      "question": "How many credits are allocated to Language Courses?",
+      "answer": "14 Credits"
+    },
+    {
+      "question": "What are the required Language Courses?",
+      "answer": [
+        "ELE 1001 Communicative English I",
+        "ELE 1002 Communicative English II",
+        "ELE 2000 Academic English",
+        "ELE 2001 Advanced Academic English",
+        "GE 1410 Thai for Professional Communication (for Thai students)",
+        "GE 1411 Thai Language for Multicultural Communication (for non-Thai students)",
+        "GE 1412 Introductory Thai Usage (for Thai students from International Program)"
+      ]
+    },
+    {
+      "question": "Name a Humanities Course in the curriculum.",
+      "answer": "GE 2110 Human Civilizations and Global Citizens"
+    },
+    {
+      "question": "List the Social Science Courses from the curriculum.",
+      "answer": [
+        "BBA 1004 Essential Marketing for Entrepreneurs",
+        "BBA 1005 Essential Finance for Entrepreneurs",
+        "BBA 1006 Essential Economics for Entrepreneurs",
+        "GE 2202 Ethics"
+      ]
+    },
+    {
+      "question": "What are the Science and Mathematics Courses included in the curriculum?",
+      "answer": [
+        "BBA 1007 Data Analytics for Entrepreneurs",
+        "GE 1303 Science for Sustainable Future"
+      ]
+    },
+    {
+      "question": "How many credits are required for Specialized Courses?",
+      "answer": "90 Credits"
+    },
+    {
+      "question": "What are the core courses in the IT curriculum?",
+      "answer": [
+        "CSX 2006 Mathematics and Statistics for Data Science",
+        "ITX 2005 Design Thinking",
+        "ITX 3002 Introduction to Information Technology",
+        "ITX 3004 Information System Analysis and Design"
+      ]
+    },
+    {
+      "question": "How many major courses are required?",
+      "answer": "45 Credits"
+    },
+    {
+      "question": "What are the groups of Major Courses?",
+      "answer": [
+        "Organization Issues and Information Systems Group",
+        "Applications Technology Group",
+        "Technology and Software Methods Group",
+        "Systems Infrastructure Group"
+      ]
+    },
+    {
+      "question": "What courses are included in the Organization Issues and Information Systems Group?",
+      "answer": [
+        "ITX 3003 Business Systems",
+        "ITX 3008 IT Project Management",
+        "ITX 4503 Information System Security"
+      ]
+    },
+    {
+      "question": "What is a required course under the Technology and Software Methods Group?",
+      "answer": "CSX 3001 Fundamentals of Computer Programming"
+    },
+    {
+      "question": "What are the Major Elective Courses divided into?",
+      "answer": "Group 1 and Group 2"
+    },
+    {
+      "question": "List the concentrations available in Major Elective Courses Group 1.",
+      "answer": [
+        "Software Engineering and Development",
+        "Informatics and Data Science",
+        "Innovative Marketing Technology",
+        "Innovative Food Technology",
+        "Innovative Music Technology",
+        "Innovative Financial Technology"
+      ]
+    },
+    {
+      "question": "Name one course in the Software Engineering and Development concentration.",
+      "answer": "CSX 4107 Web Application Development"
+    },
+    {
+      "question": "Which course covers Artificial Intelligence for Business?",
+      "answer": "ITX 4213 Artificial Intelligence for Business"
+    },
+    {
+      "question": "What course is included in the Major Elective Courses Group 2?",
+      "answer": "CSX 4108 iOS Application Development"
+    },
+    {
+      "question": "What is the passing grade required for major required courses?",
+      "answer": "At least C grades are required"
+    },
+    {
+      "question": "What is the purpose of the IT curriculum?",
+      "answer": "The IT curriculum is designed to equip students with knowledge and skills in information technology, software development, data science, and business applications to prepare them for industry careers."
+    },
+    {
+      "question": "What elective courses focus on cybersecurity?",
+      "answer": [
+        "ITX 4509 Cybersecurity",
+        "ITX 4507 Information Retrieval and Search Engines"
+      ]
+    },
+    {
+      "question": "Which courses focus on digital transformation?",
+      "answer": [
+        "ITX 4505 Digital Transformation",
+        "ITX 4504 Digital Marketing"
+      ]
+    },
+    {
+      "question": "What is the total number of credits required for the CS curriculum?",
+      "answer": "132 Credits"
+    },
+    {
+      "question": "How many credits are required for General Education Courses?",
+      "answer": "30 Credits"
+    },
+    {
+      "question": "What are the categories of General Education Courses?",
+      "answer": "Language Courses, Humanities Course, Social Science Courses, Science and Mathematics Courses"
+    },
+    {
+      "question": "How many credits are allocated to Language Courses?",
+      "answer": "14 Credits"
+    },
+    {
+      "question": "What are the required Language Courses?",
+      "answer": [
+        "ELE 1001 Communicative English I",
+        "ELE 1002 Communicative English II",
+        "ELE 2000 Academic English",
+        "ELE 2001 Advanced Academic English",
+        "GE 1410 Thai for Professional Communication (for Thai students)",
+        "GE 1411 Thai Language for Multicultural Communication (for non-Thai students)",
+        "GE 1412 Introductory Thai Usage (for Thai students from International Program)"
+      ]
+    },
+    {
+      "question": "Name a Humanities Course in the curriculum.",
+      "answer": "GE 2110 Human Civilizations and Global Citizens"
+    },
+    {
+      "question": "List the Social Science Courses from the curriculum.",
+      "answer": [
+        "BBA 1004 Essential Marketing for Entrepreneurs",
+        "BBA 1005 Essential Finance for Entrepreneurs",
+        "BBA 1006 Essential Economics for Entrepreneurs",
+        "GE 2202 Ethics"
+      ]
+    },
+    {
+      "question": "What are the Science and Mathematics Courses included in the curriculum?",
+      "answer": [
+        "BBA 1007 Data Analytics for Entrepreneurs",
+        "GE 1303 Science for Sustainable Future"
+      ]
+    },
+    {
+      "question": "How many credits are required for Specialized Courses?",
+      "answer": "90 Credits"
+    },
+    {
+      "question": "What are the core courses in the CS curriculum?",
+      "answer": [
+        "CSX 2003 Principles of Statistics",
+        "CSX 2006 Mathematics and Statistics for Data Science",
+        "CSX 2008 Mathematics Foundation for Computer Science",
+        "ITX 2005 Design Thinking",
+        "ITX 2007 Data Science",
+        "ITX 3007 Software Engineering"
+      ]
+    },
+    {
+      "question": "What are the major course groups in the CS curriculum?",
+      "answer": [
+        "Organization Issues and Information Systems Group",
+        "Applications Technology Group",
+        "Technology and Software Methods Group",
+        "Systems Infrastructure Group",
+        "Hardware and Computer Architecture Group"
+      ]
+    },
+    {
+      "question": "Which courses belong to the Technology and Software Methods Group?",
+      "answer": [
+        "CSX 3001 Fundamentals of Computer Programming",
+        "CSX 3002 Object-Oriented Concepts and Programming",
+        "CSX 3003 Data Structures and Algorithms",
+        "CSX 3004 Programming Languages",
+        "CSX 3009 Algorithm Design"
+      ]
+    },
+    {
+      "question": "What are the available concentrations in Major Elective Courses Group 1?",
+      "answer": [
+        "Software Engineering and Development (SED)",
+        "Informatics and Data Science (IDS)"
+      ]
+    },
+    {
+      "question": "Which courses belong to the Software Engineering and Development concentration?",
+      "answer": [
+        "ITX 3004 Information System Analysis and Design",
+        "ITX 4104 Software Testing",
+        "CSX 4107 Web Application Development",
+        "CSX 4109 Android Application Development",
+        "CSX 4110 Backend Application Development",
+        "CSX 4407 Enterprise Application Development"
+      ]
+    },
+    {
+      "question": "Which courses are included in the Informatics and Data Science concentration?",
+      "answer": [
+        "CSX 4201 Artificial Intelligence Concepts",
+        "CSX 4203 Machine Learning",
+        "CSX 4207 Decision Support and Recommender Systems",
+        "CSX 4210 Natural Language Processing and Social Interactions",
+        "CSX 4211 Data Engineering",
+        "CSX 4212 Data Analytics",
+        "CSX 4213 Computer Vision"
+      ]
+    },
+    {
+      "question": "What is the minimum passing grade for major required courses?",
+      "answer": "At least C grades are required"
     }
   ]
   
