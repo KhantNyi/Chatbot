@@ -1,7 +1,7 @@
 [
   {
     "id": "64-CS-BG_1001",
-    "text": "Course BG 1001 (English I) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course BG 1001 (English I) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -14,7 +14,7 @@
   },
   {
     "id": "64-CS-CSX1001",
-    "text": "Course CSX1001 (Basic Mathematics and Statistics) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course CSX1001 (Basic Mathematics and Statistics) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -27,7 +27,7 @@
   },
   {
     "id": "64-CS-CSX2001",
-    "text": "Course CSX2001 (Introduction to Information Technology) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course CSX2001 (Introduction to Information Technology) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -40,7 +40,7 @@
   },
   {
     "id": "64-CS-CSX3001",
-    "text": "Course CSX3001 (Fundamentals of Computer Programming) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course CSX3001 (Fundamentals of Computer Programming) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -53,7 +53,7 @@
   },
   {
     "id": "64-CS-BBA_1001",
-    "text": "Course BBA 1001 (Business Exploration) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course BBA 1001 (Business Exploration) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -66,7 +66,7 @@
   },
   {
     "id": "64-CS-BG_1002_",
-    "text": "Course BG 1002  (English II) in the CS program, offered in year(s) 64. Prerequisites: BG 1002 English II.",
+    "text": "Course BG 1002  (English II) in the CS program, for 64. Prerequisites: BG 1002 English II.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -79,7 +79,7 @@
   },
   {
     "id": "64-CS-LAW_1201_",
-    "text": "Course LAW 1201  (Business Laws for Entrepreneurs ) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course LAW 1201  (Business Laws for Entrepreneurs ) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -92,7 +92,7 @@
   },
   {
     "id": "64-CS-CSX2002",
-    "text": "Course CSX2002 (Calculus) in the CS program, offered in year(s) 64. Prerequisites: CSX1001 Basic Mathematics and Statistics.",
+    "text": "Course CSX2002 (Calculus) in the CS program, for 64. Prerequisites: CSX1001 Basic Mathematics and Statistics.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -105,7 +105,7 @@
   },
   {
     "id": "64-CS-CSX2003",
-    "text": "Course CSX2003 (Principles of Statistics) in the CS program, offered in year(s) 64. Prerequisites: CSX1001 Basic Mathematics and Statistics.",
+    "text": "Course CSX2003 (Principles of Statistics) in the CS program, for 64. Prerequisites: CSX1001 Basic Mathematics and Statistics.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -118,7 +118,7 @@
   },
   {
     "id": "64-CS-CSX2004",
-    "text": "Course CSX2004 (UI/UX Design and Prototyping) in the CS program, offered in year(s) 64. Prerequisites: NONE.",
+    "text": "Course CSX2004 (UI/UX Design and Prototyping) in the CS program, for 64. Prerequisites: NONE.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -131,7 +131,7 @@
   },
   {
     "id": "64-CS-CSX3002",
-    "text": "Course CSX3002 (Object-Oriented Concepts and Programming) in the CS program, offered in year(s) 64. Prerequisites: CSX3001 Fundamentals of Computer Programming.",
+    "text": "Course CSX3002 (Object-Oriented Concepts and Programming) in the CS program, for 64. Prerequisites: CSX3001 Fundamentals of Computer Programming.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -144,7 +144,7 @@
   },
   {
     "id": "64-CS-BG2000",
-    "text": "Course BG2000 (English III) in the CS program, offered in year(s) 64. Prerequisites: BG1002 English II.",
+    "text": "Course BG2000 (English III) in the CS program, for 64. Prerequisites: BG1002 English II.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -157,7 +157,7 @@
   },
   {
     "id": "64-CS-CSX2005",
-    "text": "Course CSX2005 (Design Thinking) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course CSX2005 (Design Thinking) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -170,7 +170,7 @@
   },
   {
     "id": "64-CS-CSX2006",
-    "text": "Course CSX2006 (Mathematics and Statistics for Data Science) in the CS program, offered in year(s) 64. Prerequisites: CSX2003 Principles of Statistics.",
+    "text": "Course CSX2006 (Mathematics and Statistics for Data Science) in the CS program, for 64. Prerequisites: CSX2003 Principles of Statistics.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -183,7 +183,7 @@
   },
   {
     "id": "64-CS-CSX3003",
-    "text": "Course CSX3003 (Data Structure and Algorithms) in the CS program, offered in year(s) 64. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "text": "Course CSX3003 (Data Structure and Algorithms) in the CS program, for 64. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -196,7 +196,7 @@
   },
   {
     "id": "64-CS-CSX3004",
-    "text": "Course CSX3004 (Programming Languages) in the CS program, offered in year(s) 64. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "text": "Course CSX3004 (Programming Languages) in the CS program, for 64. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -209,7 +209,7 @@
   },
   {
     "id": "64-CS-CSX3005",
-    "text": "Course CSX3005 (Computer Networks) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course CSX3005 (Computer Networks) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -222,7 +222,7 @@
   },
   {
     "id": "64-CS-BG2001",
-    "text": "Course BG2001 (English IV) in the CS program, offered in year(s) 64. Prerequisites: BG2000 English III.",
+    "text": "Course BG2001 (English IV) in the CS program, for 64. Prerequisites: BG2000 English III.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -235,7 +235,7 @@
   },
   {
     "id": "64-CS-BAC1602",
-    "text": "Course BAC1602 (Fundamentals of Financial Accounting I) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course BAC1602 (Fundamentals of Financial Accounting I) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -248,7 +248,7 @@
   },
   {
     "id": "64-CS-CSX2007",
-    "text": "Course CSX2007 (Data Science) in the CS program, offered in year(s) 64. Prerequisites: CSX2006 Mathematics and Statistics for Data Science.",
+    "text": "Course CSX2007 (Data Science) in the CS program, for 64. Prerequisites: CSX2006 Mathematics and Statistics for Data Science.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -261,7 +261,7 @@
   },
   {
     "id": "64-CS-CSX2008",
-    "text": "Course CSX2008 (Mathematics Foundation for Computer Science) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course CSX2008 (Mathematics Foundation for Computer Science) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -274,7 +274,7 @@
   },
   {
     "id": "64-CS-CSX3006",
-    "text": "Course CSX3006 (Database Systems) in the CS program, offered in year(s) 64. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "text": "Course CSX3006 (Database Systems) in the CS program, for 64. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -287,7 +287,7 @@
   },
   {
     "id": "64-CS-CSX2009",
-    "text": "Course CSX2009 (Cloud Computing) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course CSX2009 (Cloud Computing) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -300,7 +300,7 @@
   },
   {
     "id": "64-CS-CSX3007",
-    "text": "Course CSX3007 (Computer Architecture) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course CSX3007 (Computer Architecture) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -313,7 +313,7 @@
   },
   {
     "id": "64-CS-CSX3008",
-    "text": "Course CSX3008 (Operating Systems) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course CSX3008 (Operating Systems) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -326,7 +326,7 @@
   },
   {
     "id": "64-CS-CSX3009",
-    "text": "Course CSX3009 (Algorithm Design) in the CS program, offered in year(s) 64. Prerequisites: CSX2008 Mathematics Foundation for Computer Science.",
+    "text": "Course CSX3009 (Algorithm Design) in the CS program, for 64. Prerequisites: CSX2008 Mathematics Foundation for Computer Science.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -339,7 +339,7 @@
   },
   {
     "id": "64-CS-GE2202",
-    "text": "Course GE2202 (Ethics) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course GE2202 (Ethics) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -352,7 +352,7 @@
   },
   {
     "id": "64-CS-CSX3010",
-    "text": "Course CSX3010 (Senior Project I) in the CS program, offered in year(s) 64. Prerequisites: Year 3 and >= 72 credits.",
+    "text": "Course CSX3010 (Senior Project I) in the CS program, for 64. Prerequisites: Year 3 and >= 72 credits.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -365,7 +365,7 @@
   },
   {
     "id": "64-CS-CSX_3011_",
-    "text": "Course CSX 3011  (Senior Project II) in the CS program, offered in year(s) 64. Prerequisites: Year 4 and >= 100 credits.",
+    "text": "Course CSX 3011  (Senior Project II) in the CS program, for 64. Prerequisites: Year 4 and >= 100 credits.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -378,7 +378,7 @@
   },
   {
     "id": "651-_652-CS-ELE1001",
-    "text": "Course ELE1001 (Communicative English I) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course ELE1001 (Communicative English I) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -394,7 +394,7 @@
   },
   {
     "id": "651-_652-CS-BBA1001",
-    "text": "Course BBA1001 (Business Exploration) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course BBA1001 (Business Exploration) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -410,7 +410,7 @@
   },
   {
     "id": "651-_652-CS-CSX3001",
-    "text": "Course CSX3001 (Fundamentals of Computer Programming) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course CSX3001 (Fundamentals of Computer Programming) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -426,7 +426,7 @@
   },
   {
     "id": "651-_652-CS-ITX3002",
-    "text": "Course ITX3002 (Introduction to Information Technology) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course ITX3002 (Introduction to Information Technology) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -442,7 +442,7 @@
   },
   {
     "id": "651-_652-CS-MA1200",
-    "text": "Course MA1200 (Mathematics for Business) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course MA1200 (Mathematics for Business) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -458,7 +458,7 @@
   },
   {
     "id": "651-_652-CS-ELE1002",
-    "text": "Course ELE1002 (Communicative English II) in the CS program, offered in year(s) 651, 652. Prerequisites: ELE 1001 Communicative English I.",
+    "text": "Course ELE1002 (Communicative English II) in the CS program, for 651, 652. Prerequisites: ELE 1001 Communicative English I.",
     "metadata": {
       "year": [
         "651",
@@ -474,7 +474,7 @@
   },
   {
     "id": "651-_652-CS-CSX2003",
-    "text": "Course CSX2003 (Principles of Statistics) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course CSX2003 (Principles of Statistics) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -490,7 +490,7 @@
   },
   {
     "id": "651-_652-CS-CSX3002",
-    "text": "Course CSX3002 (Object-Oriented Concepts and Programming) in the CS program, offered in year(s) 651, 652. Prerequisites: CSX3001 Fundamentals of Computer Programming.",
+    "text": "Course CSX3002 (Object-Oriented Concepts and Programming) in the CS program, for 651, 652. Prerequisites: CSX3001 Fundamentals of Computer Programming.",
     "metadata": {
       "year": [
         "651",
@@ -506,7 +506,7 @@
   },
   {
     "id": "651-_652-CS-IBE1122",
-    "text": "Course IBE1122 (Accounting for Entrepreneurs) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course IBE1122 (Accounting for Entrepreneurs) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -522,7 +522,7 @@
   },
   {
     "id": "651-_652-CS-ITX2005",
-    "text": "Course ITX2005 (Design Thinking) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course ITX2005 (Design Thinking) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -538,7 +538,7 @@
   },
   {
     "id": "651-_652-CS-ELE2000",
-    "text": "Course ELE2000 (Academic English) in the CS program, offered in year(s) 651, 652. Prerequisites: ELE1002 Communicative English II.",
+    "text": "Course ELE2000 (Academic English) in the CS program, for 651, 652. Prerequisites: ELE1002 Communicative English II.",
     "metadata": {
       "year": [
         "651",
@@ -554,7 +554,7 @@
   },
   {
     "id": "651-_652-CS-CSX2006",
-    "text": "Course CSX2006 (Mathematics and Statistics for Data Science) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course CSX2006 (Mathematics and Statistics for Data Science) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -570,7 +570,7 @@
   },
   {
     "id": "651-_652-CS-CSX2008",
-    "text": "Course CSX2008 (Mathematics Foundation for Computer Science) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course CSX2008 (Mathematics Foundation for Computer Science) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -586,7 +586,7 @@
   },
   {
     "id": "651-_652-CS-CSX3003",
-    "text": "Course CSX3003 (Data Structures and Algorithms) in the CS program, offered in year(s) 651, 652. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "text": "Course CSX3003 (Data Structures and Algorithms) in the CS program, for 651, 652. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": [
         "651",
@@ -602,7 +602,7 @@
   },
   {
     "id": "651-_652-CS-CSX3005",
-    "text": "Course CSX3005 (Computer Networks) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course CSX3005 (Computer Networks) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -618,7 +618,7 @@
   },
   {
     "id": "651-_652-CS-ITX2007",
-    "text": "Course ITX2007 (Data Science) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course ITX2007 (Data Science) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -634,7 +634,7 @@
   },
   {
     "id": "651-_652-CS-ELE2001",
-    "text": "Course ELE2001 (Advanced Academic English) in the CS program, offered in year(s) 651, 652. Prerequisites: ELE2000 Academic English.",
+    "text": "Course ELE2001 (Advanced Academic English) in the CS program, for 651, 652. Prerequisites: ELE2000 Academic English.",
     "metadata": {
       "year": [
         "651",
@@ -650,7 +650,7 @@
   },
   {
     "id": "651-_652-CS-GE1302",
-    "text": "Course GE1302 (Ecology and Sustainability) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course GE1302 (Ecology and Sustainability) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -666,7 +666,7 @@
   },
   {
     "id": "651-_652-CS-CSX2009",
-    "text": "Course CSX2009 (Cloud Computing) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course CSX2009 (Cloud Computing) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -682,7 +682,7 @@
   },
   {
     "id": "651-_652-CS-CSX3004",
-    "text": "Course CSX3004 (Programming Languages) in the CS program, offered in year(s) 651, 652. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "text": "Course CSX3004 (Programming Languages) in the CS program, for 651, 652. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": [
         "651",
@@ -698,7 +698,7 @@
   },
   {
     "id": "651-_652-CS-CSX3006",
-    "text": "Course CSX3006 (Database Systems) in the CS program, offered in year(s) 651, 652. Prerequisites: CSX3001 Fundamentals of Computer Programming.",
+    "text": "Course CSX3006 (Database Systems) in the CS program, for 651, 652. Prerequisites: CSX3001 Fundamentals of Computer Programming.",
     "metadata": {
       "year": [
         "651",
@@ -714,7 +714,7 @@
   },
   {
     "id": "651-_652-CS-GE1403",
-    "text": "Course GE1403 (Communication in Thai) in the CS program, offered in year(s) 651, 652. Prerequisites: GE1403:Thai students\nGE1408:Thai students from International Program \nGE1409:Non-Thai students.",
+    "text": "Course GE1403 (Communication in Thai) in the CS program, for 651, 652. Prerequisites: GE1403:Thai students\nGE1408:Thai students from International Program \nGE1409:Non-Thai students.",
     "metadata": {
       "year": [
         "651",
@@ -730,7 +730,7 @@
   },
   {
     "id": "651-_652-CS-GE1408",
-    "text": "Course GE1408 (Thai Usage) in the CS program, offered in year(s) 651, 652. Prerequisites: GE1403:Thai students\nGE1408:Thai students from International Program \nGE1409:Non-Thai students.",
+    "text": "Course GE1408 (Thai Usage) in the CS program, for 651, 652. Prerequisites: GE1403:Thai students\nGE1408:Thai students from International Program \nGE1409:Non-Thai students.",
     "metadata": {
       "year": [
         "651",
@@ -746,7 +746,7 @@
   },
   {
     "id": "651-_652-CS-GE1409",
-    "text": "Course GE1409 (Thai Language for intercultural communication) in the CS program, offered in year(s) 651, 652. Prerequisites: GE1403:Thai students\nGE1408:Thai students from International Program \nGE1409:Non-Thai students.",
+    "text": "Course GE1409 (Thai Language for intercultural communication) in the CS program, for 651, 652. Prerequisites: GE1403:Thai students\nGE1408:Thai students from International Program \nGE1409:Non-Thai students.",
     "metadata": {
       "year": [
         "651",
@@ -762,7 +762,7 @@
   },
   {
     "id": "651-_652-CS-CSX3007",
-    "text": "Course CSX3007 (Computer Architecture) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course CSX3007 (Computer Architecture) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -778,7 +778,7 @@
   },
   {
     "id": "651-_652-CS-CSX3008",
-    "text": "Course CSX3008 (Operating Systems) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course CSX3008 (Operating Systems) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -794,7 +794,7 @@
   },
   {
     "id": "651-_652-CS-GE2102",
-    "text": "Course GE2102 (Human Heritage and Globalization) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course GE2102 (Human Heritage and Globalization) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -810,7 +810,7 @@
   },
   {
     "id": "651-_652-CS-CSX3009",
-    "text": "Course CSX3009 (Algorithm Design) in the CS program, offered in year(s) 651, 652. Prerequisites: CSX3003 Data Structure and Algorithms.",
+    "text": "Course CSX3009 (Algorithm Design) in the CS program, for 651, 652. Prerequisites: CSX3003 Data Structure and Algorithms.",
     "metadata": {
       "year": [
         "651",
@@ -826,7 +826,7 @@
   },
   {
     "id": "651-_652-CS-CSX3010",
-    "text": "Course CSX3010 (Senior Project I) in the CS program, offered in year(s) 651, 652. Prerequisites: Year 3 and >= 72 credits.",
+    "text": "Course CSX3010 (Senior Project I) in the CS program, for 651, 652. Prerequisites: Year 3 and >= 72 credits.",
     "metadata": {
       "year": [
         "651",
@@ -842,7 +842,7 @@
   },
   {
     "id": "651-_652-CS-GE_2202_",
-    "text": "Course GE 2202  (Ethics) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course GE 2202  (Ethics) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -858,7 +858,7 @@
   },
   {
     "id": "651-_652-CS-CSX_3011_",
-    "text": "Course CSX 3011  (Senior Project II) in the CS program, offered in year(s) 651, 652. Prerequisites: Year 4 and >= 100 credits.",
+    "text": "Course CSX 3011  (Senior Project II) in the CS program, for 651, 652. Prerequisites: Year 4 and >= 100 credits.",
     "metadata": {
       "year": [
         "651",
@@ -874,7 +874,7 @@
   },
   {
     "id": "653-CS-ELE1001",
-    "text": "Course ELE1001 (Communicative English I) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course ELE1001 (Communicative English I) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -887,7 +887,7 @@
   },
   {
     "id": "653-CS-CSX_2003",
-    "text": "Course CSX 2003 (Principles of Statistics) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course CSX 2003 (Principles of Statistics) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -900,7 +900,7 @@
   },
   {
     "id": "653-CS-CSX3001",
-    "text": "Course CSX3001 (Fundamentals of Computer Programming) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course CSX3001 (Fundamentals of Computer Programming) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -913,7 +913,7 @@
   },
   {
     "id": "653-CS-ITX3002",
-    "text": "Course ITX3002 (Introduction to Information Technology) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course ITX3002 (Introduction to Information Technology) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -926,7 +926,7 @@
   },
   {
     "id": "653-CS-BBA_1006",
-    "text": "Course BBA 1006 (Essential Economics for Entrepreneurs) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course BBA 1006 (Essential Economics for Entrepreneurs) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -939,7 +939,7 @@
   },
   {
     "id": "653-CS-ELE1002",
-    "text": "Course ELE1002 (Communicative English II) in the CS program, offered in year(s) 653. Prerequisites: ELE 1001 Communicative English I.",
+    "text": "Course ELE1002 (Communicative English II) in the CS program, for 653. Prerequisites: ELE 1001 Communicative English I.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -952,7 +952,7 @@
   },
   {
     "id": "653-CS-CSX2008",
-    "text": "Course CSX2008 (Mathematics Foundation for Computer Science) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course CSX2008 (Mathematics Foundation for Computer Science) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -965,7 +965,7 @@
   },
   {
     "id": "653-CS-ITX2005",
-    "text": "Course ITX2005 (Design Thinking) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course ITX2005 (Design Thinking) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -978,7 +978,7 @@
   },
   {
     "id": "653-CS-GE_1303_",
-    "text": "Course GE 1303  (Science for Sustainable Future ) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course GE 1303  (Science for Sustainable Future ) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -991,7 +991,7 @@
   },
   {
     "id": "653-CS-CSX3002",
-    "text": "Course CSX3002 (Object-Oriented Concepts and Programming) in the CS program, offered in year(s) 653. Prerequisites: CSX3001 Fundamentals of Computer Programming.",
+    "text": "Course CSX3002 (Object-Oriented Concepts and Programming) in the CS program, for 653. Prerequisites: CSX3001 Fundamentals of Computer Programming.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -1004,7 +1004,7 @@
   },
   {
     "id": "653-CS-GE_1410",
-    "text": "Course GE 1410 (Thai for Professional Communication) in the CS program, offered in year(s) 653. Prerequisites: GE 1410 Thai students \nGE1411 Non-Thai students\nGE1412 Thai students from Internation Program.",
+    "text": "Course GE 1410 (Thai for Professional Communication) in the CS program, for 653. Prerequisites: GE 1410 Thai students \nGE1411 Non-Thai students\nGE1412 Thai students from Internation Program.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -1017,7 +1017,7 @@
   },
   {
     "id": "653-CS-GE_1411",
-    "text": "Course GE 1411 (Thai Language for Multicultural) in the CS program, offered in year(s) 653. Prerequisites: GE 1410 Thai students \nGE1411 Non-Thai students\nGE1412 Thai students from Internation Program.",
+    "text": "Course GE 1411 (Thai Language for Multicultural) in the CS program, for 653. Prerequisites: GE 1410 Thai students \nGE1411 Non-Thai students\nGE1412 Thai students from Internation Program.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -1030,7 +1030,7 @@
   },
   {
     "id": "653-CS-GE_1412",
-    "text": "Course GE 1412 (Introductory Thai Usage) in the CS program, offered in year(s) 653. Prerequisites: GE 1410 Thai students \nGE1411 Non-Thai students\nGE1412 Thai students from Internation Program.",
+    "text": "Course GE 1412 (Introductory Thai Usage) in the CS program, for 653. Prerequisites: GE 1410 Thai students \nGE1411 Non-Thai students\nGE1412 Thai students from Internation Program.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -1043,7 +1043,7 @@
   },
   {
     "id": "653-CS-ELE2000",
-    "text": "Course ELE2000 (Academic English) in the CS program, offered in year(s) 653. Prerequisites: ELE1002 Communicative English II.",
+    "text": "Course ELE2000 (Academic English) in the CS program, for 653. Prerequisites: ELE1002 Communicative English II.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -1056,7 +1056,7 @@
   },
   {
     "id": "653-CS-CSX2006",
-    "text": "Course CSX2006 (Mathematics and Statistics for Data Science) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course CSX2006 (Mathematics and Statistics for Data Science) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -1069,7 +1069,7 @@
   },
   {
     "id": "653-CS-CSX3003",
-    "text": "Course CSX3003 (Data Structures and Algorithms) in the CS program, offered in year(s) 653. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "text": "Course CSX3003 (Data Structures and Algorithms) in the CS program, for 653. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -1082,7 +1082,7 @@
   },
   {
     "id": "653-CS-ITX_3007",
-    "text": "Course ITX 3007 (Software Engineering) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course ITX 3007 (Software Engineering) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -1095,7 +1095,7 @@
   },
   {
     "id": "653-CS-BBA_1005",
-    "text": "Course BBA 1005 (Essential Finance for Entrepreneurs) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course BBA 1005 (Essential Finance for Entrepreneurs) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -1108,7 +1108,7 @@
   },
   {
     "id": "653-CS-ITX2007",
-    "text": "Course ITX2007 (Data Science) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course ITX2007 (Data Science) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -1121,7 +1121,7 @@
   },
   {
     "id": "653-CS-ELE2001",
-    "text": "Course ELE2001 (Advanced Academic English) in the CS program, offered in year(s) 653. Prerequisites: ELE2000 Academic English.",
+    "text": "Course ELE2001 (Advanced Academic English) in the CS program, for 653. Prerequisites: ELE2000 Academic English.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -1134,7 +1134,7 @@
   },
   {
     "id": "653-CS-CSX2009",
-    "text": "Course CSX2009 (Cloud Computing) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course CSX2009 (Cloud Computing) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -1147,7 +1147,7 @@
   },
   {
     "id": "653-CS-CSX3006",
-    "text": "Course CSX3006 (Database Systems) in the CS program, offered in year(s) 653. Prerequisites: CSX3001 Fundamentals of Computer Programming.",
+    "text": "Course CSX3006 (Database Systems) in the CS program, for 653. Prerequisites: CSX3001 Fundamentals of Computer Programming.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -1160,7 +1160,7 @@
   },
   {
     "id": "653-CS-BBA_1007",
-    "text": "Course BBA 1007 (Data Analytics for Entrepreneurs) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course BBA 1007 (Data Analytics for Entrepreneurs) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -1173,7 +1173,7 @@
   },
   {
     "id": "653-CS-GE_2110",
-    "text": "Course GE 2110 (Human Civilizations and Global Citizens ) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course GE 2110 (Human Civilizations and Global Citizens ) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -1186,7 +1186,7 @@
   },
   {
     "id": "653-CS-CSX_3004",
-    "text": "Course CSX 3004 (Programming Languages ) in the CS program, offered in year(s) 653. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "text": "Course CSX 3004 (Programming Languages ) in the CS program, for 653. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -1199,7 +1199,7 @@
   },
   {
     "id": "653-CS-CSX_3005",
-    "text": "Course CSX 3005 (Computer Networks) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course CSX 3005 (Computer Networks) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -1212,7 +1212,7 @@
   },
   {
     "id": "653-CS-CSX3008",
-    "text": "Course CSX3008 (Operating Systems) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course CSX3008 (Operating Systems) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -1225,7 +1225,7 @@
   },
   {
     "id": "653-CS-CSX3007",
-    "text": "Course CSX3007 (Computer Architecture) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course CSX3007 (Computer Architecture) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -1238,7 +1238,7 @@
   },
   {
     "id": "653-CS-CSX3009",
-    "text": "Course CSX3009 (Algorithm Design) in the CS program, offered in year(s) 653. Prerequisites: CSX3003 Data Structure and Algorithms.",
+    "text": "Course CSX3009 (Algorithm Design) in the CS program, for 653. Prerequisites: CSX3003 Data Structure and Algorithms.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -1251,7 +1251,7 @@
   },
   {
     "id": "653-CS-GE_2202",
-    "text": "Course GE 2202 (Ethics) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course GE 2202 (Ethics) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -1264,7 +1264,7 @@
   },
   {
     "id": "653-CS-CSX3010",
-    "text": "Course CSX3010 (Senior Project I) in the CS program, offered in year(s) 653. Prerequisites: Year 3 and >= 72 credits.",
+    "text": "Course CSX3010 (Senior Project I) in the CS program, for 653. Prerequisites: Year 3 and >= 72 credits.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -1277,7 +1277,7 @@
   },
   {
     "id": "653-CS-CSX3011",
-    "text": "Course CSX3011 (Senior Project II) in the CS program, offered in year(s) 653. Prerequisites: Year 4 and >= 100 credits.",
+    "text": "Course CSX3011 (Senior Project II) in the CS program, for 653. Prerequisites: Year 4 and >= 100 credits.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -1290,7 +1290,7 @@
   },
   {
     "id": "64-CS-ITX3007",
-    "text": "Course ITX3007 (Software Engineering) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX3007 (Software Engineering) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -1303,7 +1303,7 @@
   },
   {
     "id": "64-CS-ITX4104",
-    "text": "Course ITX4104 (Software Testing) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX4104 (Software Testing) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -1316,7 +1316,7 @@
   },
   {
     "id": "64-CS-ITX4212",
-    "text": "Course ITX4212 (Predictive Analytics) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX4212 (Predictive Analytics) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -1329,7 +1329,7 @@
   },
   {
     "id": "64-CS-ITX4213",
-    "text": "Course ITX4213 (Artificial Intelligence for Business) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX4213 (Artificial Intelligence for Business) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -1342,7 +1342,7 @@
   },
   {
     "id": "64-CS-ITX4502",
-    "text": "Course ITX4502 (Tech Startup) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX4502 (Tech Startup) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -1355,7 +1355,7 @@
   },
   {
     "id": "64-CS-ITX4509",
-    "text": "Course ITX4509 (Cybersecurity) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX4509 (Cybersecurity) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -1368,7 +1368,7 @@
   },
   {
     "id": "64-CS-ITX4517",
-    "text": "Course ITX4517 (Software Configuration Management) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX4517 (Software Configuration Management) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -1381,7 +1381,7 @@
   },
   {
     "id": "64-CS-ITX4518",
-    "text": "Course ITX4518 (Blockchain and Digital Currencies) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX4518 (Blockchain and Digital Currencies) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -1394,7 +1394,7 @@
   },
   {
     "id": "64-CS-ITX4519",
-    "text": "Course ITX4519 (Internetworking Workshop) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX4519 (Internetworking Workshop) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -1407,7 +1407,7 @@
   },
   {
     "id": "64-CS-LAW1201",
-    "text": "Course LAW1201 (Business Laws for Entrepreneurs) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course LAW1201 (Business Laws for Entrepreneurs) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -1420,7 +1420,7 @@
   },
   {
     "id": "64-CS-MA1200",
-    "text": "Course MA1200 (Mathematics for Business) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course MA1200 (Mathematics for Business) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -1433,7 +1433,7 @@
   },
   {
     "id": "64-CS-MGT1101",
-    "text": "Course MGT1101 (Introduction to Business) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course MGT1101 (Introduction to Business) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -1446,7 +1446,7 @@
   },
   {
     "id": "651-_652-CS-ITX3007",
-    "text": "Course ITX3007 (Software Engineering) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course ITX3007 (Software Engineering) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -1462,7 +1462,7 @@
   },
   {
     "id": "651-_652-CS-ITX4104",
-    "text": "Course ITX4104 (Software Testing) in the CS program, offered in year(s) 651, 652. Prerequisites: ITX3007 Software Engineering.",
+    "text": "Course ITX4104 (Software Testing) in the CS program, for 651, 652. Prerequisites: ITX3007 Software Engineering.",
     "metadata": {
       "year": [
         "651",
@@ -1478,7 +1478,7 @@
   },
   {
     "id": "651-_652-CS-ITX4212",
-    "text": "Course ITX4212 (Predictive Analytics) in the CS program, offered in year(s) 651, 652. Prerequisites: ITX2007 Data Science.",
+    "text": "Course ITX4212 (Predictive Analytics) in the CS program, for 651, 652. Prerequisites: ITX2007 Data Science.",
     "metadata": {
       "year": [
         "651",
@@ -1494,7 +1494,7 @@
   },
   {
     "id": "651-_652-CS-ITX4213",
-    "text": "Course ITX4213 (Artificial Intelligence for Business) in the CS program, offered in year(s) 651, 652. Prerequisites: ITX2007 Data Science.",
+    "text": "Course ITX4213 (Artificial Intelligence for Business) in the CS program, for 651, 652. Prerequisites: ITX2007 Data Science.",
     "metadata": {
       "year": [
         "651",
@@ -1510,7 +1510,7 @@
   },
   {
     "id": "651-_652-CS-ITX4502",
-    "text": "Course ITX4502 (Tech Startup) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course ITX4502 (Tech Startup) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -1526,7 +1526,7 @@
   },
   {
     "id": "651-_652-CS-ITX4509",
-    "text": "Course ITX4509 (Cybersecurity) in the CS program, offered in year(s) 651, 652. Prerequisites: CSX3005 Computer Networks.",
+    "text": "Course ITX4509 (Cybersecurity) in the CS program, for 651, 652. Prerequisites: CSX3005 Computer Networks.",
     "metadata": {
       "year": [
         "651",
@@ -1542,7 +1542,7 @@
   },
   {
     "id": "651-_652-CS-ITX4517",
-    "text": "Course ITX4517 (Software Configuration Management) in the CS program, offered in year(s) 651, 652. Prerequisites: ITX3007 Software Engineering.",
+    "text": "Course ITX4517 (Software Configuration Management) in the CS program, for 651, 652. Prerequisites: ITX3007 Software Engineering.",
     "metadata": {
       "year": [
         "651",
@@ -1558,7 +1558,7 @@
   },
   {
     "id": "651-_652-CS-ITX4518",
-    "text": "Course ITX4518 (Blockchain and Digital Currencies) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course ITX4518 (Blockchain and Digital Currencies) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -1574,7 +1574,7 @@
   },
   {
     "id": "651-_652-CS-ITX4519",
-    "text": "Course ITX4519 (Internetworking Workshop) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course ITX4519 (Internetworking Workshop) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -1590,7 +1590,7 @@
   },
   {
     "id": "651-_652-CS-LAW1201",
-    "text": "Course LAW1201 (Business Laws for Entrepreneurs) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course LAW1201 (Business Laws for Entrepreneurs) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -1606,7 +1606,7 @@
   },
   {
     "id": "651-_652-CS-MA1200",
-    "text": "Course MA1200 (Mathematics for Business) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course MA1200 (Mathematics for Business) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -1622,7 +1622,7 @@
   },
   {
     "id": "651-_652-CS-MGT1101",
-    "text": "Course MGT1101 (Introduction to Business) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course MGT1101 (Introduction to Business) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -1638,7 +1638,7 @@
   },
   {
     "id": "653-CS-ITX3007",
-    "text": "Course ITX3007 (Software Engineering) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course ITX3007 (Software Engineering) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": [
         "653"
@@ -1653,7 +1653,7 @@
   },
   {
     "id": "653-CS-ITX4104",
-    "text": "Course ITX4104 (Software Testing) in the CS program, offered in year(s) 653. Prerequisites: ITX3007 Software Engineering.",
+    "text": "Course ITX4104 (Software Testing) in the CS program, for 653. Prerequisites: ITX3007 Software Engineering.",
     "metadata": {
       "year": [
         "653"
@@ -1668,7 +1668,7 @@
   },
   {
     "id": "653-CS-ITX4212",
-    "text": "Course ITX4212 (Predictive Analytics) in the CS program, offered in year(s) 653. Prerequisites: ITX2007 Data Science.",
+    "text": "Course ITX4212 (Predictive Analytics) in the CS program, for 653. Prerequisites: ITX2007 Data Science.",
     "metadata": {
       "year": [
         "653"
@@ -1683,7 +1683,7 @@
   },
   {
     "id": "653-CS-ITX4213",
-    "text": "Course ITX4213 (Artificial Intelligence for Business) in the CS program, offered in year(s) 653. Prerequisites: ITX2007 Data Science.",
+    "text": "Course ITX4213 (Artificial Intelligence for Business) in the CS program, for 653. Prerequisites: ITX2007 Data Science.",
     "metadata": {
       "year": [
         "653"
@@ -1698,7 +1698,7 @@
   },
   {
     "id": "653-CS-ITX4502",
-    "text": "Course ITX4502 (Tech Startup) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course ITX4502 (Tech Startup) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": [
         "653"
@@ -1713,7 +1713,7 @@
   },
   {
     "id": "653-CS-ITX4509",
-    "text": "Course ITX4509 (Cybersecurity) in the CS program, offered in year(s) 653. Prerequisites: CSX3005 Computer Networks.",
+    "text": "Course ITX4509 (Cybersecurity) in the CS program, for 653. Prerequisites: CSX3005 Computer Networks.",
     "metadata": {
       "year": [
         "653"
@@ -1728,7 +1728,7 @@
   },
   {
     "id": "653-CS-ITX4517",
-    "text": "Course ITX4517 (Software Configuration Management) in the CS program, offered in year(s) 653. Prerequisites: ITX3007 Software Engineering.",
+    "text": "Course ITX4517 (Software Configuration Management) in the CS program, for 653. Prerequisites: ITX3007 Software Engineering.",
     "metadata": {
       "year": [
         "653"
@@ -1743,7 +1743,7 @@
   },
   {
     "id": "653-CS-ITX4518",
-    "text": "Course ITX4518 (Blockchain and Digital Currencies) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course ITX4518 (Blockchain and Digital Currencies) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": [
         "653"
@@ -1758,7 +1758,7 @@
   },
   {
     "id": "653-CS-ITX4519",
-    "text": "Course ITX4519 (Internetworking Workshop) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course ITX4519 (Internetworking Workshop) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": [
         "653"
@@ -1773,7 +1773,7 @@
   },
   {
     "id": "653-CS-LAW1201",
-    "text": "Course LAW1201 (Business Laws for Entrepreneurs) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course LAW1201 (Business Laws for Entrepreneurs) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": [
         "653"
@@ -1788,7 +1788,7 @@
   },
   {
     "id": "653-CS-MA1200",
-    "text": "Course MA1200 (Mathematics for Business) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course MA1200 (Mathematics for Business) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": [
         "653"
@@ -1803,7 +1803,7 @@
   },
   {
     "id": "653-CS-MGT1101",
-    "text": "Course MGT1101 (Introduction to Business) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course MGT1101 (Introduction to Business) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": [
         "653"
@@ -1818,7 +1818,7 @@
   },
   {
     "id": "651-_652-_653-CS-ITX3003",
-    "text": "Course ITX3003 (Business System) in the CS program, offered in year(s) 651, 652, 653. Prerequisites: ITX3002 Introduction to Information Technology.",
+    "text": "Course ITX3003 (Business System) in the CS program, for 651, 652, 653. Prerequisites: ITX3002 Introduction to Information Technology.",
     "metadata": {
       "year": [
         "651",
@@ -1835,7 +1835,7 @@
   },
   {
     "id": "651-_652-_653-CS-ITX3004",
-    "text": "Course ITX3004 (Information System Analysis and Design) in the CS program, offered in year(s) 651, 652, 653. Prerequisites: CSX3006 Database Systems or ITX3006 Database Management Systems.",
+    "text": "Course ITX3004 (Information System Analysis and Design) in the CS program, for 651, 652, 653. Prerequisites: CSX3006 Database Systems or ITX3006 Database Management Systems.",
     "metadata": {
       "year": [
         "651",
@@ -1852,7 +1852,7 @@
   },
   {
     "id": "64-CS-ITX3003",
-    "text": "Course ITX3003 (Business System) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX3003 (Business System) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -1865,7 +1865,7 @@
   },
   {
     "id": "64-CS-ITX3004",
-    "text": "Course ITX3004 (Information System Analysis and Design) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX3004 (Information System Analysis and Design) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -1878,7 +1878,7 @@
   },
   {
     "id": "64-CS-BG_1001",
-    "text": "Course BG 1001 (English I) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course BG 1001 (English I) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -1891,7 +1891,7 @@
   },
   {
     "id": "64-CS-CSX1001",
-    "text": "Course CSX1001 (Basic Mathematics and Statistics) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course CSX1001 (Basic Mathematics and Statistics) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -1904,7 +1904,7 @@
   },
   {
     "id": "64-CS-CSX2001",
-    "text": "Course CSX2001 (Introduction to Information Technology) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course CSX2001 (Introduction to Information Technology) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -1917,7 +1917,7 @@
   },
   {
     "id": "64-CS-CSX3001",
-    "text": "Course CSX3001 (Fundamentals of Computer Programming) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course CSX3001 (Fundamentals of Computer Programming) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -1930,7 +1930,7 @@
   },
   {
     "id": "64-CS-BBA_1001",
-    "text": "Course BBA 1001 (Business Exploration) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course BBA 1001 (Business Exploration) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -1943,7 +1943,7 @@
   },
   {
     "id": "64-CS-BG_1002_",
-    "text": "Course BG 1002  (English II) in the CS program, offered in year(s) 64. Prerequisites: BG 1002 English II.",
+    "text": "Course BG 1002  (English II) in the CS program, for 64. Prerequisites: BG 1002 English II.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -1956,7 +1956,7 @@
   },
   {
     "id": "64-CS-LAW_1201_",
-    "text": "Course LAW 1201  (Business Laws for Entrepreneurs ) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course LAW 1201  (Business Laws for Entrepreneurs ) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -1969,7 +1969,7 @@
   },
   {
     "id": "64-CS-CSX2002",
-    "text": "Course CSX2002 (Calculus) in the CS program, offered in year(s) 64. Prerequisites: CSX1001 Basic Mathematics and Statistics.",
+    "text": "Course CSX2002 (Calculus) in the CS program, for 64. Prerequisites: CSX1001 Basic Mathematics and Statistics.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -1982,7 +1982,7 @@
   },
   {
     "id": "64-CS-CSX2003",
-    "text": "Course CSX2003 (Principles of Statistics) in the CS program, offered in year(s) 64. Prerequisites: CSX1001 Basic Mathematics and Statistics.",
+    "text": "Course CSX2003 (Principles of Statistics) in the CS program, for 64. Prerequisites: CSX1001 Basic Mathematics and Statistics.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -1995,7 +1995,7 @@
   },
   {
     "id": "64-CS-CSX2004",
-    "text": "Course CSX2004 (UI/UX Design and Prototyping) in the CS program, offered in year(s) 64. Prerequisites: NONE.",
+    "text": "Course CSX2004 (UI/UX Design and Prototyping) in the CS program, for 64. Prerequisites: NONE.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -2008,7 +2008,7 @@
   },
   {
     "id": "64-CS-CSX3002",
-    "text": "Course CSX3002 (Object-Oriented Concepts and Programming) in the CS program, offered in year(s) 64. Prerequisites: CSX3001 Fundamentals of Computer Programming.",
+    "text": "Course CSX3002 (Object-Oriented Concepts and Programming) in the CS program, for 64. Prerequisites: CSX3001 Fundamentals of Computer Programming.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -2021,7 +2021,7 @@
   },
   {
     "id": "64-CS-BG2000",
-    "text": "Course BG2000 (English III) in the CS program, offered in year(s) 64. Prerequisites: BG1002 English II.",
+    "text": "Course BG2000 (English III) in the CS program, for 64. Prerequisites: BG1002 English II.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -2034,7 +2034,7 @@
   },
   {
     "id": "64-CS-CSX2005",
-    "text": "Course CSX2005 (Design Thinking) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course CSX2005 (Design Thinking) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -2047,7 +2047,7 @@
   },
   {
     "id": "64-CS-CSX2006",
-    "text": "Course CSX2006 (Mathematics and Statistics for Data Science) in the CS program, offered in year(s) 64. Prerequisites: CSX2003 Principles of Statistics.",
+    "text": "Course CSX2006 (Mathematics and Statistics for Data Science) in the CS program, for 64. Prerequisites: CSX2003 Principles of Statistics.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -2060,7 +2060,7 @@
   },
   {
     "id": "64-CS-CSX3003",
-    "text": "Course CSX3003 (Data Structure and Algorithms) in the CS program, offered in year(s) 64. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "text": "Course CSX3003 (Data Structure and Algorithms) in the CS program, for 64. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -2073,7 +2073,7 @@
   },
   {
     "id": "64-CS-CSX3004",
-    "text": "Course CSX3004 (Programming Languages) in the CS program, offered in year(s) 64. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "text": "Course CSX3004 (Programming Languages) in the CS program, for 64. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -2086,7 +2086,7 @@
   },
   {
     "id": "64-CS-CSX3005",
-    "text": "Course CSX3005 (Computer Networks) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course CSX3005 (Computer Networks) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -2099,7 +2099,7 @@
   },
   {
     "id": "64-CS-BG2001",
-    "text": "Course BG2001 (English IV) in the CS program, offered in year(s) 64. Prerequisites: BG2000 English III.",
+    "text": "Course BG2001 (English IV) in the CS program, for 64. Prerequisites: BG2000 English III.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -2112,7 +2112,7 @@
   },
   {
     "id": "64-CS-BAC1602",
-    "text": "Course BAC1602 (Fundamentals of Financial Accounting I) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course BAC1602 (Fundamentals of Financial Accounting I) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -2125,7 +2125,7 @@
   },
   {
     "id": "64-CS-CSX2007",
-    "text": "Course CSX2007 (Data Science) in the CS program, offered in year(s) 64. Prerequisites: CSX2006 Mathematics and Statistics for Data Science.",
+    "text": "Course CSX2007 (Data Science) in the CS program, for 64. Prerequisites: CSX2006 Mathematics and Statistics for Data Science.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -2138,7 +2138,7 @@
   },
   {
     "id": "64-CS-CSX2008",
-    "text": "Course CSX2008 (Mathematics Foundation for Computer Science) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course CSX2008 (Mathematics Foundation for Computer Science) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -2151,7 +2151,7 @@
   },
   {
     "id": "64-CS-CSX3006",
-    "text": "Course CSX3006 (Database Systems) in the CS program, offered in year(s) 64. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "text": "Course CSX3006 (Database Systems) in the CS program, for 64. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -2164,7 +2164,7 @@
   },
   {
     "id": "64-CS-CSX2009",
-    "text": "Course CSX2009 (Cloud Computing) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course CSX2009 (Cloud Computing) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -2177,7 +2177,7 @@
   },
   {
     "id": "64-CS-CSX3007",
-    "text": "Course CSX3007 (Computer Architecture) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course CSX3007 (Computer Architecture) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -2190,7 +2190,7 @@
   },
   {
     "id": "64-CS-CSX3008",
-    "text": "Course CSX3008 (Operating Systems) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course CSX3008 (Operating Systems) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -2203,7 +2203,7 @@
   },
   {
     "id": "64-CS-CSX3009",
-    "text": "Course CSX3009 (Algorithm Design) in the CS program, offered in year(s) 64. Prerequisites: CSX2008 Mathematics Foundation for Computer Science.",
+    "text": "Course CSX3009 (Algorithm Design) in the CS program, for 64. Prerequisites: CSX2008 Mathematics Foundation for Computer Science.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -2216,7 +2216,7 @@
   },
   {
     "id": "64-CS-GE2202",
-    "text": "Course GE2202 (Ethics) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course GE2202 (Ethics) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -2229,7 +2229,7 @@
   },
   {
     "id": "64-CS-CSX3010",
-    "text": "Course CSX3010 (Senior Project I) in the CS program, offered in year(s) 64. Prerequisites: Year 3 and >= 72 credits.",
+    "text": "Course CSX3010 (Senior Project I) in the CS program, for 64. Prerequisites: Year 3 and >= 72 credits.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -2242,7 +2242,7 @@
   },
   {
     "id": "64-CS-CSX_3011_",
-    "text": "Course CSX 3011  (Senior Project II) in the CS program, offered in year(s) 64. Prerequisites: Year 4 and >= 100 credits.",
+    "text": "Course CSX 3011  (Senior Project II) in the CS program, for 64. Prerequisites: Year 4 and >= 100 credits.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -2255,7 +2255,7 @@
   },
   {
     "id": "651-_652-CS-ELE1001",
-    "text": "Course ELE1001 (Communicative English I) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course ELE1001 (Communicative English I) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -2271,7 +2271,7 @@
   },
   {
     "id": "651-_652-CS-BBA1001",
-    "text": "Course BBA1001 (Business Exploration) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course BBA1001 (Business Exploration) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -2287,7 +2287,7 @@
   },
   {
     "id": "651-_652-CS-CSX3001",
-    "text": "Course CSX3001 (Fundamentals of Computer Programming) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course CSX3001 (Fundamentals of Computer Programming) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -2303,7 +2303,7 @@
   },
   {
     "id": "651-_652-CS-ITX3002",
-    "text": "Course ITX3002 (Introduction to Information Technology) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course ITX3002 (Introduction to Information Technology) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -2319,7 +2319,7 @@
   },
   {
     "id": "651-_652-CS-MA1200",
-    "text": "Course MA1200 (Mathematics for Business) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course MA1200 (Mathematics for Business) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -2335,7 +2335,7 @@
   },
   {
     "id": "651-_652-CS-ELE1002",
-    "text": "Course ELE1002 (Communicative English II) in the CS program, offered in year(s) 651, 652. Prerequisites: ELE 1001 Communicative English I.",
+    "text": "Course ELE1002 (Communicative English II) in the CS program, for 651, 652. Prerequisites: ELE 1001 Communicative English I.",
     "metadata": {
       "year": [
         "651",
@@ -2351,7 +2351,7 @@
   },
   {
     "id": "651-_652-CS-CSX2003",
-    "text": "Course CSX2003 (Principles of Statistics) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course CSX2003 (Principles of Statistics) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -2367,7 +2367,7 @@
   },
   {
     "id": "651-_652-CS-CSX3002",
-    "text": "Course CSX3002 (Object-Oriented Concepts and Programming) in the CS program, offered in year(s) 651, 652. Prerequisites: CSX3001 Fundamentals of Computer Programming.",
+    "text": "Course CSX3002 (Object-Oriented Concepts and Programming) in the CS program, for 651, 652. Prerequisites: CSX3001 Fundamentals of Computer Programming.",
     "metadata": {
       "year": [
         "651",
@@ -2383,7 +2383,7 @@
   },
   {
     "id": "651-_652-CS-IBE1122",
-    "text": "Course IBE1122 (Accounting for Entrepreneurs) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course IBE1122 (Accounting for Entrepreneurs) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -2399,7 +2399,7 @@
   },
   {
     "id": "651-_652-CS-ITX2005",
-    "text": "Course ITX2005 (Design Thinking) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course ITX2005 (Design Thinking) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -2415,7 +2415,7 @@
   },
   {
     "id": "651-_652-CS-ELE2000",
-    "text": "Course ELE2000 (Academic English) in the CS program, offered in year(s) 651, 652. Prerequisites: ELE1002 Communicative English II.",
+    "text": "Course ELE2000 (Academic English) in the CS program, for 651, 652. Prerequisites: ELE1002 Communicative English II.",
     "metadata": {
       "year": [
         "651",
@@ -2431,7 +2431,7 @@
   },
   {
     "id": "651-_652-CS-CSX2006",
-    "text": "Course CSX2006 (Mathematics and Statistics for Data Science) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course CSX2006 (Mathematics and Statistics for Data Science) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -2447,7 +2447,7 @@
   },
   {
     "id": "651-_652-CS-CSX2008",
-    "text": "Course CSX2008 (Mathematics Foundation for Computer Science) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course CSX2008 (Mathematics Foundation for Computer Science) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -2463,7 +2463,7 @@
   },
   {
     "id": "651-_652-CS-CSX3003",
-    "text": "Course CSX3003 (Data Structures and Algorithms) in the CS program, offered in year(s) 651, 652. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "text": "Course CSX3003 (Data Structures and Algorithms) in the CS program, for 651, 652. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": [
         "651",
@@ -2479,7 +2479,7 @@
   },
   {
     "id": "651-_652-CS-CSX3005",
-    "text": "Course CSX3005 (Computer Networks) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course CSX3005 (Computer Networks) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -2495,7 +2495,7 @@
   },
   {
     "id": "651-_652-CS-ITX2007",
-    "text": "Course ITX2007 (Data Science) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course ITX2007 (Data Science) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -2511,7 +2511,7 @@
   },
   {
     "id": "651-_652-CS-ELE2001",
-    "text": "Course ELE2001 (Advanced Academic English) in the CS program, offered in year(s) 651, 652. Prerequisites: ELE2000 Academic English.",
+    "text": "Course ELE2001 (Advanced Academic English) in the CS program, for 651, 652. Prerequisites: ELE2000 Academic English.",
     "metadata": {
       "year": [
         "651",
@@ -2527,7 +2527,7 @@
   },
   {
     "id": "651-_652-CS-GE1302",
-    "text": "Course GE1302 (Ecology and Sustainability) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course GE1302 (Ecology and Sustainability) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -2543,7 +2543,7 @@
   },
   {
     "id": "651-_652-CS-CSX2009",
-    "text": "Course CSX2009 (Cloud Computing) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course CSX2009 (Cloud Computing) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -2559,7 +2559,7 @@
   },
   {
     "id": "651-_652-CS-CSX3004",
-    "text": "Course CSX3004 (Programming Languages) in the CS program, offered in year(s) 651, 652. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "text": "Course CSX3004 (Programming Languages) in the CS program, for 651, 652. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": [
         "651",
@@ -2575,7 +2575,7 @@
   },
   {
     "id": "651-_652-CS-CSX3006",
-    "text": "Course CSX3006 (Database Systems) in the CS program, offered in year(s) 651, 652. Prerequisites: CSX3001 Fundamentals of Computer Programming.",
+    "text": "Course CSX3006 (Database Systems) in the CS program, for 651, 652. Prerequisites: CSX3001 Fundamentals of Computer Programming.",
     "metadata": {
       "year": [
         "651",
@@ -2591,7 +2591,7 @@
   },
   {
     "id": "651-_652-CS-GE1403",
-    "text": "Course GE1403 (Communication in Thai) in the CS program, offered in year(s) 651, 652. Prerequisites: GE1403:Thai students\nGE1408:Thai students from International Program \nGE1409:Non-Thai students.",
+    "text": "Course GE1403 (Communication in Thai) in the CS program, for 651, 652. Prerequisites: GE1403:Thai students\nGE1408:Thai students from International Program \nGE1409:Non-Thai students.",
     "metadata": {
       "year": [
         "651",
@@ -2607,7 +2607,7 @@
   },
   {
     "id": "651-_652-CS-GE1408",
-    "text": "Course GE1408 (Thai Usage) in the CS program, offered in year(s) 651, 652. Prerequisites: GE1403:Thai students\nGE1408:Thai students from International Program \nGE1409:Non-Thai students.",
+    "text": "Course GE1408 (Thai Usage) in the CS program, for 651, 652. Prerequisites: GE1403:Thai students\nGE1408:Thai students from International Program \nGE1409:Non-Thai students.",
     "metadata": {
       "year": [
         "651",
@@ -2623,7 +2623,7 @@
   },
   {
     "id": "651-_652-CS-GE1409",
-    "text": "Course GE1409 (Thai Language for intercultural communication) in the CS program, offered in year(s) 651, 652. Prerequisites: GE1403:Thai students\nGE1408:Thai students from International Program \nGE1409:Non-Thai students.",
+    "text": "Course GE1409 (Thai Language for intercultural communication) in the CS program, for 651, 652. Prerequisites: GE1403:Thai students\nGE1408:Thai students from International Program \nGE1409:Non-Thai students.",
     "metadata": {
       "year": [
         "651",
@@ -2639,7 +2639,7 @@
   },
   {
     "id": "651-_652-CS-CSX3007",
-    "text": "Course CSX3007 (Computer Architecture) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course CSX3007 (Computer Architecture) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -2655,7 +2655,7 @@
   },
   {
     "id": "651-_652-CS-CSX3008",
-    "text": "Course CSX3008 (Operating Systems) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course CSX3008 (Operating Systems) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -2671,7 +2671,7 @@
   },
   {
     "id": "651-_652-CS-GE2102",
-    "text": "Course GE2102 (Human Heritage and Globalization) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course GE2102 (Human Heritage and Globalization) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -2687,7 +2687,7 @@
   },
   {
     "id": "651-_652-CS-CSX3009",
-    "text": "Course CSX3009 (Algorithm Design) in the CS program, offered in year(s) 651, 652. Prerequisites: CSX3003 Data Structure and Algorithms.",
+    "text": "Course CSX3009 (Algorithm Design) in the CS program, for 651, 652. Prerequisites: CSX3003 Data Structure and Algorithms.",
     "metadata": {
       "year": [
         "651",
@@ -2703,7 +2703,7 @@
   },
   {
     "id": "651-_652-CS-CSX3010",
-    "text": "Course CSX3010 (Senior Project I) in the CS program, offered in year(s) 651, 652. Prerequisites: Year 3 and >= 72 credits.",
+    "text": "Course CSX3010 (Senior Project I) in the CS program, for 651, 652. Prerequisites: Year 3 and >= 72 credits.",
     "metadata": {
       "year": [
         "651",
@@ -2719,7 +2719,7 @@
   },
   {
     "id": "651-_652-CS-GE_2202_",
-    "text": "Course GE 2202  (Ethics) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course GE 2202  (Ethics) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -2735,7 +2735,7 @@
   },
   {
     "id": "651-_652-CS-CSX_3011_",
-    "text": "Course CSX 3011  (Senior Project II) in the CS program, offered in year(s) 651, 652. Prerequisites: Year 4 and >= 100 credits.",
+    "text": "Course CSX 3011  (Senior Project II) in the CS program, for 651, 652. Prerequisites: Year 4 and >= 100 credits.",
     "metadata": {
       "year": [
         "651",
@@ -2751,7 +2751,7 @@
   },
   {
     "id": "653-CS-ELE1001",
-    "text": "Course ELE1001 (Communicative English I) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course ELE1001 (Communicative English I) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -2764,7 +2764,7 @@
   },
   {
     "id": "653-CS-CSX_2003",
-    "text": "Course CSX 2003 (Principles of Statistics) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course CSX 2003 (Principles of Statistics) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -2777,7 +2777,7 @@
   },
   {
     "id": "653-CS-CSX3001",
-    "text": "Course CSX3001 (Fundamentals of Computer Programming) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course CSX3001 (Fundamentals of Computer Programming) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -2790,7 +2790,7 @@
   },
   {
     "id": "653-CS-ITX3002",
-    "text": "Course ITX3002 (Introduction to Information Technology) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course ITX3002 (Introduction to Information Technology) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -2803,7 +2803,7 @@
   },
   {
     "id": "653-CS-BBA_1006",
-    "text": "Course BBA 1006 (Essential Economics for Entrepreneurs) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course BBA 1006 (Essential Economics for Entrepreneurs) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -2816,7 +2816,7 @@
   },
   {
     "id": "653-CS-ELE1002",
-    "text": "Course ELE1002 (Communicative English II) in the CS program, offered in year(s) 653. Prerequisites: ELE 1001 Communicative English I.",
+    "text": "Course ELE1002 (Communicative English II) in the CS program, for 653. Prerequisites: ELE 1001 Communicative English I.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -2829,7 +2829,7 @@
   },
   {
     "id": "653-CS-CSX2008",
-    "text": "Course CSX2008 (Mathematics Foundation for Computer Science) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course CSX2008 (Mathematics Foundation for Computer Science) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -2842,7 +2842,7 @@
   },
   {
     "id": "653-CS-ITX2005",
-    "text": "Course ITX2005 (Design Thinking) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course ITX2005 (Design Thinking) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -2855,7 +2855,7 @@
   },
   {
     "id": "653-CS-GE_1303_",
-    "text": "Course GE 1303  (Science for Sustainable Future ) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course GE 1303  (Science for Sustainable Future ) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -2868,7 +2868,7 @@
   },
   {
     "id": "653-CS-CSX3002",
-    "text": "Course CSX3002 (Object-Oriented Concepts and Programming) in the CS program, offered in year(s) 653. Prerequisites: CSX3001 Fundamentals of Computer Programming.",
+    "text": "Course CSX3002 (Object-Oriented Concepts and Programming) in the CS program, for 653. Prerequisites: CSX3001 Fundamentals of Computer Programming.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -2881,7 +2881,7 @@
   },
   {
     "id": "653-CS-GE_1410",
-    "text": "Course GE 1410 (Thai for Professional Communication) in the CS program, offered in year(s) 653. Prerequisites: GE 1410 Thai students \nGE1411 Non-Thai students\nGE1412 Thai students from Internation Program.",
+    "text": "Course GE 1410 (Thai for Professional Communication) in the CS program, for 653. Prerequisites: GE 1410 Thai students \nGE1411 Non-Thai students\nGE1412 Thai students from Internation Program.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -2894,7 +2894,7 @@
   },
   {
     "id": "653-CS-GE_1411",
-    "text": "Course GE 1411 (Thai Language for Multicultural) in the CS program, offered in year(s) 653. Prerequisites: GE 1410 Thai students \nGE1411 Non-Thai students\nGE1412 Thai students from Internation Program.",
+    "text": "Course GE 1411 (Thai Language for Multicultural) in the CS program, for 653. Prerequisites: GE 1410 Thai students \nGE1411 Non-Thai students\nGE1412 Thai students from Internation Program.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -2907,7 +2907,7 @@
   },
   {
     "id": "653-CS-GE_1412",
-    "text": "Course GE 1412 (Introductory Thai Usage) in the CS program, offered in year(s) 653. Prerequisites: GE 1410 Thai students \nGE1411 Non-Thai students\nGE1412 Thai students from Internation Program.",
+    "text": "Course GE 1412 (Introductory Thai Usage) in the CS program, for 653. Prerequisites: GE 1410 Thai students \nGE1411 Non-Thai students\nGE1412 Thai students from Internation Program.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -2920,7 +2920,7 @@
   },
   {
     "id": "653-CS-ELE2000",
-    "text": "Course ELE2000 (Academic English) in the CS program, offered in year(s) 653. Prerequisites: ELE1002 Communicative English II.",
+    "text": "Course ELE2000 (Academic English) in the CS program, for 653. Prerequisites: ELE1002 Communicative English II.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -2933,7 +2933,7 @@
   },
   {
     "id": "653-CS-CSX2006",
-    "text": "Course CSX2006 (Mathematics and Statistics for Data Science) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course CSX2006 (Mathematics and Statistics for Data Science) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -2946,7 +2946,7 @@
   },
   {
     "id": "653-CS-CSX3003",
-    "text": "Course CSX3003 (Data Structures and Algorithms) in the CS program, offered in year(s) 653. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "text": "Course CSX3003 (Data Structures and Algorithms) in the CS program, for 653. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -2959,7 +2959,7 @@
   },
   {
     "id": "653-CS-ITX_3007",
-    "text": "Course ITX 3007 (Software Engineering) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course ITX 3007 (Software Engineering) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -2972,7 +2972,7 @@
   },
   {
     "id": "653-CS-BBA_1005",
-    "text": "Course BBA 1005 (Essential Finance for Entrepreneurs) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course BBA 1005 (Essential Finance for Entrepreneurs) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -2985,7 +2985,7 @@
   },
   {
     "id": "653-CS-ITX2007",
-    "text": "Course ITX2007 (Data Science) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course ITX2007 (Data Science) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -2998,7 +2998,7 @@
   },
   {
     "id": "653-CS-ELE2001",
-    "text": "Course ELE2001 (Advanced Academic English) in the CS program, offered in year(s) 653. Prerequisites: ELE2000 Academic English.",
+    "text": "Course ELE2001 (Advanced Academic English) in the CS program, for 653. Prerequisites: ELE2000 Academic English.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -3011,7 +3011,7 @@
   },
   {
     "id": "653-CS-CSX2009",
-    "text": "Course CSX2009 (Cloud Computing) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course CSX2009 (Cloud Computing) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -3024,7 +3024,7 @@
   },
   {
     "id": "653-CS-CSX3006",
-    "text": "Course CSX3006 (Database Systems) in the CS program, offered in year(s) 653. Prerequisites: CSX3001 Fundamentals of Computer Programming.",
+    "text": "Course CSX3006 (Database Systems) in the CS program, for 653. Prerequisites: CSX3001 Fundamentals of Computer Programming.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -3037,7 +3037,7 @@
   },
   {
     "id": "653-CS-BBA_1007",
-    "text": "Course BBA 1007 (Data Analytics for Entrepreneurs) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course BBA 1007 (Data Analytics for Entrepreneurs) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -3050,7 +3050,7 @@
   },
   {
     "id": "653-CS-GE_2110",
-    "text": "Course GE 2110 (Human Civilizations and Global Citizens ) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course GE 2110 (Human Civilizations and Global Citizens ) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -3063,7 +3063,7 @@
   },
   {
     "id": "653-CS-CSX_3004",
-    "text": "Course CSX 3004 (Programming Languages ) in the CS program, offered in year(s) 653. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "text": "Course CSX 3004 (Programming Languages ) in the CS program, for 653. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -3076,7 +3076,7 @@
   },
   {
     "id": "653-CS-CSX_3005",
-    "text": "Course CSX 3005 (Computer Networks) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course CSX 3005 (Computer Networks) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -3089,7 +3089,7 @@
   },
   {
     "id": "653-CS-CSX3008",
-    "text": "Course CSX3008 (Operating Systems) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course CSX3008 (Operating Systems) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -3102,7 +3102,7 @@
   },
   {
     "id": "653-CS-CSX3007",
-    "text": "Course CSX3007 (Computer Architecture) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course CSX3007 (Computer Architecture) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -3115,7 +3115,7 @@
   },
   {
     "id": "653-CS-CSX3009",
-    "text": "Course CSX3009 (Algorithm Design) in the CS program, offered in year(s) 653. Prerequisites: CSX3003 Data Structure and Algorithms.",
+    "text": "Course CSX3009 (Algorithm Design) in the CS program, for 653. Prerequisites: CSX3003 Data Structure and Algorithms.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -3128,7 +3128,7 @@
   },
   {
     "id": "653-CS-GE_2202",
-    "text": "Course GE 2202 (Ethics) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course GE 2202 (Ethics) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -3141,7 +3141,7 @@
   },
   {
     "id": "653-CS-CSX3010",
-    "text": "Course CSX3010 (Senior Project I) in the CS program, offered in year(s) 653. Prerequisites: Year 3 and >= 72 credits.",
+    "text": "Course CSX3010 (Senior Project I) in the CS program, for 653. Prerequisites: Year 3 and >= 72 credits.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -3154,7 +3154,7 @@
   },
   {
     "id": "653-CS-CSX3011",
-    "text": "Course CSX3011 (Senior Project II) in the CS program, offered in year(s) 653. Prerequisites: Year 4 and >= 100 credits.",
+    "text": "Course CSX3011 (Senior Project II) in the CS program, for 653. Prerequisites: Year 4 and >= 100 credits.",
     "metadata": {
       "year": "653",
       "program": "CS",
@@ -3167,7 +3167,7 @@
   },
   {
     "id": "64-CS-ITX3007",
-    "text": "Course ITX3007 (Software Engineering) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX3007 (Software Engineering) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -3180,7 +3180,7 @@
   },
   {
     "id": "64-CS-ITX4104",
-    "text": "Course ITX4104 (Software Testing) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX4104 (Software Testing) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -3193,7 +3193,7 @@
   },
   {
     "id": "64-CS-ITX4212",
-    "text": "Course ITX4212 (Predictive Analytics) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX4212 (Predictive Analytics) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -3206,7 +3206,7 @@
   },
   {
     "id": "64-CS-ITX4213",
-    "text": "Course ITX4213 (Artificial Intelligence for Business) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX4213 (Artificial Intelligence for Business) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -3219,7 +3219,7 @@
   },
   {
     "id": "64-CS-ITX4502",
-    "text": "Course ITX4502 (Tech Startup) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX4502 (Tech Startup) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -3232,7 +3232,7 @@
   },
   {
     "id": "64-CS-ITX4509",
-    "text": "Course ITX4509 (Cybersecurity) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX4509 (Cybersecurity) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -3245,7 +3245,7 @@
   },
   {
     "id": "64-CS-ITX4517",
-    "text": "Course ITX4517 (Software Configuration Management) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX4517 (Software Configuration Management) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -3258,7 +3258,7 @@
   },
   {
     "id": "64-CS-ITX4518",
-    "text": "Course ITX4518 (Blockchain and Digital Currencies) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX4518 (Blockchain and Digital Currencies) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -3271,7 +3271,7 @@
   },
   {
     "id": "64-CS-ITX4519",
-    "text": "Course ITX4519 (Internetworking Workshop) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX4519 (Internetworking Workshop) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -3284,7 +3284,7 @@
   },
   {
     "id": "64-CS-LAW1201",
-    "text": "Course LAW1201 (Business Laws for Entrepreneurs) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course LAW1201 (Business Laws for Entrepreneurs) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -3297,7 +3297,7 @@
   },
   {
     "id": "64-CS-MA1200",
-    "text": "Course MA1200 (Mathematics for Business) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course MA1200 (Mathematics for Business) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -3310,7 +3310,7 @@
   },
   {
     "id": "64-CS-MGT1101",
-    "text": "Course MGT1101 (Introduction to Business) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course MGT1101 (Introduction to Business) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -3323,7 +3323,7 @@
   },
   {
     "id": "651-_652-CS-ITX3007",
-    "text": "Course ITX3007 (Software Engineering) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course ITX3007 (Software Engineering) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -3339,7 +3339,7 @@
   },
   {
     "id": "651-_652-CS-ITX4104",
-    "text": "Course ITX4104 (Software Testing) in the CS program, offered in year(s) 651, 652. Prerequisites: ITX3007 Software Engineering.",
+    "text": "Course ITX4104 (Software Testing) in the CS program, for 651, 652. Prerequisites: ITX3007 Software Engineering.",
     "metadata": {
       "year": [
         "651",
@@ -3355,7 +3355,7 @@
   },
   {
     "id": "651-_652-CS-ITX4212",
-    "text": "Course ITX4212 (Predictive Analytics) in the CS program, offered in year(s) 651, 652. Prerequisites: ITX2007 Data Science.",
+    "text": "Course ITX4212 (Predictive Analytics) in the CS program, for 651, 652. Prerequisites: ITX2007 Data Science.",
     "metadata": {
       "year": [
         "651",
@@ -3371,7 +3371,7 @@
   },
   {
     "id": "651-_652-CS-ITX4213",
-    "text": "Course ITX4213 (Artificial Intelligence for Business) in the CS program, offered in year(s) 651, 652. Prerequisites: ITX2007 Data Science.",
+    "text": "Course ITX4213 (Artificial Intelligence for Business) in the CS program, for 651, 652. Prerequisites: ITX2007 Data Science.",
     "metadata": {
       "year": [
         "651",
@@ -3387,7 +3387,7 @@
   },
   {
     "id": "651-_652-CS-ITX4502",
-    "text": "Course ITX4502 (Tech Startup) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course ITX4502 (Tech Startup) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -3403,7 +3403,7 @@
   },
   {
     "id": "651-_652-CS-ITX4509",
-    "text": "Course ITX4509 (Cybersecurity) in the CS program, offered in year(s) 651, 652. Prerequisites: CSX3005 Computer Networks.",
+    "text": "Course ITX4509 (Cybersecurity) in the CS program, for 651, 652. Prerequisites: CSX3005 Computer Networks.",
     "metadata": {
       "year": [
         "651",
@@ -3419,7 +3419,7 @@
   },
   {
     "id": "651-_652-CS-ITX4517",
-    "text": "Course ITX4517 (Software Configuration Management) in the CS program, offered in year(s) 651, 652. Prerequisites: ITX3007 Software Engineering.",
+    "text": "Course ITX4517 (Software Configuration Management) in the CS program, for 651, 652. Prerequisites: ITX3007 Software Engineering.",
     "metadata": {
       "year": [
         "651",
@@ -3435,7 +3435,7 @@
   },
   {
     "id": "651-_652-CS-ITX4518",
-    "text": "Course ITX4518 (Blockchain and Digital Currencies) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course ITX4518 (Blockchain and Digital Currencies) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -3451,7 +3451,7 @@
   },
   {
     "id": "651-_652-CS-ITX4519",
-    "text": "Course ITX4519 (Internetworking Workshop) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course ITX4519 (Internetworking Workshop) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -3467,7 +3467,7 @@
   },
   {
     "id": "651-_652-CS-LAW1201",
-    "text": "Course LAW1201 (Business Laws for Entrepreneurs) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course LAW1201 (Business Laws for Entrepreneurs) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -3483,7 +3483,7 @@
   },
   {
     "id": "651-_652-CS-MA1200",
-    "text": "Course MA1200 (Mathematics for Business) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course MA1200 (Mathematics for Business) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -3499,7 +3499,7 @@
   },
   {
     "id": "651-_652-CS-MGT1101",
-    "text": "Course MGT1101 (Introduction to Business) in the CS program, offered in year(s) 651, 652. Prerequisites: None.",
+    "text": "Course MGT1101 (Introduction to Business) in the CS program, for 651, 652. Prerequisites: None.",
     "metadata": {
       "year": [
         "651",
@@ -3515,7 +3515,7 @@
   },
   {
     "id": "653-CS-ITX3007",
-    "text": "Course ITX3007 (Software Engineering) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course ITX3007 (Software Engineering) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": [
         "653"
@@ -3530,7 +3530,7 @@
   },
   {
     "id": "653-CS-ITX4104",
-    "text": "Course ITX4104 (Software Testing) in the CS program, offered in year(s) 653. Prerequisites: ITX3007 Software Engineering.",
+    "text": "Course ITX4104 (Software Testing) in the CS program, for 653. Prerequisites: ITX3007 Software Engineering.",
     "metadata": {
       "year": [
         "653"
@@ -3545,7 +3545,7 @@
   },
   {
     "id": "653-CS-ITX4212",
-    "text": "Course ITX4212 (Predictive Analytics) in the CS program, offered in year(s) 653. Prerequisites: ITX2007 Data Science.",
+    "text": "Course ITX4212 (Predictive Analytics) in the CS program, for 653. Prerequisites: ITX2007 Data Science.",
     "metadata": {
       "year": [
         "653"
@@ -3560,7 +3560,7 @@
   },
   {
     "id": "653-CS-ITX4213",
-    "text": "Course ITX4213 (Artificial Intelligence for Business) in the CS program, offered in year(s) 653. Prerequisites: ITX2007 Data Science.",
+    "text": "Course ITX4213 (Artificial Intelligence for Business) in the CS program, for 653. Prerequisites: ITX2007 Data Science.",
     "metadata": {
       "year": [
         "653"
@@ -3575,7 +3575,7 @@
   },
   {
     "id": "653-CS-ITX4502",
-    "text": "Course ITX4502 (Tech Startup) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course ITX4502 (Tech Startup) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": [
         "653"
@@ -3590,7 +3590,7 @@
   },
   {
     "id": "653-CS-ITX4509",
-    "text": "Course ITX4509 (Cybersecurity) in the CS program, offered in year(s) 653. Prerequisites: CSX3005 Computer Networks.",
+    "text": "Course ITX4509 (Cybersecurity) in the CS program, for 653. Prerequisites: CSX3005 Computer Networks.",
     "metadata": {
       "year": [
         "653"
@@ -3605,7 +3605,7 @@
   },
   {
     "id": "653-CS-ITX4517",
-    "text": "Course ITX4517 (Software Configuration Management) in the CS program, offered in year(s) 653. Prerequisites: ITX3007 Software Engineering.",
+    "text": "Course ITX4517 (Software Configuration Management) in the CS program, for 653. Prerequisites: ITX3007 Software Engineering.",
     "metadata": {
       "year": [
         "653"
@@ -3620,7 +3620,7 @@
   },
   {
     "id": "653-CS-ITX4518",
-    "text": "Course ITX4518 (Blockchain and Digital Currencies) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course ITX4518 (Blockchain and Digital Currencies) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": [
         "653"
@@ -3635,7 +3635,7 @@
   },
   {
     "id": "653-CS-ITX4519",
-    "text": "Course ITX4519 (Internetworking Workshop) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course ITX4519 (Internetworking Workshop) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": [
         "653"
@@ -3650,7 +3650,7 @@
   },
   {
     "id": "653-CS-LAW1201",
-    "text": "Course LAW1201 (Business Laws for Entrepreneurs) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course LAW1201 (Business Laws for Entrepreneurs) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": [
         "653"
@@ -3665,7 +3665,7 @@
   },
   {
     "id": "653-CS-MA1200",
-    "text": "Course MA1200 (Mathematics for Business) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course MA1200 (Mathematics for Business) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": [
         "653"
@@ -3680,7 +3680,7 @@
   },
   {
     "id": "653-CS-MGT1101",
-    "text": "Course MGT1101 (Introduction to Business) in the CS program, offered in year(s) 653. Prerequisites: None.",
+    "text": "Course MGT1101 (Introduction to Business) in the CS program, for 653. Prerequisites: None.",
     "metadata": {
       "year": [
         "653"
@@ -3695,7 +3695,7 @@
   },
   {
     "id": "651-_652-_653-CS-ITX3003",
-    "text": "Course ITX3003 (Business System) in the CS program, offered in year(s) 651, 652, 653. Prerequisites: ITX3002 Introduction to Information Technology.",
+    "text": "Course ITX3003 (Business System) in the CS program, for 651, 652, 653. Prerequisites: ITX3002 Introduction to Information Technology.",
     "metadata": {
       "year": [
         "651",
@@ -3712,7 +3712,7 @@
   },
   {
     "id": "651-_652-_653-CS-ITX3004",
-    "text": "Course ITX3004 (Information System Analysis and Design) in the CS program, offered in year(s) 651, 652, 653. Prerequisites: CSX3006 Database Systems or ITX3006 Database Management Systems.",
+    "text": "Course ITX3004 (Information System Analysis and Design) in the CS program, for 651, 652, 653. Prerequisites: CSX3006 Database Systems or ITX3006 Database Management Systems.",
     "metadata": {
       "year": [
         "651",
@@ -3729,7 +3729,7 @@
   },
   {
     "id": "64-CS-ITX3003",
-    "text": "Course ITX3003 (Business System) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX3003 (Business System) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -3742,7 +3742,7 @@
   },
   {
     "id": "64-CS-ITX3004",
-    "text": "Course ITX3004 (Information System Analysis and Design) in the CS program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX3004 (Information System Analysis and Design) in the CS program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "CS",
@@ -3755,7 +3755,7 @@
   },
   {
     "id": "64-IT-BG_1001",
-    "text": "Course BG 1001 (English I) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course BG 1001 (English I) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -3768,7 +3768,7 @@
   },
   {
     "id": "64-IT-BG_1002",
-    "text": "Course BG 1002 (English II) in the IT program, offered in year(s) 64. Prerequisites: BG 1001 English I.",
+    "text": "Course BG 1002 (English II) in the IT program, for 64. Prerequisites: BG 1001 English I.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -3781,7 +3781,7 @@
   },
   {
     "id": "64-IT-BG_2000",
-    "text": "Course BG 2000 (English III) in the IT program, offered in year(s) 64. Prerequisites: BG 1002 English II.",
+    "text": "Course BG 2000 (English III) in the IT program, for 64. Prerequisites: BG 1002 English II.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -3794,7 +3794,7 @@
   },
   {
     "id": "64-IT-BG_2001",
-    "text": "Course BG 2001 (English IV) in the IT program, offered in year(s) 64. Prerequisites: BG 2000 English III.",
+    "text": "Course BG 2001 (English IV) in the IT program, for 64. Prerequisites: BG 2000 English III.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -3807,7 +3807,7 @@
   },
   {
     "id": "64-IT-BBA_1001",
-    "text": "Course BBA 1001 (Business Exploration) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course BBA 1001 (Business Exploration) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -3820,7 +3820,7 @@
   },
   {
     "id": "64-IT-ITX_1001",
-    "text": "Course ITX 1001 (Basic Mathematics and Statistics) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX 1001 (Basic Mathematics and Statistics) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -3833,7 +3833,7 @@
   },
   {
     "id": "64-IT-ITX_3001",
-    "text": "Course ITX 3001 (Fundamentals of Computer Programming) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX 3001 (Fundamentals of Computer Programming) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -3846,7 +3846,7 @@
   },
   {
     "id": "64-IT-ITX_3002",
-    "text": "Course ITX 3002 (Introduction to Information Technology) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX 3002 (Introduction to Information Technology) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -3859,7 +3859,7 @@
   },
   {
     "id": "64-IT-ITX_2001",
-    "text": "Course ITX 2001 (Object-Oriented Concepts and Programming) in the IT program, offered in year(s) 64. Prerequisites: ITX 3001 Fundamentals of Computer Programming.",
+    "text": "Course ITX 2001 (Object-Oriented Concepts and Programming) in the IT program, for 64. Prerequisites: ITX 3001 Fundamentals of Computer Programming.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -3872,7 +3872,7 @@
   },
   {
     "id": "64-IT-ITX_2002",
-    "text": "Course ITX 2002 (Calculus) in the IT program, offered in year(s) 64. Prerequisites: ITX 1001 Basic Mathematics and Statistics.",
+    "text": "Course ITX 2002 (Calculus) in the IT program, for 64. Prerequisites: ITX 1001 Basic Mathematics and Statistics.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -3885,7 +3885,7 @@
   },
   {
     "id": "64-IT-ITX_2003",
-    "text": "Course ITX 2003 (Principles of Statistics) in the IT program, offered in year(s) 64. Prerequisites: ITX 1001 Basic Mathematics and Statistics.",
+    "text": "Course ITX 2003 (Principles of Statistics) in the IT program, for 64. Prerequisites: ITX 1001 Basic Mathematics and Statistics.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -3898,7 +3898,7 @@
   },
   {
     "id": "64-IT-ITX_2004",
-    "text": "Course ITX 2004 (UI/UX Design and Prototyping) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX 2004 (UI/UX Design and Prototyping) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -3911,7 +3911,7 @@
   },
   {
     "id": "64-IT-LAW_1201",
-    "text": "Course LAW 1201 (Business Laws for Entrepreneurs) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course LAW 1201 (Business Laws for Entrepreneurs) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -3924,7 +3924,7 @@
   },
   {
     "id": "64-IT-ITX_2005",
-    "text": "Course ITX 2005 (Design Thinking) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX 2005 (Design Thinking) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -3937,7 +3937,7 @@
   },
   {
     "id": "64-IT-ITX_2006",
-    "text": "Course ITX 2006 (Mathematics and Statistics for Data Science) in the IT program, offered in year(s) 64. Prerequisites: ITX 2003 Principles of Statistics.",
+    "text": "Course ITX 2006 (Mathematics and Statistics for Data Science) in the IT program, for 64. Prerequisites: ITX 2003 Principles of Statistics.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -3950,7 +3950,7 @@
   },
   {
     "id": "64-IT-ITX_2010",
-    "text": "Course ITX 2010 (Data Structure and Algorithms) in the IT program, offered in year(s) 64. Prerequisites: ITX 2001 Object-Oriented Concepts and Programming.",
+    "text": "Course ITX 2010 (Data Structure and Algorithms) in the IT program, for 64. Prerequisites: ITX 2001 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -3963,7 +3963,7 @@
   },
   {
     "id": "64-IT-ITX_3003",
-    "text": "Course ITX 3003 (Business Systems) in the IT program, offered in year(s) 64. Prerequisites: ITX 3002 Introduction to Information Technology.",
+    "text": "Course ITX 3003 (Business Systems) in the IT program, for 64. Prerequisites: ITX 3002 Introduction to Information Technology.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -3976,7 +3976,7 @@
   },
   {
     "id": "64-IT-ITX_3005",
-    "text": "Course ITX 3005 (Computer Networks) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX 3005 (Computer Networks) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -3989,7 +3989,7 @@
   },
   {
     "id": "64-IT-BAC_1602",
-    "text": "Course BAC 1602 (Fundamentals of Financial Accounting I) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course BAC 1602 (Fundamentals of Financial Accounting I) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4002,7 +4002,7 @@
   },
   {
     "id": "64-IT-ITX_2007",
-    "text": "Course ITX 2007 (Data Science) in the IT program, offered in year(s) 64. Prerequisites: ITX 2006 Mathematics and Statistics for Data Science.",
+    "text": "Course ITX 2007 (Data Science) in the IT program, for 64. Prerequisites: ITX 2006 Mathematics and Statistics for Data Science.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4015,7 +4015,7 @@
   },
   {
     "id": "64-IT-ITX_2008",
-    "text": "Course ITX 2008 (Cloud Computing) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX 2008 (Cloud Computing) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4028,7 +4028,7 @@
   },
   {
     "id": "64-IT-ITX_2009",
-    "text": "Course ITX 2009 (Presentation and Data Visualization Techniques) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX 2009 (Presentation and Data Visualization Techniques) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4041,7 +4041,7 @@
   },
   {
     "id": "64-IT-ITX_3006",
-    "text": "Course ITX 3006 (Database Management Systems) in the IT program, offered in year(s) 64. Prerequisites: ITX 2001 Object-Oriented Concepts and Programming.",
+    "text": "Course ITX 3006 (Database Management Systems) in the IT program, for 64. Prerequisites: ITX 2001 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4054,7 +4054,7 @@
   },
   {
     "id": "64-IT-ITX_3004",
-    "text": "Course ITX 3004 (Information System Analysis and Design) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX 3004 (Information System Analysis and Design) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4067,7 +4067,7 @@
   },
   {
     "id": "64-IT-ITX_3007",
-    "text": "Course ITX 3007 (Software Engineering) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX 3007 (Software Engineering) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4080,7 +4080,7 @@
   },
   {
     "id": "64-IT-ITX_3008",
-    "text": "Course ITX 3008 (IT Project Management) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX 3008 (IT Project Management) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4093,7 +4093,7 @@
   },
   {
     "id": "64-IT-GE_2202",
-    "text": "Course GE 2202 (Ethics) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course GE 2202 (Ethics) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4106,7 +4106,7 @@
   },
   {
     "id": "64-IT-ITX_3009",
-    "text": "Course ITX 3009 (Senior Project I) in the IT program, offered in year(s) 64. Prerequisites: 3rd year & 72 credits.",
+    "text": "Course ITX 3009 (Senior Project I) in the IT program, for 64. Prerequisites: 3rd year & 72 credits.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4119,7 +4119,7 @@
   },
   {
     "id": "64-IT-ITX_3010",
-    "text": "Course ITX 3010 (Senior Project II) in the IT program, offered in year(s) 64. Prerequisites: 4th year & 100 credits.",
+    "text": "Course ITX 3010 (Senior Project II) in the IT program, for 64. Prerequisites: 4th year & 100 credits.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4132,7 +4132,7 @@
   },
   {
     "id": "64-IT-BBA_2001",
-    "text": "Course BBA 2001 (Human Behavior) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course BBA 2001 (Human Behavior) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4145,7 +4145,7 @@
   },
   {
     "id": "64-IT-BEC_2200",
-    "text": "Course BEC 2200 (Introduction to Economics) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course BEC 2200 (Introduction to Economics) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4158,7 +4158,7 @@
   },
   {
     "id": "64-IT-GE_1102",
-    "text": "Course GE 1102 (Introduction to Philosophy) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course GE 1102 (Introduction to Philosophy) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4171,7 +4171,7 @@
   },
   {
     "id": "64-IT-GE_1103",
-    "text": "Course GE 1103 (Historical Perspectives on Thailand) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course GE 1103 (Historical Perspectives on Thailand) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4184,7 +4184,7 @@
   },
   {
     "id": "64-IT-GE_1203",
-    "text": "Course GE 1203 (Society, Politics and Economics) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course GE 1203 (Society, Politics and Economics) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4197,7 +4197,7 @@
   },
   {
     "id": "64-IT-GE_1205",
-    "text": "Course GE 1205 (ASEAN Ways) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course GE 1205 (ASEAN Ways) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4210,7 +4210,7 @@
   },
   {
     "id": "64-IT-GE_1206",
-    "text": "Course GE 1206 (Philosophy of Sufficiency Economy) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course GE 1206 (Philosophy of Sufficiency Economy) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4223,7 +4223,7 @@
   },
   {
     "id": "64-General_Education-GE_1207",
-    "text": "Course GE 1207 (Fundamental Psychology) in the General Education program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course GE 1207 (Fundamental Psychology) in the General Education program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "General Education",
@@ -4236,7 +4236,7 @@
   },
   {
     "id": "64-General_Education-GE_1302",
-    "text": "Course GE 1302 (Ecology and Sustainability) in the General Education program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course GE 1302 (Ecology and Sustainability) in the General Education program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "General Education",
@@ -4249,7 +4249,7 @@
   },
   {
     "id": "64-General_Education-GE_1403",
-    "text": "Course GE 1403 (Communication in Thai) in the General Education program, offered in year(s) 64. Prerequisites: Thai Students.",
+    "text": "Course GE 1403 (Communication in Thai) in the General Education program, for 64. Prerequisites: Thai Students.",
     "metadata": {
       "year": "64",
       "program": "General Education",
@@ -4262,7 +4262,7 @@
   },
   {
     "id": "64-General_Education-GE_1405",
-    "text": "Course GE 1405 (Thai Language and Culture) in the General Education program, offered in year(s) 64. Prerequisites: Non-Thai Students.",
+    "text": "Course GE 1405 (Thai Language and Culture) in the General Education program, for 64. Prerequisites: Non-Thai Students.",
     "metadata": {
       "year": "64",
       "program": "General Education",
@@ -4275,7 +4275,7 @@
   },
   {
     "id": "64-General_Education-GE_1406",
-    "text": "Course GE 1406 (Burmese Language) in the General Education program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course GE 1406 (Burmese Language) in the General Education program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "General Education",
@@ -4288,7 +4288,7 @@
   },
   {
     "id": "64-General_Education-GE_1407",
-    "text": "Course GE 1407 (Russian Language) in the General Education program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course GE 1407 (Russian Language) in the General Education program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "General Education",
@@ -4301,7 +4301,7 @@
   },
   {
     "id": "64-General_Education-GE_2102",
-    "text": "Course GE 2102 (Human Heritage and Globalization) in the General Education program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course GE 2102 (Human Heritage and Globalization) in the General Education program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "General Education",
@@ -4314,7 +4314,7 @@
   },
   {
     "id": "64-General_Education-GE_2103",
-    "text": "Course GE 2103 (Art of Reasoning) in the General Education program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course GE 2103 (Art of Reasoning) in the General Education program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "General Education",
@@ -4327,7 +4327,7 @@
   },
   {
     "id": "64-General_Education-GE_2104",
-    "text": "Course GE 2104 (Thai Buddhism) in the General Education program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course GE 2104 (Thai Buddhism) in the General Education program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "General Education",
@@ -4340,7 +4340,7 @@
   },
   {
     "id": "64-General_Education-GE_2105",
-    "text": "Course GE 2105 (Introduction to World Religion) in the General Education program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course GE 2105 (Introduction to World Religion) in the General Education program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "General Education",
@@ -4353,7 +4353,7 @@
   },
   {
     "id": "64-General_Education-GE_2106",
-    "text": "Course GE 2106 (Logical Thinking and Application) in the General Education program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course GE 2106 (Logical Thinking and Application) in the General Education program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "General Education",
@@ -4366,7 +4366,7 @@
   },
   {
     "id": "64-General_Education-GE_2107",
-    "text": "Course GE 2107 (Applied Philosophy in Social Science and Humanities) in the General Education program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course GE 2107 (Applied Philosophy in Social Science and Humanities) in the General Education program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "General Education",
@@ -4379,7 +4379,7 @@
   },
   {
     "id": "64-General_Education-GE_2203",
-    "text": "Course GE 2203 (Art of Living) in the General Education program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course GE 2203 (Art of Living) in the General Education program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "General Education",
@@ -4392,7 +4392,7 @@
   },
   {
     "id": "64-General_Education-GE_2205",
-    "text": "Course GE 2205 (Communication and Multicultural Society) in the General Education program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course GE 2205 (Communication and Multicultural Society) in the General Education program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "General Education",
@@ -4405,7 +4405,7 @@
   },
   {
     "id": "64-General_Education-GE_2206",
-    "text": "Course GE 2206 (Personality Development) in the General Education program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course GE 2206 (Personality Development) in the General Education program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "General Education",
@@ -4418,7 +4418,7 @@
   },
   {
     "id": "64-General_Education-GE_2207",
-    "text": "Course GE 2207 (Sport, Health and Wellness Development) in the General Education program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course GE 2207 (Sport, Health and Wellness Development) in the General Education program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "General Education",
@@ -4431,7 +4431,7 @@
   },
   {
     "id": "64-General_Education-GE_2208",
-    "text": "Course GE 2208 (Thai Politics and Government) in the General Education program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course GE 2208 (Thai Politics and Government) in the General Education program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "General Education",
@@ -4444,7 +4444,7 @@
   },
   {
     "id": "64-General_Education-GE_2301",
-    "text": "Course GE 2301 (Lifestyles in Dynamic World) in the General Education program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course GE 2301 (Lifestyles in Dynamic World) in the General Education program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "General Education",
@@ -4457,7 +4457,7 @@
   },
   {
     "id": "64-General_Education-GE_2302",
-    "text": "Course GE 2302 (Climate Change and Human Life) in the General Education program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course GE 2302 (Climate Change and Human Life) in the General Education program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "General Education",
@@ -4470,7 +4470,7 @@
   },
   {
     "id": "64-General_Education-GE_2303",
-    "text": "Course GE 2303 (Building Brilliant Brain) in the General Education program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course GE 2303 (Building Brilliant Brain) in the General Education program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "General Education",
@@ -4483,7 +4483,7 @@
   },
   {
     "id": "64-General_Education-GE_3401",
-    "text": "Course GE 3401 (Public Speaking in Thai) in the General Education program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course GE 3401 (Public Speaking in Thai) in the General Education program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "General Education",
@@ -4496,7 +4496,7 @@
   },
   {
     "id": "64-Mathematics-MA_1200",
-    "text": "Course MA 1200 (Mathematics for Business) in the Mathematics program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course MA 1200 (Mathematics for Business) in the Mathematics program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "Mathematics",
@@ -4509,7 +4509,7 @@
   },
   {
     "id": "64-IT-ITX_4103",
-    "text": "Course ITX 4103 (Requirement Engineering) in the IT program, offered in year(s) 64. Prerequisites: ITX 3004 Information System Analysis and Design.",
+    "text": "Course ITX 4103 (Requirement Engineering) in the IT program, for 64. Prerequisites: ITX 3004 Information System Analysis and Design.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4522,7 +4522,7 @@
   },
   {
     "id": "64-IT-ITX_4104",
-    "text": "Course ITX 4104 (Software Testing) in the IT program, offered in year(s) 64. Prerequisites: ITX 3004 Information System Analysis and Design.",
+    "text": "Course ITX 4104 (Software Testing) in the IT program, for 64. Prerequisites: ITX 3004 Information System Analysis and Design.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4535,7 +4535,7 @@
   },
   {
     "id": "64-IT-ITX_4106",
-    "text": "Course ITX 4106 (Enterprise Architecture) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX 4106 (Enterprise Architecture) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4548,7 +4548,7 @@
   },
   {
     "id": "64-IT-ITX_4107",
-    "text": "Course ITX 4107 (Web Application Development) in the IT program, offered in year(s) 64. Prerequisites: ITX 2001 Object-Oriented Concepts and Programming.",
+    "text": "Course ITX 4107 (Web Application Development) in the IT program, for 64. Prerequisites: ITX 2001 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4561,7 +4561,7 @@
   },
   {
     "id": "64-IT-ITX_4108",
-    "text": "Course ITX 4108 (iOS Application Development) in the IT program, offered in year(s) 64. Prerequisites: ITX 2001 Object-Oriented Concepts and Programming.",
+    "text": "Course ITX 4108 (iOS Application Development) in the IT program, for 64. Prerequisites: ITX 2001 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4574,7 +4574,7 @@
   },
   {
     "id": "64-IT-ITX_4109",
-    "text": "Course ITX 4109 (Android Application Development) in the IT program, offered in year(s) 64. Prerequisites: ITX 2001 Object-Oriented Concepts and Programming.",
+    "text": "Course ITX 4109 (Android Application Development) in the IT program, for 64. Prerequisites: ITX 2001 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4587,7 +4587,7 @@
   },
   {
     "id": "64-IT-ITX_4201",
-    "text": "Course ITX 4201 (Artificial Intelligence Concepts) in the IT program, offered in year(s) 64. Prerequisites: ITX 2001 Object-Oriented Concepts and Programming.",
+    "text": "Course ITX 4201 (Artificial Intelligence Concepts) in the IT program, for 64. Prerequisites: ITX 2001 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4600,7 +4600,7 @@
   },
   {
     "id": "64-IT-ITX_4202",
-    "text": "Course ITX 4202 (Data Mining) in the IT program, offered in year(s) 64. Prerequisites: ITX 2001 Object-Oriented Concepts and Programming.",
+    "text": "Course ITX 4202 (Data Mining) in the IT program, for 64. Prerequisites: ITX 2001 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4613,7 +4613,7 @@
   },
   {
     "id": "64-IT-ITX_4203",
-    "text": "Course ITX 4203 (Machine Learning) in the IT program, offered in year(s) 64. Prerequisites: ITX 2001 Object-Oriented Concepts and Programming.",
+    "text": "Course ITX 4203 (Machine Learning) in the IT program, for 64. Prerequisites: ITX 2001 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4626,7 +4626,7 @@
   },
   {
     "id": "64-IT-ITX_4204",
-    "text": "Course ITX 4204 (Biometrics) in the IT program, offered in year(s) 64. Prerequisites: ITX 2001 Object-Oriented Concepts and Programming.",
+    "text": "Course ITX 4204 (Biometrics) in the IT program, for 64. Prerequisites: ITX 2001 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4639,7 +4639,7 @@
   },
   {
     "id": "64-IT-ITX_4205",
-    "text": "Course ITX 4205 (Big Data Analytics) in the IT program, offered in year(s) 64. Prerequisites: ITX 2006 Mathematics and Statistics for Data Science.",
+    "text": "Course ITX 4205 (Big Data Analytics) in the IT program, for 64. Prerequisites: ITX 2006 Mathematics and Statistics for Data Science.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4652,7 +4652,7 @@
   },
   {
     "id": "64-IT-ITX_4206",
-    "text": "Course ITX 4206 (Data Warehousing and Business Intelligence) in the IT program, offered in year(s) 64. Prerequisites: ITX 2006 Mathematics and Statistics for Data Science, ITX 3006 Database Management Systems.",
+    "text": "Course ITX 4206 (Data Warehousing and Business Intelligence) in the IT program, for 64. Prerequisites: ITX 2006 Mathematics and Statistics for Data Science, ITX 3006 Database Management Systems.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4666,7 +4666,7 @@
   },
   {
     "id": "64-IT-ITX_4207",
-    "text": "Course ITX 4207 (Decision Support and Recommendation Systems) in the IT program, offered in year(s) 64. Prerequisites: ITX 2006 Mathematics and Statistics for Data Science.",
+    "text": "Course ITX 4207 (Decision Support and Recommendation Systems) in the IT program, for 64. Prerequisites: ITX 2006 Mathematics and Statistics for Data Science.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4679,7 +4679,7 @@
   },
   {
     "id": "64-IT-ITX_4208",
-    "text": "Course ITX 4208 (Deep Learning) in the IT program, offered in year(s) 64. Prerequisites: ITX 4203 Machine Learning.",
+    "text": "Course ITX 4208 (Deep Learning) in the IT program, for 64. Prerequisites: ITX 4203 Machine Learning.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4692,7 +4692,7 @@
   },
   {
     "id": "64-IT-ITX_4209",
-    "text": "Course ITX 4209 (Intelligent System Development) in the IT program, offered in year(s) 64. Prerequisites: ITX 2001 Object-Oriented Concepts and Programming.",
+    "text": "Course ITX 4209 (Intelligent System Development) in the IT program, for 64. Prerequisites: ITX 2001 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4705,7 +4705,7 @@
   },
   {
     "id": "64-IT-ITX_4210",
-    "text": "Course ITX 4210 (Natural Language Processing and Social Interactions) in the IT program, offered in year(s) 64. Prerequisites: ITX 2001 Object-Oriented Concepts and Programming.",
+    "text": "Course ITX 4210 (Natural Language Processing and Social Interactions) in the IT program, for 64. Prerequisites: ITX 2001 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4718,7 +4718,7 @@
   },
   {
     "id": "64-IT-ITX_4301",
-    "text": "Course ITX 4301 (Network Design) in the IT program, offered in year(s) 64. Prerequisites: ITX 3005 Computer Networks.",
+    "text": "Course ITX 4301 (Network Design) in the IT program, for 64. Prerequisites: ITX 3005 Computer Networks.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4731,7 +4731,7 @@
   },
   {
     "id": "64-IT-ITX_4302",
-    "text": "Course ITX 4302 (Cisco Networking Workshop) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX 4302 (Cisco Networking Workshop) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4744,7 +4744,7 @@
   },
   {
     "id": "64-IT-ITX_4303",
-    "text": "Course ITX 4303 (Network Security) in the IT program, offered in year(s) 64. Prerequisites: ITX 3005 Computer Networks.",
+    "text": "Course ITX 4303 (Network Security) in the IT program, for 64. Prerequisites: ITX 3005 Computer Networks.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4757,7 +4757,7 @@
   },
   {
     "id": "64-IT-ITX_4304",
-    "text": "Course ITX 4304 (Network Management) in the IT program, offered in year(s) 64. Prerequisites: ITX 3005 Computer Networks.",
+    "text": "Course ITX 4304 (Network Management) in the IT program, for 64. Prerequisites: ITX 3005 Computer Networks.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4770,7 +4770,7 @@
   },
   {
     "id": "64-IT-ITX_4305",
-    "text": "Course ITX 4305 (Heterogeneous Wireless Networks) in the IT program, offered in year(s) 64. Prerequisites: ITX 3005 Computer Networks.",
+    "text": "Course ITX 4305 (Heterogeneous Wireless Networks) in the IT program, for 64. Prerequisites: ITX 3005 Computer Networks.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4783,7 +4783,7 @@
   },
   {
     "id": "64-IT-ITX_4306",
-    "text": "Course ITX 4306 (Internet of Things) in the IT program, offered in year(s) 64. Prerequisites: ITX 3005 Computer Networks.",
+    "text": "Course ITX 4306 (Internet of Things) in the IT program, for 64. Prerequisites: ITX 3005 Computer Networks.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4796,7 +4796,7 @@
   },
   {
     "id": "64-IT-ITX_4307",
-    "text": "Course ITX 4307 (Business Continuity Planning and Management) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX 4307 (Business Continuity Planning and Management) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4809,7 +4809,7 @@
   },
   {
     "id": "64-IT-ITX_4402",
-    "text": "Course ITX 4402 (Sales and Distribution Management System) in the IT program, offered in year(s) 64. Prerequisites: ITX 3003 Business Systems.",
+    "text": "Course ITX 4402 (Sales and Distribution Management System) in the IT program, for 64. Prerequisites: ITX 3003 Business Systems.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4822,7 +4822,7 @@
   },
   {
     "id": "64-IT-ITX_4403",
-    "text": "Course ITX 4403 (Manufacturing Management System) in the IT program, offered in year(s) 64. Prerequisites: ITX 3003 Business Systems.",
+    "text": "Course ITX 4403 (Manufacturing Management System) in the IT program, for 64. Prerequisites: ITX 3003 Business Systems.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4835,7 +4835,7 @@
   },
   {
     "id": "64-IT-ITX_4404",
-    "text": "Course ITX 4404 (Supply Chain Management System) in the IT program, offered in year(s) 64. Prerequisites: ITX 3003 Business Systems.",
+    "text": "Course ITX 4404 (Supply Chain Management System) in the IT program, for 64. Prerequisites: ITX 3003 Business Systems.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4848,7 +4848,7 @@
   },
   {
     "id": "64-IT-ITX_4405",
-    "text": "Course ITX 4405 (Finance and Accounting Information System) in the IT program, offered in year(s) 64. Prerequisites: ITX 3003 Business Systems, ACT 1601 Introduction to Accounting.",
+    "text": "Course ITX 4405 (Finance and Accounting Information System) in the IT program, for 64. Prerequisites: ITX 3003 Business Systems, ACT 1601 Introduction to Accounting.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4862,7 +4862,7 @@
   },
   {
     "id": "64-IT-ITX_4406",
-    "text": "Course ITX 4406 (Customer Relationship Management System) in the IT program, offered in year(s) 64. Prerequisites: ITX 3003.",
+    "text": "Course ITX 4406 (Customer Relationship Management System) in the IT program, for 64. Prerequisites: ITX 3003.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4875,7 +4875,7 @@
   },
   {
     "id": "64-IT-ITX_4407",
-    "text": "Course ITX 4407 (Enterprise Application Development) in the IT program, offered in year(s) 64. Prerequisites: ITX 3006.",
+    "text": "Course ITX 4407 (Enterprise Application Development) in the IT program, for 64. Prerequisites: ITX 3006.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4888,7 +4888,7 @@
   },
   {
     "id": "64-IT-ITX_4408",
-    "text": "Course ITX 4408 (Enterprise Database System) in the IT program, offered in year(s) 64. Prerequisites: ITX 3006.",
+    "text": "Course ITX 4408 (Enterprise Database System) in the IT program, for 64. Prerequisites: ITX 3006.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4901,7 +4901,7 @@
   },
   {
     "id": "64-IT-ITX_4407",
-    "text": "Course ITX 4407 (Enterprise Application Development) in the IT program, offered in year(s) 64. Prerequisites: ITX 3006.",
+    "text": "Course ITX 4407 (Enterprise Application Development) in the IT program, for 64. Prerequisites: ITX 3006.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4914,7 +4914,7 @@
   },
   {
     "id": "64-IT-ITX_4409",
-    "text": "Course ITX 4409 (Blockchain Technology) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX 4409 (Blockchain Technology) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4927,7 +4927,7 @@
   },
   {
     "id": "64-IT-ITX_4502",
-    "text": "Course ITX 4502 (Tech Startup) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX 4502 (Tech Startup) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4940,7 +4940,7 @@
   },
   {
     "id": "64-IT-ITX_4503",
-    "text": "Course ITX 4503 (Information System Security) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX 4503 (Information System Security) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4953,7 +4953,7 @@
   },
   {
     "id": "64-IT-ITX_4504",
-    "text": "Course ITX 4504 (Digital Marketing) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX 4504 (Digital Marketing) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4966,7 +4966,7 @@
   },
   {
     "id": "64-IT-ITX_4505",
-    "text": "Course ITX 4505 (Digital Transformation) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX 4505 (Digital Transformation) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4979,7 +4979,7 @@
   },
   {
     "id": "64-IT-ITX_4506",
-    "text": "Course ITX 4506 (Image Processing) in the IT program, offered in year(s) 64. Prerequisites: ITX 2010.",
+    "text": "Course ITX 4506 (Image Processing) in the IT program, for 64. Prerequisites: ITX 2010.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -4992,7 +4992,7 @@
   },
   {
     "id": "64-IT-ITX_4507",
-    "text": "Course ITX 4507 (Information Retrieval and Search Engines) in the IT program, offered in year(s) 64. Prerequisites: None.",
+    "text": "Course ITX 4507 (Information Retrieval and Search Engines) in the IT program, for 64. Prerequisites: None.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -5005,7 +5005,7 @@
   },
   {
     "id": "64-IT-ITX_4508",
-    "text": "Course ITX 4508 (Quantitative Research for Digital Business) in the IT program, offered in year(s) 64. Prerequisites: ITX 2003.",
+    "text": "Course ITX 4508 (Quantitative Research for Digital Business) in the IT program, for 64. Prerequisites: ITX 2003.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -5018,7 +5018,7 @@
   },
   {
     "id": "64-IT-['ITX_4600'-_'ITX_4601'-_'ITX_4602'-_'ITX_4603'-_'ITX_4604'-_'ITX_4605'-_'ITX_4606'-_'ITX_4607'-_'ITX_4608'-_'ITX_4609'-_'ITX_4610'-_'ITX_4611'-_'ITX_4612'-_'ITX_4613'-_'ITX_4614'-_'ITX_4615'-_'ITX_4616'-_'ITX_4617'-_'ITX_4618'-_'ITX_4619'-_'ITX_4620'-_'ITX_4621'-_'ITX_4622'-_'ITX_4623'-_'ITX_4624'-_'ITX_4625'-_'ITX_4626'-_'ITX_4627'-_'ITX_4628'-_'ITX_4629'-_'ITX_4630'-_'ITX_4631'-_'ITX_4632'-_'ITX_4633'-_'ITX_4634'-_'ITX_4635'-_'ITX_4636'-_'ITX_4637'-_'ITX_4638'-_'ITX_4639'-_'ITX_4640'-_'ITX_4641'-_'ITX_4642'-_'ITX_4643'-_'ITX_4644'-_'ITX_4645'-_'ITX_4646'-_'ITX_4647'-_'ITX_4648'-_'ITX_4649'-_'ITX_4650'-_'ITX_4651'-_'ITX_4652'-_'ITX_4653'-_'ITX_4654'-_'ITX_4655'-_'ITX_4656'-_'ITX_4657'-_'ITX_4658'-_'ITX_4659'-_'ITX_4660'-_'ITX_4661'-_'ITX_4662'-_'ITX_4663'-_'ITX_4664'-_'ITX_4665'-_'ITX_4666'-_'ITX_4667'-_'ITX_4668'-_'ITX_4669'-_'ITX_4670'-_'ITX_4671'-_'ITX_4672'-_'ITX_4673'-_'ITX_4674'-_'ITX_4675'-_'ITX_4676'-_'ITX_4677'-_'ITX_4678'-_'ITX_4679'-_'ITX_4680'-_'ITX_4681'-_'ITX_4682'-_'ITX_4683'-_'ITX_4684'-_'ITX_4685'-_'ITX_4686'-_'ITX_4687'-_'ITX_4688'-_'ITX_4689'-_'ITX_4690'-_'ITX_4691'-_'ITX_4692'-_'ITX_4693'-_'ITX_4694'-_'ITX_4695'-_'ITX_4696'-_'ITX_4697'-_'ITX_4698'-_'ITX_4699']",
-    "text": "Course ['ITX 4600', 'ITX 4601', 'ITX 4602', 'ITX 4603', 'ITX 4604', 'ITX 4605', 'ITX 4606', 'ITX 4607', 'ITX 4608', 'ITX 4609', 'ITX 4610', 'ITX 4611', 'ITX 4612', 'ITX 4613', 'ITX 4614', 'ITX 4615', 'ITX 4616', 'ITX 4617', 'ITX 4618', 'ITX 4619', 'ITX 4620', 'ITX 4621', 'ITX 4622', 'ITX 4623', 'ITX 4624', 'ITX 4625', 'ITX 4626', 'ITX 4627', 'ITX 4628', 'ITX 4629', 'ITX 4630', 'ITX 4631', 'ITX 4632', 'ITX 4633', 'ITX 4634', 'ITX 4635', 'ITX 4636', 'ITX 4637', 'ITX 4638', 'ITX 4639', 'ITX 4640', 'ITX 4641', 'ITX 4642', 'ITX 4643', 'ITX 4644', 'ITX 4645', 'ITX 4646', 'ITX 4647', 'ITX 4648', 'ITX 4649', 'ITX 4650', 'ITX 4651', 'ITX 4652', 'ITX 4653', 'ITX 4654', 'ITX 4655', 'ITX 4656', 'ITX 4657', 'ITX 4658', 'ITX 4659', 'ITX 4660', 'ITX 4661', 'ITX 4662', 'ITX 4663', 'ITX 4664', 'ITX 4665', 'ITX 4666', 'ITX 4667', 'ITX 4668', 'ITX 4669', 'ITX 4670', 'ITX 4671', 'ITX 4672', 'ITX 4673', 'ITX 4674', 'ITX 4675', 'ITX 4676', 'ITX 4677', 'ITX 4678', 'ITX 4679', 'ITX 4680', 'ITX 4681', 'ITX 4682', 'ITX 4683', 'ITX 4684', 'ITX 4685', 'ITX 4686', 'ITX 4687', 'ITX 4688', 'ITX 4689', 'ITX 4690', 'ITX 4691', 'ITX 4692', 'ITX 4693', 'ITX 4694', 'ITX 4695', 'ITX 4696', 'ITX 4697', 'ITX 4698', 'ITX 4699'] (Selected Topics) in the IT program, offered in year(s) 64. Prerequisites: 3rd/4th year.",
+    "text": "Course ['ITX 4600', 'ITX 4601', 'ITX 4602', 'ITX 4603', 'ITX 4604', 'ITX 4605', 'ITX 4606', 'ITX 4607', 'ITX 4608', 'ITX 4609', 'ITX 4610', 'ITX 4611', 'ITX 4612', 'ITX 4613', 'ITX 4614', 'ITX 4615', 'ITX 4616', 'ITX 4617', 'ITX 4618', 'ITX 4619', 'ITX 4620', 'ITX 4621', 'ITX 4622', 'ITX 4623', 'ITX 4624', 'ITX 4625', 'ITX 4626', 'ITX 4627', 'ITX 4628', 'ITX 4629', 'ITX 4630', 'ITX 4631', 'ITX 4632', 'ITX 4633', 'ITX 4634', 'ITX 4635', 'ITX 4636', 'ITX 4637', 'ITX 4638', 'ITX 4639', 'ITX 4640', 'ITX 4641', 'ITX 4642', 'ITX 4643', 'ITX 4644', 'ITX 4645', 'ITX 4646', 'ITX 4647', 'ITX 4648', 'ITX 4649', 'ITX 4650', 'ITX 4651', 'ITX 4652', 'ITX 4653', 'ITX 4654', 'ITX 4655', 'ITX 4656', 'ITX 4657', 'ITX 4658', 'ITX 4659', 'ITX 4660', 'ITX 4661', 'ITX 4662', 'ITX 4663', 'ITX 4664', 'ITX 4665', 'ITX 4666', 'ITX 4667', 'ITX 4668', 'ITX 4669', 'ITX 4670', 'ITX 4671', 'ITX 4672', 'ITX 4673', 'ITX 4674', 'ITX 4675', 'ITX 4676', 'ITX 4677', 'ITX 4678', 'ITX 4679', 'ITX 4680', 'ITX 4681', 'ITX 4682', 'ITX 4683', 'ITX 4684', 'ITX 4685', 'ITX 4686', 'ITX 4687', 'ITX 4688', 'ITX 4689', 'ITX 4690', 'ITX 4691', 'ITX 4692', 'ITX 4693', 'ITX 4694', 'ITX 4695', 'ITX 4696', 'ITX 4697', 'ITX 4698', 'ITX 4699'] (Selected Topics) in the IT program, for 64. Prerequisites: 3rd/4th year.",
     "metadata": {
       "year": "64",
       "program": "IT",
@@ -5132,7 +5132,7 @@
   },
   {
     "id": "65-IT-ELE_1001",
-    "text": "Course ELE 1001 (Communicative English I) in the IT program, offered in year(s) 65. Prerequisites: None.",
+    "text": "Course ELE 1001 (Communicative English I) in the IT program, for 65. Prerequisites: None.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5145,7 +5145,7 @@
   },
   {
     "id": "65-IT-BBA_1006",
-    "text": "Course BBA 1006 (Essential Economics for Entrepreneurs) in the IT program, offered in year(s) 65. Prerequisites: None.",
+    "text": "Course BBA 1006 (Essential Economics for Entrepreneurs) in the IT program, for 65. Prerequisites: None.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5158,7 +5158,7 @@
   },
   {
     "id": "65-IT-CSX_3001",
-    "text": "Course CSX 3001 (Fundamentals of Computer Programming) in the IT program, offered in year(s) 65. Prerequisites: None.",
+    "text": "Course CSX 3001 (Fundamentals of Computer Programming) in the IT program, for 65. Prerequisites: None.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5171,7 +5171,7 @@
   },
   {
     "id": "65-IT-ITX_3002",
-    "text": "Course ITX 3002 (Introduction to Information Technology) in the IT program, offered in year(s) 65. Prerequisites: None.",
+    "text": "Course ITX 3002 (Introduction to Information Technology) in the IT program, for 65. Prerequisites: None.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5184,7 +5184,7 @@
   },
   {
     "id": "65-IT-GE_1303",
-    "text": "Course GE 1303 (Science for Sustainable Future) in the IT program, offered in year(s) 65. Prerequisites: None.",
+    "text": "Course GE 1303 (Science for Sustainable Future) in the IT program, for 65. Prerequisites: None.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5197,7 +5197,7 @@
   },
   {
     "id": "65-IT-ELE_1002",
-    "text": "Course ELE 1002 (Communicative English II) in the IT program, offered in year(s) 65. Prerequisites: ELE 1001 - Communicative English I.",
+    "text": "Course ELE 1002 (Communicative English II) in the IT program, for 65. Prerequisites: ELE 1001 - Communicative English I.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5210,7 +5210,7 @@
   },
   {
     "id": "65-IT-BBA_1004",
-    "text": "Course BBA 1004 (Essential Marketing for Entrepreneurs) in the IT program, offered in year(s) 65. Prerequisites: None.",
+    "text": "Course BBA 1004 (Essential Marketing for Entrepreneurs) in the IT program, for 65. Prerequisites: None.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5223,7 +5223,7 @@
   },
   {
     "id": "65-IT-CSX_3002",
-    "text": "Course CSX 3002 (Object-Oriented Concepts and Programming) in the IT program, offered in year(s) 65. Prerequisites: CSX 3001 - Fundamentals of Computer Programming.",
+    "text": "Course CSX 3002 (Object-Oriented Concepts and Programming) in the IT program, for 65. Prerequisites: CSX 3001 - Fundamentals of Computer Programming.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5236,7 +5236,7 @@
   },
   {
     "id": "65-IT-ITX_2005",
-    "text": "Course ITX 2005 (Design Thinking) in the IT program, offered in year(s) 65. Prerequisites: None.",
+    "text": "Course ITX 2005 (Design Thinking) in the IT program, for 65. Prerequisites: None.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5249,7 +5249,7 @@
   },
   {
     "id": "65-IT-ITX_3003",
-    "text": "Course ITX 3003 (Business Systems) in the IT program, offered in year(s) 65. Prerequisites: ITX 3002 Introduction to Information Technology.",
+    "text": "Course ITX 3003 (Business Systems) in the IT program, for 65. Prerequisites: ITX 3002 Introduction to Information Technology.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5262,7 +5262,7 @@
   },
   {
     "id": "65-IT-GE_1410",
-    "text": "Course GE 1410 (Thai for Professional Communication) in the IT program, offered in year(s) 65. Prerequisites: GE1410 Thai Students\nGE1411 Non-Thai students\nGE1412 Thai students from International Program.",
+    "text": "Course GE 1410 (Thai for Professional Communication) in the IT program, for 65. Prerequisites: GE1410 Thai Students\nGE1411 Non-Thai students\nGE1412 Thai students from International Program.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5275,7 +5275,7 @@
   },
   {
     "id": "65-IT-GE_1411",
-    "text": "Course GE 1411 (Thai Language for Multicultural Communication) in the IT program, offered in year(s) 65. Prerequisites: GE1410 Thai Students\nGE1411 Non-Thai students\nGE1412 Thai students from International Program.",
+    "text": "Course GE 1411 (Thai Language for Multicultural Communication) in the IT program, for 65. Prerequisites: GE1410 Thai Students\nGE1411 Non-Thai students\nGE1412 Thai students from International Program.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5288,7 +5288,7 @@
   },
   {
     "id": "65-IT-GE_1412",
-    "text": "Course GE 1412 (Introductory Thai Usage) in the IT program, offered in year(s) 65. Prerequisites: GE1410 Thai Students\nGE1411 Non-Thai students\nGE1412 Thai students from International Program.",
+    "text": "Course GE 1412 (Introductory Thai Usage) in the IT program, for 65. Prerequisites: GE1410 Thai Students\nGE1411 Non-Thai students\nGE1412 Thai students from International Program.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5301,7 +5301,7 @@
   },
   {
     "id": "65-IT-ELE_2000",
-    "text": "Course ELE 2000 (Academic English) in the IT program, offered in year(s) 65. Prerequisites: ELE 1002 - Communicative English II.",
+    "text": "Course ELE 2000 (Academic English) in the IT program, for 65. Prerequisites: ELE 1002 - Communicative English II.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5314,7 +5314,7 @@
   },
   {
     "id": "65-IT-BBA_1005",
-    "text": "Course BBA 1005 (Essential Finance for Entrepreneurs) in the IT program, offered in year(s) 65. Prerequisites: None but BBA 1006 is recommended.",
+    "text": "Course BBA 1005 (Essential Finance for Entrepreneurs) in the IT program, for 65. Prerequisites: None but BBA 1006 is recommended.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5327,7 +5327,7 @@
   },
   {
     "id": "65-IT-CSX_2006",
-    "text": "Course CSX 2006 (Mathematics and Statistics for Data Science) in the IT program, offered in year(s) 65. Prerequisites: None.",
+    "text": "Course CSX 2006 (Mathematics and Statistics for Data Science) in the IT program, for 65. Prerequisites: None.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5340,7 +5340,7 @@
   },
   {
     "id": "65-IT-CSX_3003",
-    "text": "Course CSX 3003 (Data Structures and Algorithms) in the IT program, offered in year(s) 65. Prerequisites: CSX 3002 - Object-Oriented Concepts and Programming.",
+    "text": "Course CSX 3003 (Data Structures and Algorithms) in the IT program, for 65. Prerequisites: CSX 3002 - Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5353,7 +5353,7 @@
   },
   {
     "id": "65-IT-ITX_3007",
-    "text": "Course ITX 3007 (Software Engineering) in the IT program, offered in year(s) 65. Prerequisites: CSX 3002 - Object-Oriented Concepts and Programming.",
+    "text": "Course ITX 3007 (Software Engineering) in the IT program, for 65. Prerequisites: CSX 3002 - Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5366,7 +5366,7 @@
   },
   {
     "id": "65-IT-ELE_2001",
-    "text": "Course ELE 2001 (Advanced Academic English) in the IT program, offered in year(s) 65. Prerequisites: ELE 2000 - Academic English.",
+    "text": "Course ELE 2001 (Advanced Academic English) in the IT program, for 65. Prerequisites: ELE 2000 - Academic English.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5379,7 +5379,7 @@
   },
   {
     "id": "65-IT-BBA_1007",
-    "text": "Course BBA 1007 (Data Analytics for Entrepreneurs) in the IT program, offered in year(s) 65. Prerequisites: None but BBA 1006 is recommended.",
+    "text": "Course BBA 1007 (Data Analytics for Entrepreneurs) in the IT program, for 65. Prerequisites: None but BBA 1006 is recommended.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5392,7 +5392,7 @@
   },
   {
     "id": "65-IT-CSX_2009",
-    "text": "Course CSX 2009 (Cloud Computing) in the IT program, offered in year(s) 65. Prerequisites: None.",
+    "text": "Course CSX 2009 (Cloud Computing) in the IT program, for 65. Prerequisites: None.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5405,7 +5405,7 @@
   },
   {
     "id": "65-IT-ITX_2007",
-    "text": "Course ITX 2007 (Data Science) in the IT program, offered in year(s) 65. Prerequisites: CSX 2006 - Mathematics and Statistics for Data Science.",
+    "text": "Course ITX 2007 (Data Science) in the IT program, for 65. Prerequisites: CSX 2006 - Mathematics and Statistics for Data Science.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5418,7 +5418,7 @@
   },
   {
     "id": "65-IT-ITX_3006",
-    "text": "Course ITX 3006 (Database Management Systems) in the IT program, offered in year(s) 65. Prerequisites: CSX 3001 - Fundamentals of Computer Programming.",
+    "text": "Course ITX 3006 (Database Management Systems) in the IT program, for 65. Prerequisites: CSX 3001 - Fundamentals of Computer Programming.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5431,7 +5431,7 @@
   },
   {
     "id": "65-IT-GE_2110",
-    "text": "Course GE 2110 (Human Civilizations and Global Citizens) in the IT program, offered in year(s) 65. Prerequisites: None.",
+    "text": "Course GE 2110 (Human Civilizations and Global Citizens) in the IT program, for 65. Prerequisites: None.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5444,7 +5444,7 @@
   },
   {
     "id": "65-IT-CSX_3005",
-    "text": "Course CSX 3005 (Computer Networks) in the IT program, offered in year(s) 65. Prerequisites: None.",
+    "text": "Course CSX 3005 (Computer Networks) in the IT program, for 65. Prerequisites: None.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5457,7 +5457,7 @@
   },
   {
     "id": "65-IT-ITX_2009",
-    "text": "Course ITX 2009 (Presentation and Data Visualization Techniques) in the IT program, offered in year(s) 65. Prerequisites: None.",
+    "text": "Course ITX 2009 (Presentation and Data Visualization Techniques) in the IT program, for 65. Prerequisites: None.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5470,7 +5470,7 @@
   },
   {
     "id": "65-IT-ITX_3004",
-    "text": "Course ITX 3004 (Information Systems Analysis and Design) in the IT program, offered in year(s) 65. Prerequisites: ITX3006 Database Management Systems or CSX3006 Database Management Systems.",
+    "text": "Course ITX 3004 (Information Systems Analysis and Design) in the IT program, for 65. Prerequisites: ITX3006 Database Management Systems or CSX3006 Database Management Systems.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5483,7 +5483,7 @@
   },
   {
     "id": "65-IT-ITX_4503",
-    "text": "Course ITX 4503 (Information Systems Security) in the IT program, offered in year(s) 65. Prerequisites: ITX 3002 Introduction to Information Technology.",
+    "text": "Course ITX 4503 (Information Systems Security) in the IT program, for 65. Prerequisites: ITX 3002 Introduction to Information Technology.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5496,7 +5496,7 @@
   },
   {
     "id": "65-IT-ITX_3008",
-    "text": "Course ITX 3008 (IT Project Management) in the IT program, offered in year(s) 65. Prerequisites: Year 3 and >= 72 credits.",
+    "text": "Course ITX 3008 (IT Project Management) in the IT program, for 65. Prerequisites: Year 3 and >= 72 credits.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5509,7 +5509,7 @@
   },
   {
     "id": "65-IT-ITX_3009",
-    "text": "Course ITX 3009 (Senior Project I) in the IT program, offered in year(s) 65. Prerequisites: Year 3 and >= 72 credits.",
+    "text": "Course ITX 3009 (Senior Project I) in the IT program, for 65. Prerequisites: Year 3 and >= 72 credits.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5522,7 +5522,7 @@
   },
   {
     "id": "65-IT-GE_2202",
-    "text": "Course GE 2202 (Ethics) in the IT program, offered in year(s) 65. Prerequisites: None.",
+    "text": "Course GE 2202 (Ethics) in the IT program, for 65. Prerequisites: None.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5535,7 +5535,7 @@
   },
   {
     "id": "65-IT-ITX_3010",
-    "text": "Course ITX 3010 (Senior Project II) in the IT program, offered in year(s) 65. Prerequisites: Year 4 and >= 100 credits.",
+    "text": "Course ITX 3010 (Senior Project II) in the IT program, for 65. Prerequisites: Year 4 and >= 100 credits.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5548,7 +5548,7 @@
   },
   {
     "id": "65-IT-CSX_4107",
-    "text": "Course CSX 4107 (Web Application Development) in the IT program, offered in year(s) 65. Prerequisites: CSX 3002 - Object-Oriented Concepts and Programming.",
+    "text": "Course CSX 4107 (Web Application Development) in the IT program, for 65. Prerequisites: CSX 3002 - Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5561,7 +5561,7 @@
   },
   {
     "id": "65-IT-CSX_4201",
-    "text": "Course CSX 4201 (Artificial Intelligence Concepts) in the IT program, offered in year(s) 65. Prerequisites: CSX 3001 - Fundamentals of Computer Programming.",
+    "text": "Course CSX 4201 (Artificial Intelligence Concepts) in the IT program, for 65. Prerequisites: CSX 3001 - Fundamentals of Computer Programming.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5574,7 +5574,7 @@
   },
   {
     "id": "65-IT-ITX_4509",
-    "text": "Course ITX 4509 (Cybersecurity) in the IT program, offered in year(s) 65. Prerequisites: CSX 3005 - Computer Networks.",
+    "text": "Course ITX 4509 (Cybersecurity) in the IT program, for 65. Prerequisites: CSX 3005 - Computer Networks.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5587,7 +5587,7 @@
   },
   {
     "id": "65-IT-CSX_4109",
-    "text": "Course CSX 4109 (Android Application Development) in the IT program, offered in year(s) 65. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "text": "Course CSX 4109 (Android Application Development) in the IT program, for 65. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5600,7 +5600,7 @@
   },
   {
     "id": "65-IT-ITX_4103",
-    "text": "Course ITX 4103 (Requirement Engineering) in the IT program, offered in year(s) 65. Prerequisites: ITX 3007 Software Engineering.",
+    "text": "Course ITX 4103 (Requirement Engineering) in the IT program, for 65. Prerequisites: ITX 3007 Software Engineering.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5613,7 +5613,7 @@
   },
   {
     "id": "65-IT-ITX_4104",
-    "text": "Course ITX 4104 (Software Testing) in the IT program, offered in year(s) 65. Prerequisites: ITX 3007 Software Engineering.",
+    "text": "Course ITX 4104 (Software Testing) in the IT program, for 65. Prerequisites: ITX 3007 Software Engineering.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5626,7 +5626,7 @@
   },
   {
     "id": "65-IT-ITX_4110",
-    "text": "Course ITX 4110 (Enterprise System Integration) in the IT program, offered in year(s) 65. Prerequisites: ITX3003 Business Systems.",
+    "text": "Course ITX 4110 (Enterprise System Integration) in the IT program, for 65. Prerequisites: ITX3003 Business Systems.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5639,7 +5639,7 @@
   },
   {
     "id": "65-IT-ITX_4111",
-    "text": "Course ITX 4111 (Software Architectures) in the IT program, offered in year(s) 65. Prerequisites: CSX 3002 - Object-Oriented Concepts and Programming.",
+    "text": "Course ITX 4111 (Software Architectures) in the IT program, for 65. Prerequisites: CSX 3002 - Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5652,7 +5652,7 @@
   },
   {
     "id": "65-IT-ITX_4518",
-    "text": "Course ITX 4518 (Blockchain and Digital Currencies) in the IT program, offered in year(s) 65. Prerequisites: .",
+    "text": "Course ITX 4518 (Blockchain and Digital Currencies) in the IT program, for 65. Prerequisites: .",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5665,7 +5665,7 @@
   },
   {
     "id": "65-IT-ITX_4180-4199",
-    "text": "Course ITX 4180-4199 (Selected Topic [in Software Engineering]) in the IT program, offered in year(s) 65. Prerequisites: .",
+    "text": "Course ITX 4180-4199 (Selected Topic [in Software Engineering]) in the IT program, for 65. Prerequisites: .",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5678,7 +5678,7 @@
   },
   {
     "id": "65-IT-CSX_4201",
-    "text": "Course CSX 4201 (Artificial Intelligence Concepts) in the IT program, offered in year(s) 65. Prerequisites: CSX 3001 - Fundamentals of Computer Programming.",
+    "text": "Course CSX 4201 (Artificial Intelligence Concepts) in the IT program, for 65. Prerequisites: CSX 3001 - Fundamentals of Computer Programming.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5691,7 +5691,7 @@
   },
   {
     "id": "65-IT-CSX_4202",
-    "text": "Course CSX 4202 (Data Mining) in the IT program, offered in year(s) 65. Prerequisites: CSX 3001 - Fundamentals of Computer Programming.",
+    "text": "Course CSX 4202 (Data Mining) in the IT program, for 65. Prerequisites: CSX 3001 - Fundamentals of Computer Programming.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5704,7 +5704,7 @@
   },
   {
     "id": "65-IT-CSX_4211",
-    "text": "Course CSX 4211 (Data Engineering) in the IT program, offered in year(s) 65. Prerequisites: ITX3006 Database Management Systems or CSX3006 Database Management Systems.",
+    "text": "Course CSX 4211 (Data Engineering) in the IT program, for 65. Prerequisites: ITX3006 Database Management Systems or CSX3006 Database Management Systems.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5717,7 +5717,7 @@
   },
   {
     "id": "65-IT-ITX_4212",
-    "text": "Course ITX 4212 (Predictive Analytics) in the IT program, offered in year(s) 65. Prerequisites: ITX2007 Data Science.",
+    "text": "Course ITX 4212 (Predictive Analytics) in the IT program, for 65. Prerequisites: ITX2007 Data Science.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5730,7 +5730,7 @@
   },
   {
     "id": "65-IT-ITX_4213",
-    "text": "Course ITX 4213 (Artificial Intelligence for Business) in the IT program, offered in year(s) 65. Prerequisites: ITX2007 Data Science.",
+    "text": "Course ITX 4213 (Artificial Intelligence for Business) in the IT program, for 65. Prerequisites: ITX2007 Data Science.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5743,7 +5743,7 @@
   },
   {
     "id": "65-IT-ITX_4214",
-    "text": "Course ITX 4214 (Data Science Project Management) in the IT program, offered in year(s) 65. Prerequisites: ITX2007 Data Science.",
+    "text": "Course ITX 4214 (Data Science Project Management) in the IT program, for 65. Prerequisites: ITX2007 Data Science.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5756,7 +5756,7 @@
   },
   {
     "id": "65-IT-ITX_4215",
-    "text": "Course ITX 4215 (Business Insights and Visualization) in the IT program, offered in year(s) 65. Prerequisites: ITX2007 Data Science.",
+    "text": "Course ITX 4215 (Business Insights and Visualization) in the IT program, for 65. Prerequisites: ITX2007 Data Science.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5769,7 +5769,7 @@
   },
   {
     "id": "65-IT-ITX_4280-4299",
-    "text": "Course ITX 4280-4299 (Selected Topic [in Data Science]) in the IT program, offered in year(s) 65. Prerequisites: .",
+    "text": "Course ITX 4280-4299 (Selected Topic [in Data Science]) in the IT program, for 65. Prerequisites: .",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5782,7 +5782,7 @@
   },
   {
     "id": "65-IT-CA_1103",
-    "text": "Course CA 1103 (Computer Graphic Design) in the IT program, offered in year(s) 65. Prerequisites: .",
+    "text": "Course CA 1103 (Computer Graphic Design) in the IT program, for 65. Prerequisites: .",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5795,7 +5795,7 @@
   },
   {
     "id": "65-IT-CA_2110",
-    "text": "Course CA 2110 (Media Literacy and Ethical Concerns) in the IT program, offered in year(s) 65. Prerequisites: CA1100 Introduction to Communication.",
+    "text": "Course CA 2110 (Media Literacy and Ethical Concerns) in the IT program, for 65. Prerequisites: CA1100 Introduction to Communication.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5808,7 +5808,7 @@
   },
   {
     "id": "65-IT-CA_3100",
-    "text": "Course CA 3100 (Consumer Insight and Tools) in the IT program, offered in year(s) 65. Prerequisites: .",
+    "text": "Course CA 3100 (Consumer Insight and Tools) in the IT program, for 65. Prerequisites: .",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5821,7 +5821,7 @@
   },
   {
     "id": "65-IT-CA_3111",
-    "text": "Course CA 3111 (Creative Entrepreneurial Project Management) in the IT program, offered in year(s) 65. Prerequisites: CA1100 Introduction to Communication.",
+    "text": "Course CA 3111 (Creative Entrepreneurial Project Management) in the IT program, for 65. Prerequisites: CA1100 Introduction to Communication.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5834,7 +5834,7 @@
   },
   {
     "id": "65-IT-ITX_4213",
-    "text": "Course ITX 4213 (Artificial Intelligence for Business) in the IT program, offered in year(s) 65. Prerequisites: .",
+    "text": "Course ITX 4213 (Artificial Intelligence for Business) in the IT program, for 65. Prerequisites: .",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5847,7 +5847,7 @@
   },
   {
     "id": "65-IT-ITX_4215",
-    "text": "Course ITX 4215 (Business Insights and Visualization) in the IT program, offered in year(s) 65. Prerequisites: ITX2007 Data Science.",
+    "text": "Course ITX 4215 (Business Insights and Visualization) in the IT program, for 65. Prerequisites: ITX2007 Data Science.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5860,7 +5860,7 @@
   },
   {
     "id": "65-IT-ITX_4518",
-    "text": "Course ITX 4518 (Blockchain and Digital Currencies) in the IT program, offered in year(s) 65. Prerequisites: None.",
+    "text": "Course ITX 4518 (Blockchain and Digital Currencies) in the IT program, for 65. Prerequisites: None.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5873,7 +5873,7 @@
   },
   {
     "id": "65-IT-ITX_4900-4909",
-    "text": "Course ITX 4900-4909 (Selected Topic [in Marketing Technology]) in the IT program, offered in year(s) 65. Prerequisites: None.",
+    "text": "Course ITX 4900-4909 (Selected Topic [in Marketing Technology]) in the IT program, for 65. Prerequisites: None.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5886,7 +5886,7 @@
   },
   {
     "id": "65-IT-FT_4144",
-    "text": "Course FT 4144 (Food Ingredients Functionality) in the IT program, offered in year(s) 65. Prerequisites: None.",
+    "text": "Course FT 4144 (Food Ingredients Functionality) in the IT program, for 65. Prerequisites: None.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5899,7 +5899,7 @@
   },
   {
     "id": "65-IT-FT_4152",
-    "text": "Course FT 4152 (Bioinformatics for Food Technology) in the IT program, offered in year(s) 65. Prerequisites: None.",
+    "text": "Course FT 4152 (Bioinformatics for Food Technology) in the IT program, for 65. Prerequisites: None.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5912,7 +5912,7 @@
   },
   {
     "id": "65-IT-FT_4153",
-    "text": "Course FT 4153 (Integrated IOT to Smart and Green Food Industry) in the IT program, offered in year(s) 65. Prerequisites: None.",
+    "text": "Course FT 4153 (Integrated IOT to Smart and Green Food Industry) in the IT program, for 65. Prerequisites: None.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5925,7 +5925,7 @@
   },
   {
     "id": "65-IT-FT_4154",
-    "text": "Course FT 4154 (Intelligent Packaging Technology) in the IT program, offered in year(s) 65. Prerequisites: None.",
+    "text": "Course FT 4154 (Intelligent Packaging Technology) in the IT program, for 65. Prerequisites: None.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5938,7 +5938,7 @@
   },
   {
     "id": "65-IT-ITX_4213",
-    "text": "Course ITX 4213 (Artificial Intelligence for Business) in the IT program, offered in year(s) 65. Prerequisites: ITX2007 Data Science.",
+    "text": "Course ITX 4213 (Artificial Intelligence for Business) in the IT program, for 65. Prerequisites: ITX2007 Data Science.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5951,7 +5951,7 @@
   },
   {
     "id": "65-IT-ITX_4215",
-    "text": "Course ITX 4215 (Business Insights and Visualization) in the IT program, offered in year(s) 65. Prerequisites: ITX2007 Data Science.",
+    "text": "Course ITX 4215 (Business Insights and Visualization) in the IT program, for 65. Prerequisites: ITX2007 Data Science.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5964,7 +5964,7 @@
   },
   {
     "id": "65-IT-ITX_4910-4919",
-    "text": "Course ITX 4910-4919 (Selected Topic [in Food and Agriculture Technology]) in the IT program, offered in year(s) 65. Prerequisites: None.",
+    "text": "Course ITX 4910-4919 (Selected Topic [in Food and Agriculture Technology]) in the IT program, for 65. Prerequisites: None.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5977,7 +5977,7 @@
   },
   {
     "id": "65-IT-MB_3541",
-    "text": "Course MB 3541 (Online Social Media for Music Business) in the IT program, offered in year(s) 65. Prerequisites: None.",
+    "text": "Course MB 3541 (Online Social Media for Music Business) in the IT program, for 65. Prerequisites: None.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -5990,7 +5990,7 @@
   },
   {
     "id": "65-IT-MB_3550",
-    "text": "Course MB 3550 (Feasibility Study for Music Entrepreneur) in the IT program, offered in year(s) 65. Prerequisites: MB2531 Music Business and BBA 1104 Fundamentals of Marketing.",
+    "text": "Course MB 3550 (Feasibility Study for Music Entrepreneur) in the IT program, for 65. Prerequisites: MB2531 Music Business and BBA 1104 Fundamentals of Marketing.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6003,7 +6003,7 @@
   },
   {
     "id": "65-IT-MB_3551",
-    "text": "Course MB 3551 (Creative Music Entrepreneurship) in the IT program, offered in year(s) 65. Prerequisites: None.",
+    "text": "Course MB 3551 (Creative Music Entrepreneurship) in the IT program, for 65. Prerequisites: None.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6016,7 +6016,7 @@
   },
   {
     "id": "65-IT-IBE_2103",
-    "text": "Course IBE 2103 (Business Finance) in the IT program, offered in year(s) 65. Prerequisites: MA1000 Business Mathematics and Statistics or equivalent.",
+    "text": "Course IBE 2103 (Business Finance) in the IT program, for 65. Prerequisites: MA1000 Business Mathematics and Statistics or equivalent.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6029,7 +6029,7 @@
   },
   {
     "id": "65-IT-IBE_3101",
-    "text": "Course IBE 3101 (Business Analysis) in the IT program, offered in year(s) 65. Prerequisites: MA1000 Business Mathematics and Statistics or equivalent.",
+    "text": "Course IBE 3101 (Business Analysis) in the IT program, for 65. Prerequisites: MA1000 Business Mathematics and Statistics or equivalent.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6042,7 +6042,7 @@
   },
   {
     "id": "65-IT-BFN_3211",
-    "text": "Course BFN 3211 (Investment Strategy and Applied Valuation) in the IT program, offered in year(s) 65. Prerequisites: IBE2103 Business Financce and completion of 70credits.",
+    "text": "Course BFN 3211 (Investment Strategy and Applied Valuation) in the IT program, for 65. Prerequisites: IBE2103 Business Financce and completion of 70credits.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6055,7 +6055,7 @@
   },
   {
     "id": "65-IT-BFN_4314",
-    "text": "Course BFN 4314 (Personal Wealth Management and Financial Planning) in the IT program, offered in year(s) 65. Prerequisites: IBE2103 Business Financce and completion of 70credits.",
+    "text": "Course BFN 4314 (Personal Wealth Management and Financial Planning) in the IT program, for 65. Prerequisites: IBE2103 Business Financce and completion of 70credits.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6068,7 +6068,7 @@
   },
   {
     "id": "65-IT-BFN_4421",
-    "text": "Course BFN 4421 (Portfolio Management and Analysis) in the IT program, offered in year(s) 65. Prerequisites: BFN3211 Investment Strategy and Applied Valuation and completion of 70credits.",
+    "text": "Course BFN 4421 (Portfolio Management and Analysis) in the IT program, for 65. Prerequisites: BFN3211 Investment Strategy and Applied Valuation and completion of 70credits.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6081,7 +6081,7 @@
   },
   {
     "id": "65-IT-BFN_4431",
-    "text": "Course BFN 4431 (Startup Finance and FinTech) in the IT program, offered in year(s) 65. Prerequisites: BBA2103 Corporate Finance and completion of 100 credits.",
+    "text": "Course BFN 4431 (Startup Finance and FinTech) in the IT program, for 65. Prerequisites: BBA2103 Corporate Finance and completion of 100 credits.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6094,7 +6094,7 @@
   },
   {
     "id": "65-IT-ITX_4930-4939",
-    "text": "Course ITX 4930-4939 (Selected Topic [in Finance and Insurance Technologies]) in the IT program, offered in year(s) 65. Prerequisites: None.",
+    "text": "Course ITX 4930-4939 (Selected Topic [in Finance and Insurance Technologies]) in the IT program, for 65. Prerequisites: None.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6107,7 +6107,7 @@
   },
   {
     "id": "65-IT-CSX_4108",
-    "text": "Course CSX 4108 (iOS Application Development) in the IT program, offered in year(s) 65. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "text": "Course CSX 4108 (iOS Application Development) in the IT program, for 65. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6120,7 +6120,7 @@
   },
   {
     "id": "65-IT-CSX_4205",
-    "text": "Course CSX 4205 (Big Data Analytics) in the IT program, offered in year(s) 65. Prerequisites: CSX 3001 - Fundamentals of Computer Programming.",
+    "text": "Course CSX 4205 (Big Data Analytics) in the IT program, for 65. Prerequisites: CSX 3001 - Fundamentals of Computer Programming.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6133,7 +6133,7 @@
   },
   {
     "id": "65-IT-CSX_4306",
-    "text": "Course CSX 4306 (Internet of Things) in the IT program, offered in year(s) 65. Prerequisites: CSX 3005 - Computer Networks.",
+    "text": "Course CSX 4306 (Internet of Things) in the IT program, for 65. Prerequisites: CSX 3005 - Computer Networks.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6146,7 +6146,7 @@
   },
   {
     "id": "65-IT-CSX_4407",
-    "text": "Course CSX 4407 (Enterprise Application Development) in the IT program, offered in year(s) 65. Prerequisites: CSX3006/ ITX3006 Database Management System.",
+    "text": "Course CSX 4407 (Enterprise Application Development) in the IT program, for 65. Prerequisites: CSX3006/ ITX3006 Database Management System.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6159,7 +6159,7 @@
   },
   {
     "id": "65-IT-CSX_4514",
-    "text": "Course CSX 4514 (Cross-platform Application Development) in the IT program, offered in year(s) 65. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "text": "Course CSX 4514 (Cross-platform Application Development) in the IT program, for 65. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6172,7 +6172,7 @@
   },
   {
     "id": "65-IT-ITX_4106",
-    "text": "Course ITX 4106 (Enterprise Architectures) in the IT program, offered in year(s) 65. Prerequisites: ITX3003 Business Systems.",
+    "text": "Course ITX 4106 (Enterprise Architectures) in the IT program, for 65. Prerequisites: ITX3003 Business Systems.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6185,7 +6185,7 @@
   },
   {
     "id": "65-IT-ITX_4307",
-    "text": "Course ITX 4307 (Business Continuity Planning and Management) in the IT program, offered in year(s) 65. Prerequisites: ITX4503 Information Systems Secutiry.",
+    "text": "Course ITX 4307 (Business Continuity Planning and Management) in the IT program, for 65. Prerequisites: ITX4503 Information Systems Secutiry.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6198,7 +6198,7 @@
   },
   {
     "id": "65-IT-ITX_4403",
-    "text": "Course ITX 4403 (Manufacturing Management System) in the IT program, offered in year(s) 65. Prerequisites: ITX3003 Business Systems.",
+    "text": "Course ITX 4403 (Manufacturing Management System) in the IT program, for 65. Prerequisites: ITX3003 Business Systems.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6211,7 +6211,7 @@
   },
   {
     "id": "65-IT-ITX_4404",
-    "text": "Course ITX 4404 (Supply Chain Management System) in the IT program, offered in year(s) 65. Prerequisites: ITX3003 Business Systems.",
+    "text": "Course ITX 4404 (Supply Chain Management System) in the IT program, for 65. Prerequisites: ITX3003 Business Systems.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6224,7 +6224,7 @@
   },
   {
     "id": "65-IT-ITX_4502",
-    "text": "Course ITX 4502 (Tech Startup) in the IT program, offered in year(s) 65. Prerequisites: None.",
+    "text": "Course ITX 4502 (Tech Startup) in the IT program, for 65. Prerequisites: None.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6237,7 +6237,7 @@
   },
   {
     "id": "65-IT-ITX_4504",
-    "text": "Course ITX 4504 (Digital Marketing) in the IT program, offered in year(s) 65. Prerequisites: None.",
+    "text": "Course ITX 4504 (Digital Marketing) in the IT program, for 65. Prerequisites: None.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6250,7 +6250,7 @@
   },
   {
     "id": "65-IT-ITX_4505",
-    "text": "Course ITX 4505 (Digital Transformation) in the IT program, offered in year(s) 65. Prerequisites: ITX 3002 Introduction to Information Technology.",
+    "text": "Course ITX 4505 (Digital Transformation) in the IT program, for 65. Prerequisites: ITX 3002 Introduction to Information Technology.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6263,7 +6263,7 @@
   },
   {
     "id": "65-IT-ITX_4507",
-    "text": "Course ITX 4507 (Information Retrieval and Search Engines) in the IT program, offered in year(s) 65. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
+    "text": "Course ITX 4507 (Information Retrieval and Search Engines) in the IT program, for 65. Prerequisites: CSX3002 Object-Oriented Concepts and Programming.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6276,7 +6276,7 @@
   },
   {
     "id": "65-IT-ITX_4508",
-    "text": "Course ITX 4508 (Quantitative Research for Digital Business) in the IT program, offered in year(s) 65. Prerequisites: None.",
+    "text": "Course ITX 4508 (Quantitative Research for Digital Business) in the IT program, for 65. Prerequisites: None.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6289,7 +6289,7 @@
   },
   {
     "id": "65-IT-ITX_4509",
-    "text": "Course ITX 4509 (Cybersecurity) in the IT program, offered in year(s) 65. Prerequisites: CSX 3005 - Computer Networks.",
+    "text": "Course ITX 4509 (Cybersecurity) in the IT program, for 65. Prerequisites: CSX 3005 - Computer Networks.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6302,7 +6302,7 @@
   },
   {
     "id": "65-IT-ITX_4510",
-    "text": "Course ITX 4510 (Data Policies and Governance) in the IT program, offered in year(s) 65. Prerequisites: ITX2007 Data Science.",
+    "text": "Course ITX 4510 (Data Policies and Governance) in the IT program, for 65. Prerequisites: ITX2007 Data Science.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6315,7 +6315,7 @@
   },
   {
     "id": "65-IT-ITX_4511",
-    "text": "Course ITX 4511 (Internet of Behaviors) in the IT program, offered in year(s) 65. Prerequisites: ITX2007 Data Science.",
+    "text": "Course ITX 4511 (Internet of Behaviors) in the IT program, for 65. Prerequisites: ITX2007 Data Science.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6328,7 +6328,7 @@
   },
   {
     "id": "65-IT-ITX_4512",
-    "text": "Course ITX 4512 (Marketing Automation Systems) in the IT program, offered in year(s) 65. Prerequisites: ITX2007 Data Science.",
+    "text": "Course ITX 4512 (Marketing Automation Systems) in the IT program, for 65. Prerequisites: ITX2007 Data Science.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6341,7 +6341,7 @@
   },
   {
     "id": "65-IT-ITX_4513",
-    "text": "Course ITX 4513 (Social Media Analytics) in the IT program, offered in year(s) 65. Prerequisites: ITX2007 Data Science.",
+    "text": "Course ITX 4513 (Social Media Analytics) in the IT program, for 65. Prerequisites: ITX2007 Data Science.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6354,7 +6354,7 @@
   },
   {
     "id": "65-IT-ITX_4517",
-    "text": "Course ITX 4517 (Software Configuration Management) in the IT program, offered in year(s) 65. Prerequisites: None.",
+    "text": "Course ITX 4517 (Software Configuration Management) in the IT program, for 65. Prerequisites: None.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6367,7 +6367,7 @@
   },
   {
     "id": "65-IT-ITX_4519",
-    "text": "Course ITX 4519 (Internetworking Workshop) in the IT program, offered in year(s) 65. Prerequisites: ITX 3007 Software Engineering.",
+    "text": "Course ITX 4519 (Internetworking Workshop) in the IT program, for 65. Prerequisites: ITX 3007 Software Engineering.",
     "metadata": {
       "year": "65",
       "program": "IT",
@@ -6380,7 +6380,7 @@
   },
   {
     "id": "65-IT-['ITX4600'-_'ITX4601'-_'ITX4602'-_'ITX4603'-_'ITX4604'-_'ITX4605'-_'ITX4606'-_'ITX4607'-_'ITX4608'-_'ITX4609'-_'ITX4610'-_'ITX4611'-_'ITX4612'-_'ITX4613'-_'ITX4614'-_'ITX4615'-_'ITX4616'-_'ITX4617'-_'ITX4618'-_'ITX4619'-_'ITX4620'-_'ITX4621'-_'ITX4622'-_'ITX4623'-_'ITX4624'-_'ITX4625'-_'ITX4626'-_'ITX4627'-_'ITX4628'-_'ITX4629'-_'ITX4630'-_'ITX4631'-_'ITX4632'-_'ITX4633'-_'ITX4634'-_'ITX4635'-_'ITX4636'-_'ITX4637'-_'ITX4638'-_'ITX4639'-_'ITX4640'-_'ITX4641'-_'ITX4642'-_'ITX4643'-_'ITX4644'-_'ITX4645'-_'ITX4646'-_'ITX4647'-_'ITX4648'-_'ITX4649'-_'ITX4650'-_'ITX4651'-_'ITX4652'-_'ITX4653'-_'ITX4654'-_'ITX4655'-_'ITX4656'-_'ITX4657'-_'ITX4658'-_'ITX4659'-_'ITX4660'-_'ITX4661'-_'ITX4662'-_'ITX4663'-_'ITX4664'-_'ITX4665'-_'ITX4666'-_'ITX4667'-_'ITX4668'-_'ITX4669'-_'ITX4670'-_'ITX4671'-_'ITX4672'-_'ITX4673'-_'ITX4674'-_'ITX4675'-_'ITX4676'-_'ITX4677'-_'ITX4678'-_'ITX4679'-_'ITX4680'-_'ITX4681'-_'ITX4682'-_'ITX4683'-_'ITX4684'-_'ITX4685'-_'ITX4686'-_'ITX4687'-_'ITX4688'-_'ITX4689'-_'ITX4690'-_'ITX4691'-_'ITX4692'-_'ITX4693'-_'ITX4694'-_'ITX4695'-_'ITX4696'-_'ITX4697'-_'ITX4698'-_'ITX4699']",
-    "text": "Course ['ITX4600', 'ITX4601', 'ITX4602', 'ITX4603', 'ITX4604', 'ITX4605', 'ITX4606', 'ITX4607', 'ITX4608', 'ITX4609', 'ITX4610', 'ITX4611', 'ITX4612', 'ITX4613', 'ITX4614', 'ITX4615', 'ITX4616', 'ITX4617', 'ITX4618', 'ITX4619', 'ITX4620', 'ITX4621', 'ITX4622', 'ITX4623', 'ITX4624', 'ITX4625', 'ITX4626', 'ITX4627', 'ITX4628', 'ITX4629', 'ITX4630', 'ITX4631', 'ITX4632', 'ITX4633', 'ITX4634', 'ITX4635', 'ITX4636', 'ITX4637', 'ITX4638', 'ITX4639', 'ITX4640', 'ITX4641', 'ITX4642', 'ITX4643', 'ITX4644', 'ITX4645', 'ITX4646', 'ITX4647', 'ITX4648', 'ITX4649', 'ITX4650', 'ITX4651', 'ITX4652', 'ITX4653', 'ITX4654', 'ITX4655', 'ITX4656', 'ITX4657', 'ITX4658', 'ITX4659', 'ITX4660', 'ITX4661', 'ITX4662', 'ITX4663', 'ITX4664', 'ITX4665', 'ITX4666', 'ITX4667', 'ITX4668', 'ITX4669', 'ITX4670', 'ITX4671', 'ITX4672', 'ITX4673', 'ITX4674', 'ITX4675', 'ITX4676', 'ITX4677', 'ITX4678', 'ITX4679', 'ITX4680', 'ITX4681', 'ITX4682', 'ITX4683', 'ITX4684', 'ITX4685', 'ITX4686', 'ITX4687', 'ITX4688', 'ITX4689', 'ITX4690', 'ITX4691', 'ITX4692', 'ITX4693', 'ITX4694', 'ITX4695', 'ITX4696', 'ITX4697', 'ITX4698', 'ITX4699'] (Selected Topics) in the IT program, offered in year(s) 65. Prerequisites: None.",
+    "text": "Course ['ITX4600', 'ITX4601', 'ITX4602', 'ITX4603', 'ITX4604', 'ITX4605', 'ITX4606', 'ITX4607', 'ITX4608', 'ITX4609', 'ITX4610', 'ITX4611', 'ITX4612', 'ITX4613', 'ITX4614', 'ITX4615', 'ITX4616', 'ITX4617', 'ITX4618', 'ITX4619', 'ITX4620', 'ITX4621', 'ITX4622', 'ITX4623', 'ITX4624', 'ITX4625', 'ITX4626', 'ITX4627', 'ITX4628', 'ITX4629', 'ITX4630', 'ITX4631', 'ITX4632', 'ITX4633', 'ITX4634', 'ITX4635', 'ITX4636', 'ITX4637', 'ITX4638', 'ITX4639', 'ITX4640', 'ITX4641', 'ITX4642', 'ITX4643', 'ITX4644', 'ITX4645', 'ITX4646', 'ITX4647', 'ITX4648', 'ITX4649', 'ITX4650', 'ITX4651', 'ITX4652', 'ITX4653', 'ITX4654', 'ITX4655', 'ITX4656', 'ITX4657', 'ITX4658', 'ITX4659', 'ITX4660', 'ITX4661', 'ITX4662', 'ITX4663', 'ITX4664', 'ITX4665', 'ITX4666', 'ITX4667', 'ITX4668', 'ITX4669', 'ITX4670', 'ITX4671', 'ITX4672', 'ITX4673', 'ITX4674', 'ITX4675', 'ITX4676', 'ITX4677', 'ITX4678', 'ITX4679', 'ITX4680', 'ITX4681', 'ITX4682', 'ITX4683', 'ITX4684', 'ITX4685', 'ITX4686', 'ITX4687', 'ITX4688', 'ITX4689', 'ITX4690', 'ITX4691', 'ITX4692', 'ITX4693', 'ITX4694', 'ITX4695', 'ITX4696', 'ITX4697', 'ITX4698', 'ITX4699'] (Selected Topics) in the IT program, for 65. Prerequisites: None.",
     "metadata": {
       "year": "65",
       "program": "IT",
